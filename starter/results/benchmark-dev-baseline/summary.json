@@ -1,0 +1,45 @@
+{
+  "split": "dev",
+  "strategy": "B",
+  "top_k": 3,
+  "budget_chars": 800,
+  "n_questions": 16,
+  "results": [
+    {
+      "strategy": "dense",
+      "n": 16,
+      "hit1": 14,
+      "hit1_rate": 0.875,
+      "hit3": 14,
+      "hit3_rate": 0.875,
+      "context_hit": 2,
+      "context_hit_rate": 0.125,
+      "avg_context_chars": 260.5,
+      "median_ms": 81.18
+    },
+    {
+      "strategy": "lexical",
+      "n": 16,
+      "hit1": 11,
+      "hit1_rate": 0.6875,
+      "hit3": 12,
+      "hit3_rate": 0.75,
+      "context_hit": 2,
+      "context_hit_rate": 0.125,
+      "avg_context_chars": 349.3,
+      "median_ms": 2.1
+    },
+    {
+      "strategy": "hybrid",
+      "n": 16,
+      "hit1": 13,
+      "hit1_rate": 0.8125,
+      "hit3": 14,
+      "hit3_rate": 0.875,
+      "context_hit": 2,
+      "context_hit_rate": 0.125,
+      "avg_context_chars": 308.5,
+      "median_ms": 90.06
+    }
+  ]
+}

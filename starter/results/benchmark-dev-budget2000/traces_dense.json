@@ -1,0 +1,1260 @@
+[
+  {
+    "query_id": "q01",
+    "split": "dev",
+    "question": "How much faster has the World Bank Group made project preparation and approval?",
+    "top_k": 3,
+    "budget_chars": 2000,
+    "results": [
+      {
+        "id": "wbg-ar-2026:p6:para:002",
+        "text": "• Greater efficiency\nAcross the World Bank Group, we’ve consolidated country office leadership\nand eliminated bureaucratic duplication, making it faster and easier for us to\naddress our clients’ priorities. We cut average project-approval times from\n19 months to nine, with some low-risk projects approved in as little as 60 days.\n• Corporate initiatives\nWe’re deploying AI to accelerate our work and working with partners to promote\nAI solutions that are safe and impactful for everyone. We focus on practical\napplications that solve everyday problems in developing countries.\n• Clear outcomes\nOur Scorecard now focuses on 22 key metrics that show how our work creates\njobs and improves lives. And our Target Map keeps us ambitious against 10\nstrategic priorities. We publish our data online, making it more user-friendly and\nleading to better outcomes.\n9\nTHE WORLD BANK GROUP ANNUAL REPORT 20268\nTHE WORLD BANK GROUP ANNUAL REPORT 2026",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 6,
+        "metadata": {
+          "chunker": "para",
+          "section": "reforms_results",
+          "char_end": 2470,
+          "language": "en",
+          "char_start": 1533,
+          "fiscal_year": "FY26",
+          "content_hash": "54ea676f2b",
+          "document_type": "annual_report",
+          "section_title": "Reforms and Results"
+        },
+        "score": 0.85044,
+        "hit": true
+      },
+      {
+        "id": "wbg-ar-2026:p5:para:003",
+        "text": "We have fully embraced AI tools at the World Bank\nGroup, and we support clients to adopt, adapt, and\nthen advance them for their own needs. Our client\nengagements focus on Small AI — affordable, fitfor-purpose solutions designed for local conditions,\nincluding places with limited power, connectivity,\nand computing capacity. This is not a second-best\npath. It is a practical way to strengthen workers,\nhelp firms grow, improve services, support local\nentrepreneurs, and create more and better jobs.\nThere is much more to do, and no institution\ncan meet the jobs challenge alone. But this\nyear demonstrated what is possible when our\nshareholders, clients, partners, and staff work\ntogether with urgency and purpose.\nThe World Bank Group is faster, simpler, and\nbetter equipped to deliver. Now we must build\non that progress — and help create more jobs for\nmore people.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 5,
+        "metadata": {
+          "chunker": "para",
+          "section": "letter_president",
+          "char_end": 3359,
+          "language": "en",
+          "char_start": 2491,
+          "fiscal_year": "FY26",
+          "content_hash": "fdfa9a96e2",
+          "document_type": "annual_report",
+          "section_title": "Letter from the President"
+        },
+        "score": 0.839943,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p4:para:004",
+        "text": "The Executive Directors support the World Bank\nGroup’s urgent response to these crises while\nmaintaining a resolute focus on the long-term\nchallenge of creating jobs at scale. The Board is\nencouraged that countries can increasingly access\nfast-acting finance for emergency response,\nwith 79 countries to date utilizing Crisis Toolkit\nArrangements. In fiscal 2026, the Board reaffirmed\nits support for the World Bank Group’s strategic\ndrive to create more and better-paid jobs as total\nWorld Bank Group commitments for the year\nreached $123.5 billion.1\nThe Board welcomes the World Bank Group’s\nnew ways of working. By deepening collaboration\nacross our institutions, we are enhancing\nefficiency and accelerating our impact on the\nground. Forging new alliances with private\nsector partners and clients and strengthening\ncooperation with development partners ensures\nthat scarce resources are deployed where they can\ngenerate the most jobs and growth.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 4,
+        "metadata": {
+          "chunker": "para",
+          "section": "letter_executive_directors",
+          "char_end": 3820,
+          "language": "en",
+          "char_start": 2870,
+          "fiscal_year": "FY26",
+          "content_hash": "d88e749ae8",
+          "document_type": "annual_report",
+          "section_title": "Letter from the Executive Directors"
+        },
+        "score": 0.83951,
+        "hit": false
+      }
+    ],
+    "context": "[wbg-ar-2026:p6:para:002 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 6]\n• Greater efficiency\nAcross the World Bank Group, we’ve consolidated country office leadership\nand eliminated bureaucratic duplication, making it faster and easier for us to\naddress our clients’ priorities. We cut average project-approval times from\n19 months to nine, with some low-risk projects approved in as little as 60 days.\n• Corporate initiatives\nWe’re deploying AI to accelerate our work and working with partners to promote\nAI solutions that are safe and impactful for everyone. We focus on practical\napplications that solve everyday problems in developing countries.\n• Clear outcomes\nOur Scorecard now focuses on 22 key metrics that show how our work creates\njobs and improves lives. And our Target Map keeps us ambitious against 10\nstrategic priorities. We publish our data online, making it more user-friendly and\nleading to better outcomes.\n9\nTHE WORLD BANK GROUP ANNUAL REPORT 20268\nTHE WORLD BANK GROUP ANNUAL REPORT 2026",
+    "context_ids": [
+      "wbg-ar-2026:p6:para:002"
+    ],
+    "context_chars": 1082,
+    "elapsed_ms": 153.25,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q02",
+    "split": "dev",
+    "question": "How much private capital did the World Bank Group mobilize in fiscal 2026 compared with fiscal 2022?",
+    "top_k": 3,
+    "budget_chars": 2000,
+    "results": [
+      {
+        "id": "wbg-ar-2026:p32:para:001",
+        "text": "Over the past several years, IFC has been shifting\nits model to not only deploy its own capital but to\nmobilize more private capital from partners. That\nshift is reflected in our fiscal 2026 results. The World\nBank Group mobilized $112 billion in private capital\nin fiscal 2026, more than tripling from $35 billion in\nfiscal 2022. IFC contributes to that outcome through\na range of instruments and products — guarantees,\noriginate-to-distribute structures, catalytic equity,\nsyndications, anchor investments, transaction\nadvisory, and local-currency financing — each designed\nto address specific barriers that have historically\nconstrained private investment in developing\neconomies. In fiscal 2026, IFC achieved a record\n$105.6 billion in investment commitments, including\nover $73.6 billion in private capital mobilized.\nThose investments translate into real-world outcomes\nfor millions of people. The expected impact of IFC’s\nportfolio in fiscal 2026 includes:",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 32,
+        "metadata": {
+          "chunker": "para",
+          "section": "ifc",
+          "char_end": 1685,
+          "language": "en",
+          "char_start": 722,
+          "fiscal_year": "FY26",
+          "content_hash": "27891d6d6a",
+          "document_type": "annual_report",
+          "section_title": "IFC"
+        },
+        "score": 0.915819,
+        "hit": true
+      },
+      {
+        "id": "wbg-ar-2026:p18:para:001",
+        "text": "AND JOBS\nThe World Bank Group is adapting to meet the scale\nof the jobs challenge, shifting from a provider of\nfinance to a platform that channels global capital\nflows into developing countries. Rather than\nrelying principally on our balance sheets, we are\nincreasingly using financing, guarantees, data, and\nour convening role to crowd private capital into the\nmost productive sectors for job creation. This means\nbuilding investable pipelines, creating mechanisms\nthat allow risk to be distributed across a broader\nset of investors, and connecting a much larger pool\nof global capital to development opportunities.\nIn fiscal 2026, we made real progress and changes that\nare already translating into results. While financing\nfrom the World Bank Group’s own resources rose from\n$98 billion to $123.5 billion over the last five years,\nprivate capital mobilization surged from $35 billion in\nfiscal 2022 to $112 billion in fiscal 2026.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 18,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 1002,
+          "language": "en",
+          "char_start": 68,
+          "fiscal_year": "FY26",
+          "content_hash": "d075b5b9f5",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.8917,
+        "hit": true
+      },
+      {
+        "id": "wbg-ar-2026:p4:para:009",
+        "text": "Crucially, the World Bank\nGroup Scorecard is proving essential not only\nin monitoring progress but in reinforcing\ninstitutional accountability.\nMobilizing private capital at scale remained a\ncentral priority for shareholders in fiscal 2026.\nThrough targeted investments, advisory services,\nand robust risk mitigation instruments, the World\nBank Group has helped crowd in private financing\nfor infrastructure, agribusiness, manufacturing,\nand services — sectors that are indispensable for\njob creation. The Board welcomes the closing of\nthe second securitization transaction under the\nIFC’s Emerging Markets Securitization Program,\nwhich demonstrates the viability of the institution’s\noriginate-to-distribute model. Total private\ncapital mobilized during the fiscal year reached\n$112 billion, underscoring the World Bank\nGroup’s growing role as a multiplier of\ndevelopment finance.\n1. Includes IBRD, IDA, IFC, and MIGA gross guarantee issuance.\n5\nTHE WORLD BANK GROUP ANNUAL REPORT 20264\nTHE WORLD BANK GROUP ANNUAL REPORT 2026",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 4,
+        "metadata": {
+          "chunker": "para",
+          "section": "letter_executive_directors",
+          "char_end": 7325,
+          "language": "en",
+          "char_start": 6298,
+          "fiscal_year": "FY26",
+          "content_hash": "08acba8c55",
+          "document_type": "annual_report",
+          "section_title": "Letter from the Executive Directors"
+        },
+        "score": 0.890492,
+        "hit": false
+      }
+    ],
+    "context": "[wbg-ar-2026:p32:para:001 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 32]\nOver the past several years, IFC has been shifting\nits model to not only deploy its own capital but to\nmobilize more private capital from partners. That\nshift is reflected in our fiscal 2026 results. The World\nBank Group mobilized $112 billion in private capital\nin fiscal 2026, more than tripling from $35 billion in\nfiscal 2022. IFC contributes to that outcome through\na range of instruments and products — guarantees,\noriginate-to-distribute structures, catalytic equity,\nsyndications, anchor investments, transaction\nadvisory, and local-currency financing — each designed\nto address specific barriers that have historically\nconstrained private investment in developing\neconomies. In fiscal 2026, IFC achieved a record\n$105.6 billion in investment commitments, including\nover $73.6 billion in private capital mobilized.\nThose investments translate into real-world outcomes\nfor millions of people. The expected impact of IFC’s\nportfolio in fiscal 2026 includes:",
+    "context_ids": [
+      "wbg-ar-2026:p32:para:001"
+    ],
+    "context_chars": 1110,
+    "elapsed_ms": 104.41,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q03",
+    "split": "dev",
+    "question": "What share of Jordan's domestic water supply is the Aqaba-Amman Water Desalination and Conveyance Project expected to deliver by 2030?",
+    "top_k": 3,
+    "budget_chars": 2000,
+    "results": [
+      {
+        "id": "wbg-ar-2026:p9:para:001",
+        "text": "The government of Jordan is taking bold action to boost water security by\ninitiating its largest-ever infrastructure project, the Aqaba-Amman Water\nDesalination and Conveyance Project. By 2030, the project is expected\nto deliver approximately 40 percent of Jordan’s domestic water supply.\nThe project’s construction is directly creating 4,000 jobs and, indirectly,\napproximately 29,000 jobs, as well as advancing long-term job creation.\nThe World Bank Group is part of a pool of international lenders providing\nfinancing for the project: In fiscal 2026, the Board approved an IFC loan of\nup to $375 million. IFC is also acting as an accredited entity for a $220 million\nconcessional senior loan and a $75 million investment grant from the Green\nClimate Fund. For its part, MIGA received Board approval for guarantees of\nup to $1.25 billion.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 9,
+        "metadata": {
+          "chunker": "para",
+          "section": "jobs_strategy",
+          "char_end": 1044,
+          "language": "en",
+          "char_start": 204,
+          "fiscal_year": "FY26",
+          "content_hash": "d5cbc2e21a",
+          "document_type": "annual_report",
+          "section_title": "Jobs Strategy"
+        },
+        "score": 0.901982,
+        "hit": true
+      },
+      {
+        "id": "wbg-ar-2026:p9:para:002",
+        "text": "Complementing the Aqaba-Amman project is IBRD’s $300 million Jordan\nWater Sector Efficiency Project, which includes financing from partners. This\nis strengthening Jordan’s broader water sector through non-revenue water\nreduction, energy efficiency, and distribution-system readiness.\nThe World Bank Group’s support for Jordan’s water sector aligns with our\nWater Strategy Implementation Plan, which outlines how investments,\nlong-term policy reforms, and institutional sustainability can deliver water\nsecurity, economic growth, and job creation.\nCREATING\nFOUNDATIONAL\nINFRASTRUCTURE\nIN JORDAN\n33,000\nJOBS IN JORDAN WILL\nBE GENERATED WITH\nOUR SUPPORT\n15\nTHE WORLD BANK GROUP ANNUAL REPORT 202614\nTHE WORLD BANK GROUP ANNUAL REPORT 2026",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 9,
+        "metadata": {
+          "chunker": "para",
+          "section": "jobs_strategy",
+          "char_end": 1780,
+          "language": "en",
+          "char_start": 1045,
+          "fiscal_year": "FY26",
+          "content_hash": "a56b31188f",
+          "document_type": "annual_report",
+          "section_title": "Jobs Strategy"
+        },
+        "score": 0.88036,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p21:para:007",
+        "text": "We continue to support the Pandemic Fund, a\nWorld Bank-hosted partnership to boost resilience to\nfuture pandemics. In fiscal 2026, the Fund mobilized\n$220.6 million in accelerated support for the Ebola\ncrisis response.\nMULTILATERAL DEVELOPMENT BANKS\nWe work closely with other multilateral development\nbanks (MDBs) and international financial institutions\n(IFIs) to accelerate job creation by financing large-scale\nprojects, amplifying project impact, and promoting\ngreater efficiency in the use of development financing.\nIn fiscal 2026, the heads of MDBs committed to\nstrengthening collaboration on critical minerals to\nsupport resilient and responsible supply chains. We\njointly launched Water Forward to advance investable\nwater systems, and our Mission 300 partnership with\nthe African Development Bank has brought electricity\nto more than 56 million people across Africa.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 21,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 6446,
+          "language": "en",
+          "char_start": 5570,
+          "fiscal_year": "FY26",
+          "content_hash": "8a8e1ce6e2",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.81568,
+        "hit": false
+      }
+    ],
+    "context": "[wbg-ar-2026:p9:para:001 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 9]\nThe government of Jordan is taking bold action to boost water security by\ninitiating its largest-ever infrastructure project, the Aqaba-Amman Water\nDesalination and Conveyance Project. By 2030, the project is expected\nto deliver approximately 40 percent of Jordan’s domestic water supply.\nThe project’s construction is directly creating 4,000 jobs and, indirectly,\napproximately 29,000 jobs, as well as advancing long-term job creation.\nThe World Bank Group is part of a pool of international lenders providing\nfinancing for the project: In fiscal 2026, the Board approved an IFC loan of\nup to $375 million. IFC is also acting as an accredited entity for a $220 million\nconcessional senior loan and a $75 million investment grant from the Green\nClimate Fund. For its part, MIGA received Board approval for guarantees of\nup to $1.25 billion.\n\n[wbg-ar-2026:p9:para:002 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 9]\nComplementing the Aqaba-Amman project is IBRD’s $300 million Jordan\nWater Sector Efficiency Project, which includes financing from partners. This\nis strengthening Jordan’s broader water sector through non-revenue water\nreduction, energy efficiency, and distribution-system readiness.\nThe World Bank Group’s support for Jordan’s water sector aligns with our\nWater Strategy Implementation Plan, which outlines how investments,\nlong-term policy reforms, and institutional sustainability can deliver water\nsecurity, economic growth, and job creation.\nCREATING\nFOUNDATIONAL\nINFRASTRUCTURE\nIN JORDAN\n33,000\nJOBS IN JORDAN WILL\nBE GENERATED WITH\nOUR SUPPORT\n15\nTHE WORLD BANK GROUP ANNUAL REPORT 202614\nTHE WORLD BANK GROUP ANNUAL REPORT 2026",
+    "context_ids": [
+      "wbg-ar-2026:p9:para:001",
+      "wbg-ar-2026:p9:para:002"
+    ],
+    "context_chars": 1867,
+    "elapsed_ms": 88.16,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q04",
+    "split": "dev",
+    "question": "How many people should get power from the two OKKO wind farms that IFC helped finance in Ukraine?",
+    "top_k": 3,
+    "budget_chars": 2000,
+    "results": [
+      {
+        "id": "wbg-ar-2026:p10:para:002",
+        "text": "In close coordination, IFC’s €50 million financing and support from partners unlocked\nthe private investment to build a new 189 megawatt (MW) wind power plant by the\nUkrainian company OKKO, complementing an earlier 147 MW project. The two projects\nare expected to contribute to Ukraine’s energy grid stability and provide electricity to\naround 800,000 people. Together with additional renewable energy projects supported by\nIFC and partners, these private sector investments are expected to add approximately\n715 MW of new capacity.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 10,
+        "metadata": {
+          "chunker": "para",
+          "section": "jobs_strategy",
+          "char_end": 1551,
+          "language": "en",
+          "char_start": 1019,
+          "fiscal_year": "FY26",
+          "content_hash": "6efd17d7a8",
+          "document_type": "annual_report",
+          "section_title": "Jobs Strategy"
+        },
+        "score": 0.919245,
+        "hit": true
+      },
+      {
+        "id": "wbg-ar-2026:p10:para:001",
+        "text": "The World Bank Group is also offering Ukraine comprehensive financial and technical\nsupport. Re-PoWER, a World Bank trust fund-financed project, secured $403 million in\ngrants to restore electricity and heating for millions of people. In fiscal 2026, more than\n$150 million of these grants were allocated for heating units, as well as for equipment\nneeded to secure power imports from the EU. Another project is rehabilitating\nhydropower plants and delivering reliable power to affected communities.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 10,
+        "metadata": {
+          "chunker": "para",
+          "section": "jobs_strategy",
+          "char_end": 1018,
+          "language": "en",
+          "char_start": 519,
+          "fiscal_year": "FY26",
+          "content_hash": "c4a354b03a",
+          "document_type": "annual_report",
+          "section_title": "Jobs Strategy"
+        },
+        "score": 0.8415,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p25:para:009",
+        "text": "In the Democratic Republic\nof the Congo, the United Kingdom, through a new trust\nfund contribution, supported IFC’s Scaling Finance for\nAgribusinesses program, which aims to create jobs and\nimprove livelihoods by expanding access to finance,\nagricultural equipment, and business opportunities\nfor women entrepreneurs, smallholder farmers, and\nagricultural small businesses. In Ukraine, the JapanIFC Comprehensive Trust Fund is supporting the\ndevelopment of the NovaSklo Greenfield project, which\naims to establish the country’s first domestic floatglass manufacturing facility through feasibility, risk,\nenvironmental and social, and corporate governance\nreviews; financial modeling; and prospective investor\nengagement. Once operational, it is expected to\nsupport Ukraine’s reconstruction by reducing reliance\non imports, creating more than 300 direct jobs, and\ngenerating additional employment across related\nvalue chains.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 25,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 7732,
+          "language": "en",
+          "char_start": 6808,
+          "fiscal_year": "FY26",
+          "content_hash": "01c2e678f6",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.839586,
+        "hit": false
+      }
+    ],
+    "context": "[wbg-ar-2026:p10:para:002 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 10]\nIn close coordination, IFC’s €50 million financing and support from partners unlocked\nthe private investment to build a new 189 megawatt (MW) wind power plant by the\nUkrainian company OKKO, complementing an earlier 147 MW project. The two projects\nare expected to contribute to Ukraine’s energy grid stability and provide electricity to\naround 800,000 people. Together with additional renewable energy projects supported by\nIFC and partners, these private sector investments are expected to add approximately\n715 MW of new capacity.\n\n[wbg-ar-2026:p10:para:001 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 10]\nThe World Bank Group is also offering Ukraine comprehensive financial and technical\nsupport. Re-PoWER, a World Bank trust fund-financed project, secured $403 million in\ngrants to restore electricity and heating for millions of people. In fiscal 2026, more than\n$150 million of these grants were allocated for heating units, as well as for equipment\nneeded to secure power imports from the EU. Another project is rehabilitating\nhydropower plants and delivering reliable power to affected communities.",
+    "context_ids": [
+      "wbg-ar-2026:p10:para:002",
+      "wbg-ar-2026:p10:para:001"
+    ],
+    "context_chars": 1327,
+    "elapsed_ms": 79.19,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q05",
+    "split": "dev",
+    "question": "How many family farms does the World Bank Group partnership with Brazil aim to support by 2030, and with what kind of help?",
+    "top_k": 3,
+    "budget_chars": 2000,
+    "results": [
+      {
+        "id": "wbg-ar-2026:p11:para:000",
+        "text": "Brazil’s family farms employ nearly 10 million people and play a central\nrole in food production. Our partnership with the government, launched\nin fiscal 2026, aims to support 1 million family farms with improved\ntechnology, market logistics, and insurance by 2030.\nThis partnership is part of the World Bank Group’s strategic priority\nthat aims to move 300 million farmers from subsistence to surplus.\nOur three-pillar strategy leverages the World Bank Group’s unique\ncapabilities. First, the World Bank and IFC strengthen the foundations\nof family farms by investing in physical and human capital, such as rural\nroads and research. Then, they align regulations, streamline standards,\nrepurpose subsidies, and remove barriers to doing business. Finally,\nthe World Bank Group expands access to finance through MIGA’s\nguarantees and insurance, as well as partnerships created by the\nWorld Bank and IFC. The private sector is a critical partner across\nall three pillars.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 11,
+        "metadata": {
+          "chunker": "para",
+          "section": "jobs_strategy",
+          "char_end": 968,
+          "language": "en",
+          "char_start": 0,
+          "fiscal_year": "FY26",
+          "content_hash": "fe3474b9ab",
+          "document_type": "annual_report",
+          "section_title": "Jobs Strategy"
+        },
+        "score": 0.939311,
+        "hit": true
+      },
+      {
+        "id": "wbg-ar-2026:p11:para:001",
+        "text": "With this approach, we’ll create an integrated pathway for family\nfarms to access markets, finance, technology, and resilience tools.\nWe’re working quickly because family farms around the world, including\n500 million smallholder farmers, produce most of the world’s food,\nyet many remain in poverty, relying on traditional farming methods\nand lacking access to markets, finance, and technology. Supporting\nthem to become commercially successful is critical to creating jobs,\nreducing poverty, and improving global food security. Our strategy\nunlocks the knowledge, capital, and political will to seize that potential.\nGROWING\nBRAZIL’S\nAGRIBUSINESS\nSECTOR\n1M\nFAMILY FARMS IN\nBRAZIL WILL RECEIVE\nOUR SUPPORT BY 2030\n19\nTHE WORLD BANK GROUP ANNUAL REPORT 202618\nTHE WORLD BANK GROUP ANNUAL REPORT 2026",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 11,
+        "metadata": {
+          "chunker": "para",
+          "section": "jobs_strategy",
+          "char_end": 1767,
+          "language": "en",
+          "char_start": 969,
+          "fiscal_year": "FY26",
+          "content_hash": "0145f5d692",
+          "document_type": "annual_report",
+          "section_title": "Jobs Strategy"
+        },
+        "score": 0.885564,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p4:para:008",
+        "text": "The Executive Directors are encouraged to see\nnew targets driving real change and maintaining\nthe World Bank Group’s focus on job creation.\nThe Target Map, launched in fiscal 2026, aligns\nour ambitions against 10 strategic priorities that\nenable job creation, including AgriConnect, Mission\n300, and Water Forward. The institution continues\nto make vital progress toward the ambitious goal\nof delivering quality, affordable health services\nto 1.5 billion people by 2030. Alongside these\nhealth initiatives, the Board emphasizes the\nimportance of ongoing efforts to empower women\nby expanding their access to social protection and\ncredit. The Board strongly supports the World\nBank Group’s efforts to help countries expand\nbroadband connectivity, strengthen digital systems\nand data infrastructure, and build the digital and\nAI skills necessary for workers to participate in\nan AI-enabled economy.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 4,
+        "metadata": {
+          "chunker": "para",
+          "section": "letter_executive_directors",
+          "char_end": 6298,
+          "language": "en",
+          "char_start": 5401,
+          "fiscal_year": "FY26",
+          "content_hash": "6f54423746",
+          "document_type": "annual_report",
+          "section_title": "Letter from the Executive Directors"
+        },
+        "score": 0.859927,
+        "hit": false
+      }
+    ],
+    "context": "[wbg-ar-2026:p11:para:000 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 11]\nBrazil’s family farms employ nearly 10 million people and play a central\nrole in food production. Our partnership with the government, launched\nin fiscal 2026, aims to support 1 million family farms with improved\ntechnology, market logistics, and insurance by 2030.\nThis partnership is part of the World Bank Group’s strategic priority\nthat aims to move 300 million farmers from subsistence to surplus.\nOur three-pillar strategy leverages the World Bank Group’s unique\ncapabilities. First, the World Bank and IFC strengthen the foundations\nof family farms by investing in physical and human capital, such as rural\nroads and research. Then, they align regulations, streamline standards,\nrepurpose subsidies, and remove barriers to doing business. Finally,\nthe World Bank Group expands access to finance through MIGA’s\nguarantees and insurance, as well as partnerships created by the\nWorld Bank and IFC. The private sector is a critical partner across\nall three pillars.",
+    "context_ids": [
+      "wbg-ar-2026:p11:para:000"
+    ],
+    "context_chars": 1115,
+    "elapsed_ms": 78.21,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q06",
+    "split": "dev",
+    "question": "By how much has air passenger traffic in Cabo Verde grown since IFC began financing its airports?",
+    "top_k": 3,
+    "budget_chars": 2000,
+    "results": [
+      {
+        "id": "wbg-ar-2026:p13:para:002",
+        "text": "IFC has anchored the private sector transformation. In December 2023,\nIFC arranged a financing package of up to €35.5 million for Oásis Atlântico,\none of the country’s leading hospitality operators. The investment supports\nmore than 700 direct jobs and 20,000 indirect jobs, and linkages with over\n700 small suppliers and farmers. IFC has also extended two successive\nsustainability-linked loans to Cabo Verde Airports S.A., a subsidiary of VINCI\nAirports, with the most recent reaching up to €60 million in February 2026.\nThe financing has modernized and greened the country’s seven airports,\ncreated over 2,000 direct jobs and 1,200 indirect jobs, and helped establish\n35 new air routes — driving a 60 percent surge in passenger volumes\nsince 2022.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 13,
+        "metadata": {
+          "chunker": "para",
+          "section": "jobs_strategy",
+          "char_end": 2052,
+          "language": "en",
+          "char_start": 1302,
+          "fiscal_year": "FY26",
+          "content_hash": "f4ce83a9a6",
+          "document_type": "annual_report",
+          "section_title": "Jobs Strategy"
+        },
+        "score": 0.896509,
+        "hit": true
+      },
+      {
+        "id": "wbg-ar-2026:p13:para:000",
+        "text": "Tourism is an engine of Cabo Verde’s economy, accounting for over a\nquarter of GDP. But for years, the sector has been constrained by a narrow\nmodel dominated by all-inclusive resorts in only two of the archipelago’s\n10 islands, with few links to local businesses. Infrastructure deficits, a\nshortage of skilled hospitality workers, and the absence of a coherent\nframework for attracting quality investment left the country exposed and\nits potential unrealized.\nThe World Bank Group has worked across its private and public sector\narms to help Cabo Verde chart a more diversified and inclusive tourism\nsector. Two World Bank operations — the Resilient Tourism and Blue\nEconomy Development Project and the Improving Connectivity and Urban\nInfrastructure Project — are strengthening the sector’s governance and\ninstitutional framework, while upgrading critical infrastructure, including\ncoastal and jetty facilities, maritime passenger terminals, heritage sites,\nand public spaces.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 13,
+        "metadata": {
+          "chunker": "para",
+          "section": "jobs_strategy",
+          "char_end": 979,
+          "language": "en",
+          "char_start": 0,
+          "fiscal_year": "FY26",
+          "content_hash": "926dec3f55",
+          "document_type": "annual_report",
+          "section_title": "Jobs Strategy"
+        },
+        "score": 0.824693,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p37:para:002",
+        "text": "Across the Sahel, the initiative has already enabled\n$55.4 million in IFC financing.\nAccountability is explicit. Going forward, IFC will report\nFCV results separately rather than aggregated into\nregional totals. Jobs will be tracked and disclosed at\nthe project level. Private capital mobilized and IFC\nsubsidies deployed will be reported deal by deal, while\nthe Independent Evaluation Group will conduct a full\noutcomes evaluation of the FCV portfolio in 2027.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 37,
+        "metadata": {
+          "chunker": "para",
+          "section": "ifc",
+          "char_end": 1873,
+          "language": "en",
+          "char_start": 1412,
+          "fiscal_year": "FY26",
+          "content_hash": "a7a1f0fd6e",
+          "document_type": "annual_report",
+          "section_title": "IFC"
+        },
+        "score": 0.818601,
+        "hit": false
+      }
+    ],
+    "context": "[wbg-ar-2026:p13:para:002 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 13]\nIFC has anchored the private sector transformation. In December 2023,\nIFC arranged a financing package of up to €35.5 million for Oásis Atlântico,\none of the country’s leading hospitality operators. The investment supports\nmore than 700 direct jobs and 20,000 indirect jobs, and linkages with over\n700 small suppliers and farmers. IFC has also extended two successive\nsustainability-linked loans to Cabo Verde Airports S.A., a subsidiary of VINCI\nAirports, with the most recent reaching up to €60 million in February 2026.\nThe financing has modernized and greened the country’s seven airports,\ncreated over 2,000 direct jobs and 1,200 indirect jobs, and helped establish\n35 new air routes — driving a 60 percent surge in passenger volumes\nsince 2022.\n\n[wbg-ar-2026:p37:para:002 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 37]\nAcross the Sahel, the initiative has already enabled\n$55.4 million in IFC financing.\nAccountability is explicit. Going forward, IFC will report\nFCV results separately rather than aggregated into\nregional totals. Jobs will be tracked and disclosed at\nthe project level. Private capital mobilized and IFC\nsubsidies deployed will be reported deal by deal, while\nthe Independent Evaluation Group will conduct a full\noutcomes evaluation of the FCV portfolio in 2027.",
+    "context_ids": [
+      "wbg-ar-2026:p13:para:002",
+      "wbg-ar-2026:p37:para:002"
+    ],
+    "context_chars": 1507,
+    "elapsed_ms": 78.73,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q07",
+    "split": "dev",
+    "question": "How much did IFC invest in Hygenco Green Energies in fiscal 2026?",
+    "top_k": 3,
+    "budget_chars": 2000,
+    "results": [
+      {
+        "id": "wbg-ar-2026:p14:para:000",
+        "text": "India aspires to become an upper-middle-income economy in the next\ndecade. Its National Green Hydrogen Mission, which aims to catalyze\n600,000 jobs by 2030, is critical to meeting this goal.\nSince 2021, the World Bank Group has helped India advance\nhydrogen hub planning, enabling infrastructure, and public-private\nengagement to mobilize private sector investment. In fiscal 2026, IFC\ninvested $25 million in Hygenco Green Energies — its first direct green\nhydrogen investment in India. This investment is complemented by\ntwo IFC-managed blended finance facilities, the Clean Technology\nFund ($20 million) and the Frontier Opportunities Fund ($5 million),\nwhich altogether enabled $55 million in co-investment from other\nprivate sector partners.\nThe total financing package, including equity from other partners, will\nsupport the creation of more than 1,000 direct and indirect jobs across\nthe green hydrogen value chain and broader industrial ecosystem over\nthe next five years.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 14,
+        "metadata": {
+          "chunker": "para",
+          "section": "jobs_strategy",
+          "char_end": 980,
+          "language": "en",
+          "char_start": 0,
+          "fiscal_year": "FY26",
+          "content_hash": "0a261c9f7d",
+          "document_type": "annual_report",
+          "section_title": "Jobs Strategy"
+        },
+        "score": 0.897956,
+        "hit": true
+      },
+      {
+        "id": "wbg-ar-2026:p32:para:001",
+        "text": "Over the past several years, IFC has been shifting\nits model to not only deploy its own capital but to\nmobilize more private capital from partners. That\nshift is reflected in our fiscal 2026 results. The World\nBank Group mobilized $112 billion in private capital\nin fiscal 2026, more than tripling from $35 billion in\nfiscal 2022. IFC contributes to that outcome through\na range of instruments and products — guarantees,\noriginate-to-distribute structures, catalytic equity,\nsyndications, anchor investments, transaction\nadvisory, and local-currency financing — each designed\nto address specific barriers that have historically\nconstrained private investment in developing\neconomies. In fiscal 2026, IFC achieved a record\n$105.6 billion in investment commitments, including\nover $73.6 billion in private capital mobilized.\nThose investments translate into real-world outcomes\nfor millions of people. The expected impact of IFC’s\nportfolio in fiscal 2026 includes:",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 32,
+        "metadata": {
+          "chunker": "para",
+          "section": "ifc",
+          "char_end": 1685,
+          "language": "en",
+          "char_start": 722,
+          "fiscal_year": "FY26",
+          "content_hash": "27891d6d6a",
+          "document_type": "annual_report",
+          "section_title": "IFC"
+        },
+        "score": 0.874556,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p19:para:003",
+        "text": "IFC’s green and social bonds are an integral part of its\nborrowing strategy with $2 billion and $4 billion issued\nin fiscal 2026, respectively. In January 2026, IFC issued\na three-year $2 billion social bond with proceeds\nfunding a diverse range of social projects which include\naffordable basic infrastructure (e.g., clean drinking\nwater, energy, transport); access to essential services;\nfood security and affordable housing; and womenowned small- and medium-sized businesses, among\nother sectors. Read more in IFC’s Green and Social Bond\nAnnual Impact Report.\nFINANCIAL INNOVATIONS TO",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 19,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 3406,
+          "language": "en",
+          "char_start": 2819,
+          "fiscal_year": "FY26",
+          "content_hash": "60983cde7e",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.872908,
+        "hit": false
+      }
+    ],
+    "context": "[wbg-ar-2026:p14:para:000 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 14]\nIndia aspires to become an upper-middle-income economy in the next\ndecade. Its National Green Hydrogen Mission, which aims to catalyze\n600,000 jobs by 2030, is critical to meeting this goal.\nSince 2021, the World Bank Group has helped India advance\nhydrogen hub planning, enabling infrastructure, and public-private\nengagement to mobilize private sector investment. In fiscal 2026, IFC\ninvested $25 million in Hygenco Green Energies — its first direct green\nhydrogen investment in India. This investment is complemented by\ntwo IFC-managed blended finance facilities, the Clean Technology\nFund ($20 million) and the Frontier Opportunities Fund ($5 million),\nwhich altogether enabled $55 million in co-investment from other\nprivate sector partners.\nThe total financing package, including equity from other partners, will\nsupport the creation of more than 1,000 direct and indirect jobs across\nthe green hydrogen value chain and broader industrial ecosystem over\nthe next five years.\n\n[wbg-ar-2026:p19:para:003 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 19]\nIFC’s green and social bonds are an integral part of its\nborrowing strategy with $2 billion and $4 billion issued\nin fiscal 2026, respectively. In January 2026, IFC issued\na three-year $2 billion social bond with proceeds\nfunding a diverse range of social projects which include\naffordable basic infrastructure (e.g., clean drinking\nwater, energy, transport); access to essential services;\nfood security and affordable housing; and womenowned small- and medium-sized businesses, among\nother sectors. Read more in IFC’s Green and Social Bond\nAnnual Impact Report.\nFINANCIAL INNOVATIONS TO",
+    "context_ids": [
+      "wbg-ar-2026:p14:para:000",
+      "wbg-ar-2026:p19:para:003"
+    ],
+    "context_chars": 1863,
+    "elapsed_ms": 82.85,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q08",
+    "split": "dev",
+    "question": "What is the Mission 300 target in the World Bank Group Target Map?",
+    "top_k": 3,
+    "budget_chars": 2000,
+    "results": [
+      {
+        "id": "wbg-ar-2026:p4:para:008",
+        "text": "The Executive Directors are encouraged to see\nnew targets driving real change and maintaining\nthe World Bank Group’s focus on job creation.\nThe Target Map, launched in fiscal 2026, aligns\nour ambitions against 10 strategic priorities that\nenable job creation, including AgriConnect, Mission\n300, and Water Forward. The institution continues\nto make vital progress toward the ambitious goal\nof delivering quality, affordable health services\nto 1.5 billion people by 2030. Alongside these\nhealth initiatives, the Board emphasizes the\nimportance of ongoing efforts to empower women\nby expanding their access to social protection and\ncredit. The Board strongly supports the World\nBank Group’s efforts to help countries expand\nbroadband connectivity, strengthen digital systems\nand data infrastructure, and build the digital and\nAI skills necessary for workers to participate in\nan AI-enabled economy.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 4,
+        "metadata": {
+          "chunker": "para",
+          "section": "letter_executive_directors",
+          "char_end": 6298,
+          "language": "en",
+          "char_start": 5401,
+          "fiscal_year": "FY26",
+          "content_hash": "6f54423746",
+          "document_type": "annual_report",
+          "section_title": "Letter from the Executive Directors"
+        },
+        "score": 0.881862,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p5:para:006",
+        "text": "In low-income countries, where private\ninvestment is hardest to attract, we deployed\nour own financing to support development\npriorities — and mobilized roughly $3 billion\nin private capital alongside it, extending the\nreach of our resources and our ability to meet\nthe need in places affected by fragility, conflict,\nand violence. In short, as we support countries\nto grow and develop, private capital supplants\npublic capital in driving jobs and growth.\nOverall, more than half of the capital mobilized\nwent to the sectors with the greatest potential to\ncreate jobs at scale: infrastructure and energy,\nagribusiness, healthcare, tourism, and value-added\nmanufacturing. We further boost these sectors\nthrough our strategic priorities: Mission 300 has\n7\nTHE WORLD BANK GROUP ANNUAL REPORT 20266\nTHE WORLD BANK GROUP ANNUAL REPORT 2026",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 5,
+        "metadata": {
+          "chunker": "para",
+          "section": "letter_president",
+          "char_end": 5284,
+          "language": "en",
+          "char_start": 4450,
+          "fiscal_year": "FY26",
+          "content_hash": "f0de1c8080",
+          "document_type": "annual_report",
+          "section_title": "Letter from the President"
+        },
+        "score": 0.852857,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p22:para:004",
+        "text": "WORLD BANK GROUP INITIATIVES\nOur focus on job creation requires us to enhance our\nexternal partnerships to generate new ideas. In fiscal\n2026, the World Bank Group and partners launched a\nnew Mission 300 Private Sector Council to mobilize\nthe billions in private investment needed to connect\n300 million Africans to electricity by 2030, and unlock\njob creation across the continent. The Council,\ncomprising 14 leaders from diverse sectors, will help\ndrive strategies to accelerate commercial investment\nthat supports both energy access and employment.\nThree years ago, the World Bank Group launched the\nPrivate Sector Investment Lab to identify what was\nholding back private investment in emerging markets.\nBuilding on its work, we created the High-Level\nAdvisory Council on Jobs in 2024 to develop actionable\nstrategies for large-scale job creation. Both groups\nbrought together leaders from finance, business, and\ngovernment to provide new, outside-in thinking.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 22,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 3685,
+          "language": "en",
+          "char_start": 2721,
+          "fiscal_year": "FY26",
+          "content_hash": "c1e164c49d",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.848155,
+        "hit": false
+      }
+    ],
+    "context": "[wbg-ar-2026:p4:para:008 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 4]\nThe Executive Directors are encouraged to see\nnew targets driving real change and maintaining\nthe World Bank Group’s focus on job creation.\nThe Target Map, launched in fiscal 2026, aligns\nour ambitions against 10 strategic priorities that\nenable job creation, including AgriConnect, Mission\n300, and Water Forward. The institution continues\nto make vital progress toward the ambitious goal\nof delivering quality, affordable health services\nto 1.5 billion people by 2030. Alongside these\nhealth initiatives, the Board emphasizes the\nimportance of ongoing efforts to empower women\nby expanding their access to social protection and\ncredit. The Board strongly supports the World\nBank Group’s efforts to help countries expand\nbroadband connectivity, strengthen digital systems\nand data infrastructure, and build the digital and\nAI skills necessary for workers to participate in\nan AI-enabled economy.",
+    "context_ids": [
+      "wbg-ar-2026:p4:para:008"
+    ],
+    "context_chars": 1041,
+    "elapsed_ms": 86.76,
+    "hit1": false,
+    "hit3": false,
+    "context_hit": false
+  },
+  {
+    "query_id": "q09",
+    "split": "dev",
+    "question": "How long does a Country Partnership Framework typically span?",
+    "top_k": 3,
+    "budget_chars": 2000,
+    "results": [
+      {
+        "id": "wbg-ar-2026:p18:para:003",
+        "text": "COUNTRY ENGAGEMENT\nWe are building a One World Bank Group client\ncoverage model that aligns public and private sector\nsolutions around jobs, growth, and private investment.\nOur new approach is more efficient, outcome-focused,\nand systematic in tapping private sector solutions\nand will help countries tackle their development\nchallenges with greater speed, quality, and impact.\nThe centerpiece of this new approach is our\nCountry Partnership Framework (CPF) — the\nkey tool that guides our strategic engagement\nwith countries. CPFs typically span four to six\nyears, with a maximum duration of 10 years, to\nalign our support with a country’s development\ngoals and the World Bank Group Scorecard.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 18,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 2602,
+          "language": "en",
+          "char_start": 1909,
+          "fiscal_year": "FY26",
+          "content_hash": "d681c0f69d",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.882269,
+        "hit": true
+      },
+      {
+        "id": "wbg-ar-2026:p19:para:001",
+        "text": "During the Spring Meetings in April 2026, the\nWorld Bank Group launched the Small States\nStrategy. Guided by select solutions underpinned\nby the World Bank Group Jobs Framework, the Strategy\nprioritizes interventions with the greatest potential\nto support job creation and economic growth.\nSupport will be differentiated to reflect individual\ncountry contexts, while using regional approaches,\naggregated procurement, capacity building, and\nstronger partnerships to address scale constraints,\nhigh transaction costs, and partner fragmentation.\nImplementation is anchored in Country Partnership\nFrameworks. The Strategy was informed by feedback\nfrom small states gathered through consultations\nand engagement, including at the annual Small States\nForum held alongside the World Bank Group Annual\nMeetings in October 2025.\nFor more information, visit https://www.\nworldbank.org/en/country/smallstates.\nSUSTAINABLE FINANCE",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 19,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 1910,
+          "language": "en",
+          "char_start": 991,
+          "fiscal_year": "FY26",
+          "content_hash": "3d2bcfc1d9",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.819329,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p18:para:004",
+        "text": "In fiscal 2026, we delivered 28 new CPFs that are\nunderpinned by five core diagnostics: Country\nClimate and Development Reports, Country\nGrowth and Jobs Reports, Country Private Sector\nDiagnostics, Poverty and Equity Assessments, and\nPublic Finance Reviews. From this data, we identify\nthree to five outcomes that support job creation,\nand complementary public and private actions to\nsupport the outcomes. With outcomes defined at the\nintersection of three selectivity criteria — development\nchallenges, country development goals, and World\nBank Group comparative advantages — CPFs\nserve as the primary vehicle for translating World\nBank Group targets and strategies into countrylevel action, delivering on client priorities through\ncomplementary public and private solutions.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 18,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 3379,
+          "language": "en",
+          "char_start": 2603,
+          "fiscal_year": "FY26",
+          "content_hash": "817350489f",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.813163,
+        "hit": false
+      }
+    ],
+    "context": "[wbg-ar-2026:p18:para:003 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 18]\nCOUNTRY ENGAGEMENT\nWe are building a One World Bank Group client\ncoverage model that aligns public and private sector\nsolutions around jobs, growth, and private investment.\nOur new approach is more efficient, outcome-focused,\nand systematic in tapping private sector solutions\nand will help countries tackle their development\nchallenges with greater speed, quality, and impact.\nThe centerpiece of this new approach is our\nCountry Partnership Framework (CPF) — the\nkey tool that guides our strategic engagement\nwith countries. CPFs typically span four to six\nyears, with a maximum duration of 10 years, to\nalign our support with a country’s development\ngoals and the World Bank Group Scorecard.\n\n[wbg-ar-2026:p19:para:001 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 19]\nDuring the Spring Meetings in April 2026, the\nWorld Bank Group launched the Small States\nStrategy. Guided by select solutions underpinned\nby the World Bank Group Jobs Framework, the Strategy\nprioritizes interventions with the greatest potential\nto support job creation and economic growth.\nSupport will be differentiated to reflect individual\ncountry contexts, while using regional approaches,\naggregated procurement, capacity building, and\nstronger partnerships to address scale constraints,\nhigh transaction costs, and partner fragmentation.\nImplementation is anchored in Country Partnership\nFrameworks. The Strategy was informed by feedback\nfrom small states gathered through consultations\nand engagement, including at the annual Small States\nForum held alongside the World Bank Group Annual\nMeetings in October 2025.\nFor more information, visit https://www.\nworldbank.org/en/country/smallstates.\nSUSTAINABLE FINANCE",
+    "context_ids": [
+      "wbg-ar-2026:p18:para:003",
+      "wbg-ar-2026:p19:para:001"
+    ],
+    "context_chars": 1908,
+    "elapsed_ms": 84.52,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q10",
+    "split": "dev",
+    "question": "How many cases did the Compliance Advisor Ombudsman handle in fiscal 2026?",
+    "top_k": 3,
+    "budget_chars": 2000,
+    "results": [
+      {
+        "id": "wbg-ar-2026:p23:para:002",
+        "text": "In fiscal 2026, CAO handled 63 cases related to\nprojects in 30 countries. CAO received 19 new eligible\ncomplaints related to projects in six sectors: banking\nand capital markets; disruptive technologies and funds;\nenergy and mining; health, education, and services;\ninfrastructure; and non-banking and alternative\nfinance. Of these, CAO initiated assessments of 18\ncases and referred one to IFC at the request of the\ncomplainants for an attempt at early resolution by IFC\nand its client. CAO closed 11 cases.\nFor more information,\nvisit https://www.cao-ombudsman.org/.\nFor more information,\nvisit accountability.worldbank.org/en/home\nand inspectionpanel.org.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 23,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 2408,
+          "language": "en",
+          "char_start": 1750,
+          "fiscal_year": "FY26",
+          "content_hash": "046a6dd3c6",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.856636,
+        "hit": true
+      },
+      {
+        "id": "wbg-ar-2026:p23:para:006",
+        "text": "Affected communities can submit complaints to the\nPanel. The Panel determines complaint eligibility,\nand, if warranted, recommends an investigation\nto the Board. If the Board approves the Panel’s\nrecommendation, the investigation is held in\nabeyance, and the Head of the DRS offers a voluntary\ndispute resolution process. If this offer is accepted, a\ndispute resolution process will proceed. If this offer is\ndeclined or unresolved, the Panel proceeds with the\ninvestigation. If the parties sign a dispute resolution\nagreement, the process is concluded.\nIn fiscal 2026, the Panel processed 10 new\ncomplaints regarding projects in Ecuador, Indonesia,\nMozambique, Nigeria, the Philippines, Serbia,\nSierra Leone, Tanzania, and Uganda. The Panel also\nrecommended a verification of the implementation\nof the Management Action Plan following the",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 23,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 5653,
+          "language": "en",
+          "char_start": 4814,
+          "fiscal_year": "FY26",
+          "content_hash": "8d7c93dfed",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.846939,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p23:para:000",
+        "text": "In fiscal 2026, the Boards of IBRD, IDA, IFC, and MIGA approved the integration of the\nInspection Panel, the Compliance Advisor Ombudsman, and the Dispute Resolution\nService into a single Independent Accountability Mechanism (IAM).\nThe decision drew on more than a year of deliberation and was informed by the\nrecommendations of a Task Force engaged by the Boards. The Task Force carried\nout consultations with internal and external stakeholders, including several webinars,\nlearning sessions with other multilateral development banks, and a written\ncomment period.\nThis decision is part of a broader effort to reduce fragmentation and strengthen\ncoherence across World Bank Group operations. As we move toward a truly\nintegrated One World Bank Group model, our accountability architecture is\nevolving in the same direction.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 23,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 824,
+          "language": "en",
+          "char_start": 0,
+          "fiscal_year": "FY26",
+          "content_hash": "dbd508b62c",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.846188,
+        "hit": false
+      }
+    ],
+    "context": "[wbg-ar-2026:p23:para:002 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 23]\nIn fiscal 2026, CAO handled 63 cases related to\nprojects in 30 countries. CAO received 19 new eligible\ncomplaints related to projects in six sectors: banking\nand capital markets; disruptive technologies and funds;\nenergy and mining; health, education, and services;\ninfrastructure; and non-banking and alternative\nfinance. Of these, CAO initiated assessments of 18\ncases and referred one to IFC at the request of the\ncomplainants for an attempt at early resolution by IFC\nand its client. CAO closed 11 cases.\nFor more information,\nvisit https://www.cao-ombudsman.org/.\nFor more information,\nvisit accountability.worldbank.org/en/home\nand inspectionpanel.org.\n\n[wbg-ar-2026:p23:para:006 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 23]\nAffected communities can submit complaints to the\nPanel. The Panel determines complaint eligibility,\nand, if warranted, recommends an investigation\nto the Board. If the Board approves the Panel’s\nrecommendation, the investigation is held in\nabeyance, and the Head of the DRS offers a voluntary\ndispute resolution process. If this offer is accepted, a\ndispute resolution process will proceed. If this offer is\ndeclined or unresolved, the Panel proceeds with the\ninvestigation. If the parties sign a dispute resolution\nagreement, the process is concluded.\nIn fiscal 2026, the Panel processed 10 new\ncomplaints regarding projects in Ecuador, Indonesia,\nMozambique, Nigeria, the Philippines, Serbia,\nSierra Leone, Tanzania, and Uganda. The Panel also\nrecommended a verification of the implementation\nof the Management Action Plan following the",
+    "context_ids": [
+      "wbg-ar-2026:p23:para:002",
+      "wbg-ar-2026:p23:para:006"
+    ],
+    "context_chars": 1793,
+    "elapsed_ms": 78.16,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q11",
+    "split": "dev",
+    "question": "What payout did the Government of Jamaica receive after Hurricane Melissa?",
+    "top_k": 3,
+    "budget_chars": 2000,
+    "results": [
+      {
+        "id": "wbg-ar-2026:p20:para:001",
+        "text": "The World Bank Group helps countries strengthen\nfiscal resilience to disasters by facilitating access to\nreinsurance and capital markets. Our Treasury works\nwith governments to prepare and execute risk-transfer\ntransactions before a catastrophic event occurs. As\nof April 1, 2026, we have helped countries transfer\n$6.5 billion of disaster risk to international markets.\nIn November 2025, Hurricane Melissa triggered a full\n$150 million payout to the Government of Jamaica\nfrom a catastrophe bond issued by the World Bank for\nJamaica in 2024.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 20,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 1485,
+          "language": "en",
+          "char_start": 943,
+          "fiscal_year": "FY26",
+          "content_hash": "9955940827",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.872758,
+        "hit": true
+      },
+      {
+        "id": "wbg-ar-2026:p21:para:007",
+        "text": "We continue to support the Pandemic Fund, a\nWorld Bank-hosted partnership to boost resilience to\nfuture pandemics. In fiscal 2026, the Fund mobilized\n$220.6 million in accelerated support for the Ebola\ncrisis response.\nMULTILATERAL DEVELOPMENT BANKS\nWe work closely with other multilateral development\nbanks (MDBs) and international financial institutions\n(IFIs) to accelerate job creation by financing large-scale\nprojects, amplifying project impact, and promoting\ngreater efficiency in the use of development financing.\nIn fiscal 2026, the heads of MDBs committed to\nstrengthening collaboration on critical minerals to\nsupport resilient and responsible supply chains. We\njointly launched Water Forward to advance investable\nwater systems, and our Mission 300 partnership with\nthe African Development Bank has brought electricity\nto more than 56 million people across Africa.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 21,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 6446,
+          "language": "en",
+          "char_start": 5570,
+          "fiscal_year": "FY26",
+          "content_hash": "8a8e1ce6e2",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.782469,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p38:para:000",
+        "text": "The Multilateral Investment Guarantee Agency (MIGA), home of the World Bank Group Guarantee\nPlatform, provides guarantees to facilitate the flow of foreign investment in developing countries,\nenabling the private sector to create jobs. Our mandate is to encourage investment into developing\nmember countries by providing non-commercial risk guarantees (political risk insurance, credit\nenhancement products, and trade finance guarantees) to investors and lenders.\nIn fiscal 2026, MIGA marked a major milestone by\nsurpassing $100 billion in cumulative guarantees\nissued since its founding in 1988. With just $366 million\nof paid-in capital from member countries, MIGA has\nsteadily pursued its stated mission for nearly four\ndecades by providing guarantees to private investors.\nThis paves the way for private funds to flow to emerging\nand developing economies, enabling job creation.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 38,
+        "metadata": {
+          "chunker": "para",
+          "section": "miga",
+          "char_end": 883,
+          "language": "en",
+          "char_start": 0,
+          "fiscal_year": "FY26",
+          "content_hash": "41c216ef0e",
+          "document_type": "annual_report",
+          "section_title": "MIGA"
+        },
+        "score": 0.781919,
+        "hit": false
+      }
+    ],
+    "context": "[wbg-ar-2026:p20:para:001 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 20]\nThe World Bank Group helps countries strengthen\nfiscal resilience to disasters by facilitating access to\nreinsurance and capital markets. Our Treasury works\nwith governments to prepare and execute risk-transfer\ntransactions before a catastrophic event occurs. As\nof April 1, 2026, we have helped countries transfer\n$6.5 billion of disaster risk to international markets.\nIn November 2025, Hurricane Melissa triggered a full\n$150 million payout to the Government of Jamaica\nfrom a catastrophe bond issued by the World Bank for\nJamaica in 2024.\n\n[wbg-ar-2026:p21:para:007 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 21]\nWe continue to support the Pandemic Fund, a\nWorld Bank-hosted partnership to boost resilience to\nfuture pandemics. In fiscal 2026, the Fund mobilized\n$220.6 million in accelerated support for the Ebola\ncrisis response.\nMULTILATERAL DEVELOPMENT BANKS\nWe work closely with other multilateral development\nbanks (MDBs) and international financial institutions\n(IFIs) to accelerate job creation by financing large-scale\nprojects, amplifying project impact, and promoting\ngreater efficiency in the use of development financing.\nIn fiscal 2026, the heads of MDBs committed to\nstrengthening collaboration on critical minerals to\nsupport resilient and responsible supply chains. We\njointly launched Water Forward to advance investable\nwater systems, and our Mission 300 partnership with\nthe African Development Bank has brought electricity\nto more than 56 million people across Africa.",
+    "context_ids": [
+      "wbg-ar-2026:p20:para:001",
+      "wbg-ar-2026:p21:para:007"
+    ],
+    "context_chars": 1714,
+    "elapsed_ms": 71.73,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q12",
+    "split": "dev",
+    "question": "Which World Bank investment projects are covered by the Environmental and Social Framework?",
+    "top_k": 3,
+    "budget_chars": 2000,
+    "results": [
+      {
+        "id": "wbg-ar-2026:p21:para:008",
+        "text": "Through direct co-financing, the World Bank crowded\nin $9.3 billion from MDBs and other institutions to\ncomplement $8.9 billion from its own funds across\n24 projects. Recognizing the importance of private\ncapital to our work, we are working with other MDBs to\nadvance “originate-to-distribute” approaches to bundle\nassets into investable products to bring institutional\ncapital into emerging markets at scale.\nWe continue to find more efficient ways of working\ntogether to benefit our clients. Two projects are being\nThe World Bank’s ESF applies to all investment\nproject financing (IPF) with a concept decision or\nequivalent on or after October 1, 2018. As of June 30,\n2026, the framework applies to 75 percent of\nthe active IPF portfolio.\nAcross the World Bank Group, we continue to update\nour Environmental, Health, and Safety Guidelines,\nwhich serve as technical reference documents for good\ninternational industry practice.\nFor more information, visit www.worldbank.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 21,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 7418,
+          "language": "en",
+          "char_start": 6447,
+          "fiscal_year": "FY26",
+          "content_hash": "60674f7e85",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.868295,
+        "hit": true
+      },
+      {
+        "id": "wbg-ar-2026:p20:para:011",
+        "text": "ENVIRONMENTAL AND SOCIAL POLICIES\nIn fiscal 2026, the World Bank Group enhanced its\nEnvironmental and Social (E&S) management\nstructure by integrating E&S teams from the World\nBank (IBRD/IDA), IFC, and MIGA at the corporate\nlevel, establishing a global World Bank Group E&S\nPolicy and Operations department and a global World\nBank Group E&S Risk department. The new structure\nprovides a more robust system for proactive risk\nmanagement and helps us deliver safeguards with\ngreater clarity, speed, and credibility, while reinforcing\nour commitment to quality and accountability.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 20,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 8338,
+          "language": "en",
+          "char_start": 7761,
+          "fiscal_year": "FY26",
+          "content_hash": "3bfdaab126",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.847357,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p20:para:013",
+        "text": "IFC and MIGA are working with the World Bank to align\nthe updated IFC/MIGA Sustainability Framework with\nthe World Bank’s Environmental and Social Framework\n(ESF), including developing a shared Vision Statement\nand a set of private sector standards more closely\naligned with those of the ESF.\n37\nTHE WORLD BANK GROUP ANNUAL REPORT 202636\nTHE WORLD BANK GROUP ANNUAL REPORT 2026",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 20,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 9631,
+          "language": "en",
+          "char_start": 9254,
+          "fiscal_year": "FY26",
+          "content_hash": "91f289f733",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.845673,
+        "hit": false
+      }
+    ],
+    "context": "[wbg-ar-2026:p21:para:008 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 21]\nThrough direct co-financing, the World Bank crowded\nin $9.3 billion from MDBs and other institutions to\ncomplement $8.9 billion from its own funds across\n24 projects. Recognizing the importance of private\ncapital to our work, we are working with other MDBs to\nadvance “originate-to-distribute” approaches to bundle\nassets into investable products to bring institutional\ncapital into emerging markets at scale.\nWe continue to find more efficient ways of working\ntogether to benefit our clients. Two projects are being\nThe World Bank’s ESF applies to all investment\nproject financing (IPF) with a concept decision or\nequivalent on or after October 1, 2018. As of June 30,\n2026, the framework applies to 75 percent of\nthe active IPF portfolio.\nAcross the World Bank Group, we continue to update\nour Environmental, Health, and Safety Guidelines,\nwhich serve as technical reference documents for good\ninternational industry practice.\nFor more information, visit www.worldbank.\n\n[wbg-ar-2026:p20:para:011 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 20]\nENVIRONMENTAL AND SOCIAL POLICIES\nIn fiscal 2026, the World Bank Group enhanced its\nEnvironmental and Social (E&S) management\nstructure by integrating E&S teams from the World\nBank (IBRD/IDA), IFC, and MIGA at the corporate\nlevel, establishing a global World Bank Group E&S\nPolicy and Operations department and a global World\nBank Group E&S Risk department. The new structure\nprovides a more robust system for proactive risk\nmanagement and helps us deliver safeguards with\ngreater clarity, speed, and credibility, while reinforcing\nour commitment to quality and accountability.",
+    "context_ids": [
+      "wbg-ar-2026:p21:para:008",
+      "wbg-ar-2026:p20:para:011"
+    ],
+    "context_chars": 1844,
+    "elapsed_ms": 76.32,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q13",
+    "split": "dev",
+    "question": "What was MIGA's gross outstanding guarantee portfolio as of June 30, 2026?",
+    "top_k": 3,
+    "budget_chars": 2000,
+    "results": [
+      {
+        "id": "wbg-ar-2026:p39:para:000",
+        "text": "MIGA’s new guarantee business volume during\nfiscal 2026 reached a record high of $10.6 billion in\nsupport of 60 projects, compared to $9.5 billion\nof new guarantees issued in fiscal 2025 in support of\n44 projects. Due to record new business volume, as\nof June 30, 2026, MIGA’s gross outstanding guarantee\nportfolio reached a record high of $41.4 billion,\nrepresenting a 13 percent increase. The net outstanding\nguarantee portfolio increased by 8 percent to a record\nhigh of $12.1 billion.\nBUSINESS AND OPERATIONAL OVERVIEW\n40\n30\n20\n10\n0\nFY22 FY23 FY24 FY25 FY26\n9.0 9.5 10.3 11.2 12.1\nFIGURE 2: NET GUARANTEE\nPORTFOLIO EXPOSURE\nBILLIONS OF DOLLARS\n50\n40\n30\n20\n10\n0\nFY22 FY23 FY24 FY25 FY26\n24.4\n27.9\n31.5\n36.8\n41.4\nFIGURE 3: GROSS GUARANTEE\nPORTFOLIO EXPOSURE, FISCAL 2022–26\nBILLIONS OF DOLLARS",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 39,
+        "metadata": {
+          "chunker": "para",
+          "section": "miga",
+          "char_end": 795,
+          "language": "en",
+          "char_start": 0,
+          "fiscal_year": "FY26",
+          "content_hash": "1c727c2ac2",
+          "document_type": "annual_report",
+          "section_title": "MIGA"
+        },
+        "score": 0.921482,
+        "hit": true
+      },
+      {
+        "id": "wbg-ar-2026:p39:para:002",
+        "text": "MIGA ceded $7.5 billion of new business to the\nreinsurance market during fiscal 2026. MIGA’s objective\nin using reinsurance is to support its growth while\nmanaging portfolio concentration and ensuring\nefficient capital utilization. The increased use of\nreinsurance is also in line with the World Bank Group\ngoal of leveraging the private sector into financing\ndevelopment, as well as with MIGA’s strategy of\npreserving capital to fund future growth, primarily\nin priority areas. As of June 30, 2026, $28.7 billion or\n69 percent of the outstanding gross portfolio was\nreinsured, up from 68 percent last fiscal year.\nPortfolio Reinsurance Rate (Right Y-Axis)\nOutstanding Reinsurance\nFIGURE 4:",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 39,
+        "metadata": {
+          "chunker": "para",
+          "section": "miga",
+          "char_end": 1954,
+          "language": "en",
+          "char_start": 1263,
+          "fiscal_year": "FY26",
+          "content_hash": "3e5c4f428a",
+          "document_type": "annual_report",
+          "section_title": "MIGA"
+        },
+        "score": 0.90669,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p38:para:000",
+        "text": "The Multilateral Investment Guarantee Agency (MIGA), home of the World Bank Group Guarantee\nPlatform, provides guarantees to facilitate the flow of foreign investment in developing countries,\nenabling the private sector to create jobs. Our mandate is to encourage investment into developing\nmember countries by providing non-commercial risk guarantees (political risk insurance, credit\nenhancement products, and trade finance guarantees) to investors and lenders.\nIn fiscal 2026, MIGA marked a major milestone by\nsurpassing $100 billion in cumulative guarantees\nissued since its founding in 1988. With just $366 million\nof paid-in capital from member countries, MIGA has\nsteadily pursued its stated mission for nearly four\ndecades by providing guarantees to private investors.\nThis paves the way for private funds to flow to emerging\nand developing economies, enabling job creation.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 38,
+        "metadata": {
+          "chunker": "para",
+          "section": "miga",
+          "char_end": 883,
+          "language": "en",
+          "char_start": 0,
+          "fiscal_year": "FY26",
+          "content_hash": "41c216ef0e",
+          "document_type": "annual_report",
+          "section_title": "MIGA"
+        },
+        "score": 0.898296,
+        "hit": false
+      }
+    ],
+    "context": "[wbg-ar-2026:p39:para:000 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 39]\nMIGA’s new guarantee business volume during\nfiscal 2026 reached a record high of $10.6 billion in\nsupport of 60 projects, compared to $9.5 billion\nof new guarantees issued in fiscal 2025 in support of\n44 projects. Due to record new business volume, as\nof June 30, 2026, MIGA’s gross outstanding guarantee\nportfolio reached a record high of $41.4 billion,\nrepresenting a 13 percent increase. The net outstanding\nguarantee portfolio increased by 8 percent to a record\nhigh of $12.1 billion.\nBUSINESS AND OPERATIONAL OVERVIEW\n40\n30\n20\n10\n0\nFY22 FY23 FY24 FY25 FY26\n9.0 9.5 10.3 11.2 12.1\nFIGURE 2: NET GUARANTEE\nPORTFOLIO EXPOSURE\nBILLIONS OF DOLLARS\n50\n40\n30\n20\n10\n0\nFY22 FY23 FY24 FY25 FY26\n24.4\n27.9\n31.5\n36.8\n41.4\nFIGURE 3: GROSS GUARANTEE\nPORTFOLIO EXPOSURE, FISCAL 2022–26\nBILLIONS OF DOLLARS\n\n[wbg-ar-2026:p39:para:002 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 39]\nMIGA ceded $7.5 billion of new business to the\nreinsurance market during fiscal 2026. MIGA’s objective\nin using reinsurance is to support its growth while\nmanaging portfolio concentration and ensuring\nefficient capital utilization. The increased use of\nreinsurance is also in line with the World Bank Group\ngoal of leveraging the private sector into financing\ndevelopment, as well as with MIGA’s strategy of\npreserving capital to fund future growth, primarily\nin priority areas. As of June 30, 2026, $28.7 billion or\n69 percent of the outstanding gross portfolio was\nreinsured, up from 68 percent last fiscal year.\nPortfolio Reinsurance Rate (Right Y-Axis)\nOutstanding Reinsurance\nFIGURE 4:",
+    "context_ids": [
+      "wbg-ar-2026:p39:para:000",
+      "wbg-ar-2026:p39:para:002"
+    ],
+    "context_chars": 1781,
+    "elapsed_ms": 73.26,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q14",
+    "split": "dev",
+    "question": "How much did the World Bank Group Guarantee Platform issue in guarantees in fiscal 2026, and to how many projects?",
+    "top_k": 3,
+    "budget_chars": 2000,
+    "results": [
+      {
+        "id": "wbg-ar-2026:p38:para:001",
+        "text": "In its second year, fiscal 2026, the World Bank Group\nGuarantee Platform issued $17.9 billion in guarantees\nto 110 projects in 32 countries, an increase of\n46 percent over fiscal 2025. Of this, MIGA issued a\nrecord $10.6 billion in new guarantees across 60\nprojects. Through these projects, MIGA encouraged\nprivate investment to facilitate economic development\nin host countries by helping clients manage and\nmitigate non-commercial risks. The majority of projects\nadvanced at least one of MIGA’s strategic priorities: 38\nprojects were climate finance initiatives, 20 projects\nwere in IDA–eligible countries, and 10 projects were in\nfragile and conflict-affected situations.\nAs a result, the fiscal 2026 issuances are expected to:\n• Mobilize $11 billion in private capital\n• Provide 300,000 people and businesses with\naccess to finance\n• Strengthen food and nutrition security for\n4 million people\n• Enable 2.7 gigawatts in renewable energy capacity",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 38,
+        "metadata": {
+          "chunker": "para",
+          "section": "miga",
+          "char_end": 1832,
+          "language": "en",
+          "char_start": 883,
+          "fiscal_year": "FY26",
+          "content_hash": "af8d756e9a",
+          "document_type": "annual_report",
+          "section_title": "MIGA"
+        },
+        "score": 0.916808,
+        "hit": true
+      },
+      {
+        "id": "wbg-ar-2026:p18:para:002",
+        "text": "This more than\nthreefold increase represents a fundamental shift in\nour ability to bring external capital into development\nopportunities at scale, making us the largest mobilizer\nof private capital among multilateral development\nbanks. Guarantees issued by the World Bank Group\nGuarantee Platform grew by 46 percent in fiscal\n2026. We are providing patient equity in markets\nwhere early-stage capital is scarce and expanding\nlocal-currency financing where foreign-exchange risk\nwould otherwise deter investment. We also began\npiloting “originate-to-distribute” approaches to connect\ninstitutional investors with emerging market assets at\ngreater scale. And we’re providing investors and ratings\nagencies with historical data on the performance\nof emerging market lending through the Global\nEmerging Markets Risk Database. These practical\nshifts are already supporting investment and jobs.\nA NEW APPROACH TO",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 18,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 1908,
+          "language": "en",
+          "char_start": 1002,
+          "fiscal_year": "FY26",
+          "content_hash": "04b404eae5",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.881695,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p4:para:000",
+        "text": "The World Bank Group Guarantee Platform,\nhosted at MIGA, continues to play a vital role in\nbringing private capital to emerging markets.\nThe Board commends MIGA for surpassing\n$100 billion in cumulative guarantee issuance\nsince its founding in 1988, a remarkable\nachievement from just $366 million in paid-in\ncapital. In addition, in fiscal 2026, the World Bank\nGroup surpassed its goal of $20 billion in annual\nguarantee issuance — four years ahead of the\n2030 target.\nThe Board endorsed the extension of the World\nBank Group’s Climate Change Action Plan, a\nsignificant step that provides vital continuity for\ncountries. The Executive Directors expect the\ninstitution to be measured by the tangible impact\nits work has on communities worldwide, and the\nBoard is grateful for the strong collaboration with\nManagement on this initiative.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 4,
+        "metadata": {
+          "chunker": "para",
+          "section": "letter_executive_directors",
+          "char_end": 836,
+          "language": "en",
+          "char_start": 0,
+          "fiscal_year": "FY26",
+          "content_hash": "7b3f5460e2",
+          "document_type": "annual_report",
+          "section_title": "Letter from the Executive Directors"
+        },
+        "score": 0.874428,
+        "hit": false
+      }
+    ],
+    "context": "[wbg-ar-2026:p38:para:001 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 38]\nIn its second year, fiscal 2026, the World Bank Group\nGuarantee Platform issued $17.9 billion in guarantees\nto 110 projects in 32 countries, an increase of\n46 percent over fiscal 2025. Of this, MIGA issued a\nrecord $10.6 billion in new guarantees across 60\nprojects. Through these projects, MIGA encouraged\nprivate investment to facilitate economic development\nin host countries by helping clients manage and\nmitigate non-commercial risks. The majority of projects\nadvanced at least one of MIGA’s strategic priorities: 38\nprojects were climate finance initiatives, 20 projects\nwere in IDA–eligible countries, and 10 projects were in\nfragile and conflict-affected situations.\nAs a result, the fiscal 2026 issuances are expected to:\n• Mobilize $11 billion in private capital\n• Provide 300,000 people and businesses with\naccess to finance\n• Strengthen food and nutrition security for\n4 million people\n• Enable 2.7 gigawatts in renewable energy capacity",
+    "context_ids": [
+      "wbg-ar-2026:p38:para:001"
+    ],
+    "context_chars": 1096,
+    "elapsed_ms": 75.51,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q15",
+    "split": "dev",
+    "question": "As of June 2026, how many countries had implemented at least one instrument from the Crisis Preparedness and Response Toolkit?",
+    "top_k": 3,
+    "budget_chars": 2000,
+    "results": [
+      {
+        "id": "wbg-ar-2026:p31:para:005",
+        "text": "This approach facilitates both vertical programs,\nwhich involve in-depth, sustained engagement within\na single country, and horizontal programs, which\nencompass multiple countries, states within a country,\nor subnational entities. In fiscal 2026, the World Bank\napproved 33 new programs totaling $25.1 billion in\nfinancing, comprising 15 vertical programs ($8.2 billion)\nand 18 horizontal programs ($16.9 billion). Total MPA\nproject approvals comprised 95 projects totaling\n$17.7 billion, including nine additional financing\nprojects totaling $1.0 billion.\nAs of June 2026, a total of 80 countries have\nimplemented at least one instrument from the Crisis\nPreparedness and Response Toolkit. With those\ninstruments, countries have pre-arranged contingent\nresources and catastrophe bonds/insurance, allowing\nthem to focus on disaster recovery.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 31,
+        "metadata": {
+          "chunker": "para",
+          "section": "ibrd_ida",
+          "char_end": 5325,
+          "language": "en",
+          "char_start": 4485,
+          "fiscal_year": "FY26",
+          "content_hash": "ef7cde0aa5",
+          "document_type": "annual_report",
+          "section_title": "World Bank (IBRD/IDA)"
+        },
+        "score": 0.908603,
+        "hit": true
+      },
+      {
+        "id": "wbg-ar-2026:p29:para:003",
+        "text": "Fiscal 2026 marked the start of the IDA21 policy\npackage, which took effect on July 1, 2025, with support\nfrom 57 donors. As it supports IDA countries to chart\ntheir own paths toward sustainable development,\nIDA21 will benefit more than 1.9 billion people\nworldwide and sustain IDA’s strong track record of\ninnovation and results.\nIDA also collaborated with think tanks and foundations\non the IDA20 retrospective report and engaged civil\nsociety organizations in donor countries on its lessons.\nIn fiscal 2026, 78 countries were eligible for IDA\nsupport.7 New IDA lending commitments for fiscal\n2026 totaled $30.8 billion for 237 operations, of\nwhich 13 were IBRD/IDA blended operations. These\ncommitments included $22.1 billion in credits,\n$0.8 billion in guarantees, and $7.9 billion in grants.\nIn addition, 37 projects totaling $564 million were\napproved for support from the IDA21 IDA-IFC-MIGA\nPrivate Sector Window (PSW) during the fiscal year.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 29,
+        "metadata": {
+          "chunker": "para",
+          "section": "ibrd_ida",
+          "char_end": 3651,
+          "language": "en",
+          "char_start": 2702,
+          "fiscal_year": "FY26",
+          "content_hash": "73cb110cd2",
+          "document_type": "annual_report",
+          "section_title": "World Bank (IBRD/IDA)"
+        },
+        "score": 0.845821,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p4:para:004",
+        "text": "The Executive Directors support the World Bank\nGroup’s urgent response to these crises while\nmaintaining a resolute focus on the long-term\nchallenge of creating jobs at scale. The Board is\nencouraged that countries can increasingly access\nfast-acting finance for emergency response,\nwith 79 countries to date utilizing Crisis Toolkit\nArrangements. In fiscal 2026, the Board reaffirmed\nits support for the World Bank Group’s strategic\ndrive to create more and better-paid jobs as total\nWorld Bank Group commitments for the year\nreached $123.5 billion.1\nThe Board welcomes the World Bank Group’s\nnew ways of working. By deepening collaboration\nacross our institutions, we are enhancing\nefficiency and accelerating our impact on the\nground. Forging new alliances with private\nsector partners and clients and strengthening\ncooperation with development partners ensures\nthat scarce resources are deployed where they can\ngenerate the most jobs and growth.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 4,
+        "metadata": {
+          "chunker": "para",
+          "section": "letter_executive_directors",
+          "char_end": 3820,
+          "language": "en",
+          "char_start": 2870,
+          "fiscal_year": "FY26",
+          "content_hash": "d88e749ae8",
+          "document_type": "annual_report",
+          "section_title": "Letter from the Executive Directors"
+        },
+        "score": 0.844539,
+        "hit": false
+      }
+    ],
+    "context": "[wbg-ar-2026:p31:para:005 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 31]\nThis approach facilitates both vertical programs,\nwhich involve in-depth, sustained engagement within\na single country, and horizontal programs, which\nencompass multiple countries, states within a country,\nor subnational entities. In fiscal 2026, the World Bank\napproved 33 new programs totaling $25.1 billion in\nfinancing, comprising 15 vertical programs ($8.2 billion)\nand 18 horizontal programs ($16.9 billion). Total MPA\nproject approvals comprised 95 projects totaling\n$17.7 billion, including nine additional financing\nprojects totaling $1.0 billion.\nAs of June 2026, a total of 80 countries have\nimplemented at least one instrument from the Crisis\nPreparedness and Response Toolkit. With those\ninstruments, countries have pre-arranged contingent\nresources and catastrophe bonds/insurance, allowing\nthem to focus on disaster recovery.",
+    "context_ids": [
+      "wbg-ar-2026:p31:para:005"
+    ],
+    "context_chars": 987,
+    "elapsed_ms": 78.71,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q16",
+    "split": "dev",
+    "question": "What was IFC's net income in fiscal 2026?",
+    "top_k": 3,
+    "budget_chars": 2000,
+    "results": [
+      {
+        "id": "wbg-ar-2026:p32:para:001",
+        "text": "Over the past several years, IFC has been shifting\nits model to not only deploy its own capital but to\nmobilize more private capital from partners. That\nshift is reflected in our fiscal 2026 results. The World\nBank Group mobilized $112 billion in private capital\nin fiscal 2026, more than tripling from $35 billion in\nfiscal 2022. IFC contributes to that outcome through\na range of instruments and products — guarantees,\noriginate-to-distribute structures, catalytic equity,\nsyndications, anchor investments, transaction\nadvisory, and local-currency financing — each designed\nto address specific barriers that have historically\nconstrained private investment in developing\neconomies. In fiscal 2026, IFC achieved a record\n$105.6 billion in investment commitments, including\nover $73.6 billion in private capital mobilized.\nThose investments translate into real-world outcomes\nfor millions of people. The expected impact of IFC’s\nportfolio in fiscal 2026 includes:",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 32,
+        "metadata": {
+          "chunker": "para",
+          "section": "ifc",
+          "char_end": 1685,
+          "language": "en",
+          "char_start": 722,
+          "fiscal_year": "FY26",
+          "content_hash": "27891d6d6a",
+          "document_type": "annual_report",
+          "section_title": "IFC"
+        },
+        "score": 0.894782,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p19:para:003",
+        "text": "IFC’s green and social bonds are an integral part of its\nborrowing strategy with $2 billion and $4 billion issued\nin fiscal 2026, respectively. In January 2026, IFC issued\na three-year $2 billion social bond with proceeds\nfunding a diverse range of social projects which include\naffordable basic infrastructure (e.g., clean drinking\nwater, energy, transport); access to essential services;\nfood security and affordable housing; and womenowned small- and medium-sized businesses, among\nother sectors. Read more in IFC’s Green and Social Bond\nAnnual Impact Report.\nFINANCIAL INNOVATIONS TO",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 19,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 3406,
+          "language": "en",
+          "char_start": 2819,
+          "fiscal_year": "FY26",
+          "content_hash": "60983cde7e",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.881874,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p37:para:011",
+        "text": "We also assess and track the development impact\nof the advisory services that we provide to our\nclients to help them adopt modern technologies\nand management practices in various areas. In fiscal\n2026, 60 percent of our completed advisory projects\nimplemented with client companies were found to\nbe mostly successful or better, below IFC’s target of\n65 percent and the success rate in fiscal 2025. The\ndecline is driven primarily by project-specific design\nand implementation issues, deliberate portfolio\nclean-up efforts, and external disruptions that were\nlargely outside project control and created significant\nimplementation challenges across multiple business\nlines and geographies.\n8. For more information on IFC’s Anticipated Impact Measurement and Monitoring system, visit\nhttps://www.ifc.org/en/our-impact/measuring-and-monitoring.\n71\nTHE WORLD BANK GROUP ANNUAL REPORT 202670\nTHE WORLD BANK GROUP ANNUAL REPORT 2026",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 37,
+        "metadata": {
+          "chunker": "para",
+          "section": "ifc",
+          "char_end": 8490,
+          "language": "en",
+          "char_start": 7565,
+          "fiscal_year": "FY26",
+          "content_hash": "8163e5463c",
+          "document_type": "annual_report",
+          "section_title": "IFC"
+        },
+        "score": 0.864067,
+        "hit": false
+      }
+    ],
+    "context": "[wbg-ar-2026:p32:para:001 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 32]\nOver the past several years, IFC has been shifting\nits model to not only deploy its own capital but to\nmobilize more private capital from partners. That\nshift is reflected in our fiscal 2026 results. The World\nBank Group mobilized $112 billion in private capital\nin fiscal 2026, more than tripling from $35 billion in\nfiscal 2022. IFC contributes to that outcome through\na range of instruments and products — guarantees,\noriginate-to-distribute structures, catalytic equity,\nsyndications, anchor investments, transaction\nadvisory, and local-currency financing — each designed\nto address specific barriers that have historically\nconstrained private investment in developing\neconomies. In fiscal 2026, IFC achieved a record\n$105.6 billion in investment commitments, including\nover $73.6 billion in private capital mobilized.\nThose investments translate into real-world outcomes\nfor millions of people. The expected impact of IFC’s\nportfolio in fiscal 2026 includes:\n\n[wbg-ar-2026:p19:para:003 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 19]\nIFC’s green and social bonds are an integral part of its\nborrowing strategy with $2 billion and $4 billion issued\nin fiscal 2026, respectively. In January 2026, IFC issued\na three-year $2 billion social bond with proceeds\nfunding a diverse range of social projects which include\naffordable basic infrastructure (e.g., clean drinking\nwater, energy, transport); access to essential services;\nfood security and affordable housing; and womenowned small- and medium-sized businesses, among\nother sectors. Read more in IFC’s Green and Social Bond\nAnnual Impact Report.\nFINANCIAL INNOVATIONS TO",
+    "context_ids": [
+      "wbg-ar-2026:p32:para:001",
+      "wbg-ar-2026:p19:para:003"
+    ],
+    "context_chars": 1846,
+    "elapsed_ms": 72.19,
+    "hit1": false,
+    "hit3": false,
+    "context_hit": false
+  }
+]

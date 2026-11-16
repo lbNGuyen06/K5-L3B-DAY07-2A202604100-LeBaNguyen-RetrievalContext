@@ -1,0 +1,8 @@
+# Day 7 dependencies. baseline.py and agentic.py use only the standard library.
+# Dense retrieval reuses Day 6 code (psycopg + pgvector store, local e5 embeddings).
+psycopg[binary]==3.3.8
+python-dotenv>=1,<2
+# Local embedding model (same as Day 6: intfloat/multilingual-e5-small)
+sentence-transformers>=3,<6
+# Gemini API client for the controller (decide) and answer generation
+google-genai>=1,<2

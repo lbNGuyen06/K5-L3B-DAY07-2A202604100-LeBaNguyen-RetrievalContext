@@ -1,0 +1,10 @@
+[
+  {"query_id": "q17", "answer_grade": 2, "citation_support": [true], "notes": "Chunk p43:para:002: 30% phiên điều trần trực tiếp tổ chức tại Paris Conference Centre và các cơ sở đối tác. Khớp. (Chấm bởi Claude sau khi đọc chunk trích dẫn; cần người học rà soát.)"},
+  {"query_id": "q18", "answer_grade": 2, "citation_support": [true], "notes": "Chunk p28:para:004: allocable net income FY26 là $2.3 billion. Khớp."},
+  {"query_id": "q19", "answer_grade": 2, "citation_support": [true], "notes": "Chunk p12:para:002 nêu 16,000 việc làm y tế được bảo vệ bởi nguồn tài trợ. Tên đầy đủ 'Pacific Healthy Islands Transformation' không có trong chunk được trích dẫn mà nằm ở chunk p12:para:000 (có trong context nhưng không được trích dẫn). Nội dung đúng, thiếu một citation phụ."},
+  {"query_id": "q20", "answer_grade": 2, "citation_support": [true], "notes": "Chunk p43:para:003: 40 tháng so với 47 tháng. Khớp."},
+  {"query_id": "q21", "answer_grade": 2, "citation_support": [true], "notes": "Chunk p19:para:008: Tunisia, khoản vay 43 năm, dài hơn 8 năm so với 35 năm hiện hành. Khớp đầy đủ."},
+  {"query_id": "q22", "answer_grade": 2, "citation_support": [true], "notes": "Chunk p41:para:001: Na Uy cam kết khoảng $5 million trong 5 năm. Khớp."},
+  {"query_id": "u03", "abstention_correct": true, "citation_support": [], "notes": "Đúng: không có nội dung về tiền mã hóa; 'Kenya' có trong 3 chunk nhưng không liên quan đến quy định tiền mã hóa. Agent từ chối, không bịa."},
+  {"query_id": "u04", "abstention_correct": true, "citation_support": [], "notes": "Đúng: không có nội dung về xe điện hay đội xe của trụ sở. Agent từ chối, không bịa."}
+]

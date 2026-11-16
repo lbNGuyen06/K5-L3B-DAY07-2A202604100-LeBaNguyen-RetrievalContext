@@ -1,0 +1,20 @@
+[
+  {"query_id": "q01", "answer_grade": 2, "citation_support": [true], "notes": "Chunk p6:para:002 ghi 'cut average project-approval times from 19 months to nine'. Khớp đáp án mong đợi. (Chấm bởi Claude sau khi đọc chunk trích dẫn; cần người học rà soát.)"},
+  {"query_id": "q02", "answer_grade": 2, "citation_support": [true], "notes": "Chunk p32:para:001 ghi $112 billion FY26, hơn gấp ba so với $35 billion FY22. Khớp đầy đủ."},
+  {"query_id": "q03", "answer_grade": 2, "citation_support": [true], "notes": "Chunk p9:para:001: khoảng 40% nguồn nước sinh hoạt của Jordan vào 2030. Khớp."},
+  {"query_id": "q04", "answer_grade": 2, "citation_support": [true], "notes": "Chunk p10:para:002: hai dự án cấp điện cho khoảng 800,000 người. Khớp."},
+  {"query_id": "q05", "answer_grade": 2, "citation_support": [true], "notes": "Chunk p11:para:000: 1 triệu trang trại gia đình, công nghệ/logistics thị trường/bảo hiểm, đến 2030. Khớp đầy đủ."},
+  {"query_id": "q06", "answer_grade": 2, "citation_support": [true], "notes": "Chunk p13:para:002: tăng 60% lượng hành khách từ 2022. Khớp."},
+  {"query_id": "q07", "answer_grade": 2, "citation_support": [true], "notes": "Chunk p14:para:000: IFC đầu tư $25 million vào Hygenco. Câu trả lời bỏ phần phụ 'đầu tư trực tiếp hydro xanh đầu tiên ở Ấn Độ' nhưng câu hỏi chỉ hỏi số tiền."},
+  {"query_id": "q08", "answer_grade": 0, "citation_support": [], "notes": "Từ chối nhầm câu có đáp án. Gold nằm ở trang 16 nhưng top-3 chỉ trả về trang 4, 21, 22; agent lặp lại gần như cùng một query 3 lần. Lỗi retrieval + không đa dạng hóa query."},
+  {"query_id": "q09", "answer_grade": 2, "citation_support": [true], "notes": "Chunk p18:para:003: CPF thường 4-6 năm, tối đa 10 năm. Khớp."},
+  {"query_id": "q10", "answer_grade": 2, "citation_support": [true], "notes": "Chunk p23:para:002: CAO xử lý 63 vụ ở 30 nước. Khớp."},
+  {"query_id": "q11", "answer_grade": 2, "citation_support": [true], "notes": "Chunk p20:para:001: chi trả đầy đủ $150 million từ trái phiếu thiên tai. Câu trả lời bỏ chi tiết 'phát hành năm 2024' nhưng không sai."},
+  {"query_id": "q12", "answer_grade": 2, "citation_support": [true], "notes": "Chunk p21:para:008: ESF áp dụng cho IPF có concept decision từ 01/10/2018. Câu trả lời bỏ con số 75% danh mục, nhưng câu hỏi hỏi dự án nào được áp dụng."},
+  {"query_id": "q13", "answer_grade": 2, "citation_support": [true], "notes": "Chunk p39:para:000: danh mục bảo lãnh gộp $41.4 billion, mức cao kỷ lục. Câu trả lời bỏ mức tăng 13% nhưng câu hỏi chỉ hỏi giá trị."},
+  {"query_id": "q14", "answer_grade": 2, "citation_support": [true], "notes": "Chunk p38:para:001: $17.9 billion, 110 dự án. Câu trả lời bỏ '32 nước, +46%' nhưng đủ hai ý được hỏi."},
+  {"query_id": "q15", "answer_grade": 2, "citation_support": [true], "notes": "Chunk p31:para:005: 80 nước đã dùng ít nhất một công cụ của Toolkit. Khớp."},
+  {"query_id": "q16", "answer_grade": 0, "citation_support": [], "notes": "Từ chối nhầm. Gold ở trang 33 (bảng 'Net Income (Loss) 2,038'), dense không tìm được dòng bảng. Agent lặp lại đúng cùng một query 3 lần, top-3 giống hệt. Lỗi retrieval với dữ liệu dạng bảng + không đa dạng hóa query."},
+  {"query_id": "u01", "abstention_correct": true, "citation_support": [], "notes": "Đúng: tìm trong toàn bộ 255 chunk không có lương/thù lao của Chủ tịch ('compensation' chỉ xuất hiện trong ngữ cảnh ICSID). Agent từ chối, không bịa."},
+  {"query_id": "u02", "abstention_correct": true, "citation_support": [], "notes": "Đúng: không có chunk nào nhắc hãng hàng không hay đối tác du lịch độc quyền. Agent từ chối, không bịa."}
+]

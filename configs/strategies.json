@@ -1,0 +1,15 @@
+{
+  "embedding_model": "intfloat/multilingual-e5-small",
+  "embedding_model_note": "Đổi từ paraphrase-multilingual-MiniLM-L12-v2 (max_seq_length 128 token) sang multilingual-e5-small (512 token) TRƯỚC lần chạy đầu tiên: với MiniLM, chunk B 1000 ký tự (~220-250 token) bị cắt gần một nửa khi embed, làm lệch so sánh A-B. Query/passage dùng tiền tố 'query: ' / 'passage: ' theo yêu cầu của E5.",
+  "table": "chunks",
+  "selection_rule": "Chốt TRƯỚC khi xem test: chọn theo dev Evidence Hit@3 cao nhất; hoà thì Hit@1; hoà tiếp thì ít chunk hơn (rẻ hơn khi embed/lưu).",
+  "strategies": {
+    "A": {"description": "Fixed-size 500 ký tự, overlap 50, không filter",
+          "chunking": "fixed", "params": {"size": 500, "overlap": 50}, "use_filter": false},
+    "B": {"description": "Theo đoạn, gộp đoạn tới tối đa 1000 ký tự, không filter",
+          "chunking": "paragraph", "params": {"max_size": 1000}, "use_filter": false},
+    "C": {"description": "Giống hệt B (dùng lại index B) + metadata filter khi câu hỏi có filter",
+          "chunking": "paragraph", "params": {"max_size": 1000}, "use_filter": true,
+          "reuse_index": "B"}
+  }
+}

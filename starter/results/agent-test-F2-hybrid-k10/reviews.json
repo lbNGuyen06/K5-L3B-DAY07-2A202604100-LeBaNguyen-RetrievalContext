@@ -1,0 +1,10 @@
+[
+  {"query_id": "q17", "answer_grade": 2, "citation_support": [true], "notes": "p43:para:002: 30% phiên điều trần trực tiếp tại Paris Conference Centre và cơ sở đối tác. Khớp. (Chấm bởi Claude sau khi đọc các chunk trích dẫn; cần người học rà soát.)"},
+  {"query_id": "q18", "answer_grade": 2, "citation_support": [true, true], "notes": "p28:para:004 ghi allocable net income $2.3 billion; p29:para:000 (Bảng 8) ghi 'Allocable income 2,314' cho FY26 nên '$2,314 million' trong câu trả lời có căn cứ."},
+  {"query_id": "q19", "answer_grade": 2, "citation_support": [true, true], "notes": "p12:para:001 ghi nguyên văn 'create, protect, and safeguard 16,000 vital health and health-support jobs across the Pacific'; p12:para:002 xác nhận 16,000 việc làm. Khớp đầy đủ đáp án mong đợi (đã sửa so với lần chạy trước)."},
+  {"query_id": "q20", "answer_grade": 2, "citation_support": [true], "notes": "p43:para:003: 40 tháng so với 47 tháng. Khớp."},
+  {"query_id": "q21", "answer_grade": 2, "citation_support": [true, true], "notes": "p19:para:008: Tunisia, 43 năm, dài hơn 8 năm so với 35 năm. Cùng một chunk được trích dẫn hai lần, không ảnh hưởng nội dung."},
+  {"query_id": "q22", "answer_grade": 2, "citation_support": [true], "notes": "p41:para:001: Na Uy cam kết khoảng $5 million trong 5 năm. Khớp."},
+  {"query_id": "u03", "abstention_correct": true, "citation_support": [], "notes": "Đúng: tài liệu không có nội dung về tiền mã hóa ở Kenya. Agent từ chối, không bịa."},
+  {"query_id": "u04", "abstention_correct": true, "citation_support": [], "notes": "Đúng: tài liệu không có nội dung về xe điện hay đội xe của trụ sở. Agent từ chối, không bịa."}
+]

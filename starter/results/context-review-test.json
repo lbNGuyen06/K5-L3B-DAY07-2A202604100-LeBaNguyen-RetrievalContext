@@ -1,0 +1,25 @@
+{
+  "description": "Chấm context 0/1/2 cho các câu test có đáp án (BENCHMARK.md dòng 27). 0 = không có evidence; 1 = có nhưng thiếu điều kiện hoặc nguồn; 2 = đủ evidence và nguồn. Retriever: dense, strategy B, top-3. Nguồn: starter/results/benchmark-test-baseline và benchmark-test-chosen (traces_dense.json). Chấm bởi Claude sau khi đọc context; người học cần rà soát, đặc biệt q19.",
+  "configs": {
+    "baseline": {"top_k": 3, "budget_chars": 800},
+    "chosen": {"top_k": 3, "budget_chars": 2000}
+  },
+  "reviews": [
+    {"query_id": "q17", "baseline": {"grade": 0, "context_ids": [], "note": "Context rỗng: chunk p43:para:002 dài ~1100 ký tự, không vừa budget 800 nên bị bỏ."},
+                         "chosen":   {"grade": 2, "context_ids": ["p43:para:002"], "note": "Chứa nguyên văn '30 percent of all in-person hearings were held at the World Bank Group Paris Conference Centre' kèm nguồn và trang."}},
+    {"query_id": "q18", "baseline": {"grade": 0, "context_ids": ["p27:para:002"], "note": "Chỉ chứa chunk p27 về cam kết cho vay mới ($50.2 billion), không có allocable net income; chunk đúng (p28:para:004) bị bỏ vì quá budget."},
+                         "chosen":   {"grade": 2, "context_ids": ["p28:para:004", "p27:para:002"], "note": "Chunk p28:para:004 ghi 'Allocable net income in fiscal 2026 was $2.3 billion'."}},
+    {"query_id": "q19", "baseline": {"grade": 0, "context_ids": [], "note": "Context rỗng do budget 800."},
+                         "chosen":   {"grade": 1, "context_ids": ["p12:para:000", "p12:para:002"], "note": "Có con số '16,000 health and health-support jobs ... will be safeguarded by our financing' (p12:para:002) và tên dự án PHIT (p12:para:000). Nhưng câu gold 'create, protect, and safeguard 16,000 vital ... jobs' nằm ở p12:para:001 (rank 3) bị bỏ vì budget, nên thiếu phần 'create, protect'. Chấm 1 theo hướng thận trọng; chỉ số tự động báo miss. Có thể chấm 2 nếu coi 'safeguard' đủ trả lời."}},
+    {"query_id": "q20", "baseline": {"grade": 0, "context_ids": [], "note": "Context rỗng do budget 800."},
+                         "chosen":   {"grade": 2, "context_ids": ["p43:para:003", "p42:para:002"], "note": "Chunk p43:para:003 ghi 'averaging 40 months from registration to conclusion compared to 47'."}},
+    {"query_id": "q21", "baseline": {"grade": 0, "context_ids": [], "note": "Context rỗng do budget 800."},
+                         "chosen":   {"grade": 2, "context_ids": ["p19:para:008", "p19:para:006"], "note": "Chunk p19:para:008 ghi Tunisia, khoản vay 43 năm, dài hơn 8 năm so với 35 năm hiện hành."}},
+    {"query_id": "q22", "baseline": {"grade": 0, "context_ids": [], "note": "Context rỗng do budget 800."},
+                         "chosen":   {"grade": 2, "context_ids": ["p41:para:001"], "note": "Chunk p41:para:001 ghi Na Uy cam kết 'approximately $5 million over five years'."}}
+  ],
+  "summary": {
+    "baseline": {"n": 6, "grade_0": 6, "grade_1": 0, "grade_2": 0, "mean": 0.0},
+    "chosen":   {"n": 6, "grade_0": 0, "grade_1": 1, "grade_2": 5, "mean": 1.83}
+  }
+}

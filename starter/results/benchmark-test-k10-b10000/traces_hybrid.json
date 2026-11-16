@@ -1,0 +1,1362 @@
+[
+  {
+    "query_id": "q17",
+    "split": "test",
+    "question": "What share of ICSID's in-person hearings in fiscal 2026 took place at the World Bank Group Paris Conference Centre and partner facilities?",
+    "top_k": 10,
+    "budget_chars": 10000,
+    "results": [
+      {
+        "id": "wbg-ar-2026:p43:para:002",
+        "text": "The Paris Office, announced in March 2026 and to\nbe located at the World Bank Group’s Paris office,\nwill support training activities and strengthen\nconnections with State officials, legal practitioners, and\norganizations in the region and beyond. Paris has long\nbeen one of the Centre’s most active hearing venues.\nIn fiscal 2026, 30 percent of all in-person hearings were\nheld at the World Bank Group Paris Conference Centre,\nICSID’s premier hearing venue in use since 1972, and\nat facilities of leading institutions with which ICSID has\nestablished cooperation agreements.\nTogether, these offices reflect ICSID’s commitment to\nbringing its services closer to Member States, parties,\nand practitioners.\nSHARING KNOWLEDGE, SUPPORTING\nPRACTITIONERS AND POLICYMAKERS\nAs part of the Knowledge Bank, ICSID produces and\nshares knowledge that actively contributes to the\ndevelopment and modernization of international\ninvestment law and dispute settlement.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 43,
+        "metadata": {
+          "chunker": "para",
+          "section": "icsid",
+          "char_end": 2474,
+          "language": "en",
+          "char_start": 1524,
+          "fiscal_year": "FY26",
+          "content_hash": "11ce61d9c6",
+          "document_type": "annual_report",
+          "section_title": "ICSID"
+        },
+        "score": 0.032787,
+        "hit": true
+      },
+      {
+        "id": "wbg-ar-2026:p44:para:002",
+        "text": "Of all\nthe in-person hearings in fiscal 2026, 44 percent were\nheld at ICSID’s hearing center in Washington, D.C., with\nthe remainder taking place at venues agreed upon by\nthe parties: Paris (30 percent), London (12 percent),\nSingapore (5 percent), and other locations (9 percent).\nICSID continued to see a diverse pool of arbitrators,\nconciliators, and committee members in fiscal 2026.\nThe Centre recorded 250 appointments to ICSID\ncases, the second highest number in a single fiscal\nyear. Appointees represented 52 different nationalities,\nand 29 percent of all appointments were nationals from\nlow- or middle-income economies. First-time appointees\naccounted for 8 percent of all appointments; among\nthem, 25 percent were nationals of low- or middleincome economies and 35 percent were women.\nThe ICSID Secretariat comprises 76 staff members representing 39 nationalities and\nspeaking 22 languages, providing professional legal, administrative, and financial\nservices across all cases.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 44,
+        "metadata": {
+          "chunker": "para",
+          "section": "icsid",
+          "char_end": 2788,
+          "language": "en",
+          "char_start": 1799,
+          "fiscal_year": "FY26",
+          "content_hash": "5f78efb391",
+          "document_type": "annual_report",
+          "section_title": "ICSID"
+        },
+        "score": 0.032258,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p42:para:009",
+        "text": "EXPANDING GLOBAL PRESENCE\nICSID has long maintained a broad international reach,\nand expanding its global presence is among its current\ninstitutional priorities. Fiscal 2026 marked a landmark\nmoment in this effort with the announcement of new\noffices in Singapore and Paris, the Centre’s first staffed\noffices outside Washington, D.C. This expansion will\nenhance ICSID’s capacity to deliver tailored support,\nstrengthen outreach, and maintain the highest\nstandards in case management.\nThe Singapore office, announced in August 2025, is\nlocated at the World Bank Group’s Singapore office and\nat Maxwell Chambers. It will serve as a regional hub\nfor capacity building in investment dispute settlement;\npromote the appointment of counsel, arbitrators,\nconciliators, and mediators from across Asia and the\nPacific; and support the growing interest in mediation\n81\nTHE WORLD BANK GROUP ANNUAL REPORT 202680\nTHE WORLD BANK GROUP ANNUAL REPORT 2026",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 42,
+        "metadata": {
+          "chunker": "para",
+          "section": "icsid",
+          "char_end": 6581,
+          "language": "en",
+          "char_start": 5640,
+          "fiscal_year": "FY26",
+          "content_hash": "5fcbdf7d8b",
+          "document_type": "annual_report",
+          "section_title": "ICSID"
+        },
+        "score": 0.031746,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p42:para:007",
+        "text": "World Bank Group\nresearch is examining the impact of ICSID membership\non bilateral foreign direct investment flows; the\nBusiness Ready (B-READY) team integrated ICSIDrelated questions into its 2026 data collection cycle;\nand ICSID contributed to World Bank Group reports on\ndispute resolution, supported the development of legal\nframeworks for carbon markets, and co-organized a\nconference on investment arbitration.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 42,
+        "metadata": {
+          "chunker": "para",
+          "section": "icsid",
+          "char_end": 4954,
+          "language": "en",
+          "char_start": 4538,
+          "fiscal_year": "FY26",
+          "content_hash": "86e3c27d37",
+          "document_type": "annual_report",
+          "section_title": "ICSID"
+        },
+        "score": 0.03055,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p3:para:001",
+        "text": "• International Centre for Settlement of Investment Disputes (ICSID),\nwhich provides international facilities for conciliation, mediation, and\narbitration of investment disputes.\nOur mission is to end extreme poverty and boost\nshared prosperity on a livable planet. This mission is\nthreatened by multiple, intertwined crises. Time is of the\nessence. Through the Knowledge Bank and our financial\ncommitments, we are driving impactful development\nthat is:\n• Inclusive of everyone, including women and young people.\n• Resilient to shocks and fragility.\n• Sustainable, through growth and job creation, human development,\nfiscal and debt management, food security, and access to clean air, water,\nand affordable energy.\nABOUT US\n3\nTHE WORLD BANK GROUP ANNUAL REPORT 20262\nTHE WORLD BANK GROUP ANNUAL REPORT 2026",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 3,
+        "metadata": {
+          "chunker": "para",
+          "section": "about_us",
+          "char_end": 1733,
+          "language": "en",
+          "char_start": 927,
+          "fiscal_year": "FY26",
+          "content_hash": "bcb84847e4",
+          "document_type": "annual_report",
+          "section_title": "About Us"
+        },
+        "score": 0.029211,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p43:para:006",
+        "text": "FIGURE 5: ICSID ADMINISTERED CASES BY FISCAL YEAR\nFiscal 2026 was a record year for ICSID. The Centre\nadministered 363 cases — the highest in its history —\nup from 347 in fiscal 2025 and 341 in fiscal 2024. In\naddition, ICSID provided services in 15 cases governed\nby non-ICSID rules in fiscal 2026, 12 of which were\nconducted under the UNCITRAL rules.\nDuring fiscal 2026, ICSID registered 60 new cases —\n57 arbitrations under the ICSID Convention and three\nunder the Additional Facility Rules — bringing the\ncumulative total to 1,118 registered cases as of\nJune 30, 2026. On the mediation front, ICSID had\nreceived a total of seven requests under Mediation\nRule 6 and Mediation Rule 5, with one proceeding\nadministered as of fiscal 2026. The year also saw 83\nproceedings concluded, marking the third consecutive\nfiscal year in which conclusions surpassed 80.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 43,
+        "metadata": {
+          "chunker": "para",
+          "section": "icsid",
+          "char_end": 6077,
+          "language": "en",
+          "char_start": 5218,
+          "fiscal_year": "FY26",
+          "content_hash": "7aad96740f",
+          "document_type": "annual_report",
+          "section_title": "ICSID"
+        },
+        "score": 0.028898,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p42:para:005",
+        "text": "There is no cost to join or\nmaintain membership in ICSID.\nMEMBERSHIP UPDATES AND BENEFITS\nREACHING FURTHER, WORKING CLOSER\nICSID continued to deepen its worldwide engagement\nin fiscal 2026. Staff participated in over 180 activities,\nthe most in a single year to date, across 60 cities as part\nof a robust outreach and capacity-building program.\nDelivered in person and remotely in the Centre’s\nthree official languages (English, Spanish, and French),\nas well as in Italian and Japanese, these activities\nreached officials from over 90 States, along with legal\npractitioners, students, and representatives of regional\nand local institutions.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 42,
+        "metadata": {
+          "chunker": "para",
+          "section": "icsid",
+          "char_end": 3929,
+          "language": "en",
+          "char_start": 3289,
+          "fiscal_year": "FY26",
+          "content_hash": "3a3594f11d",
+          "document_type": "annual_report",
+          "section_title": "ICSID"
+        },
+        "score": 0.02885,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p42:para:000",
+        "text": "The International Centre for Settlement of Investment Disputes (ICSID) supports cross-border\ninvestment by offering an independent, specialized forum for the resolution of disputes. Effective,\nimpartial dispute resolution strengthens confidence among investors and States and enhances\npredictability — core pillars of a favorable investment landscape.\nICSID is a unique institution, created by the Convention\non the Settlement of Investment Disputes between\nStates and Nationals of Other States. This multilateral\nagreement, also known as the ICSID Convention, was\nformulated in 1965 by the Executive Directors of the\nWorld Bank.\nICSID is essential to the World Bank Group’s work to\naccelerate job creation at scale, a strategy focused on\ninvesting in the physical and human infrastructure\nthat people and businesses need to thrive, supporting\nbusiness-enabling environments, and mobilizing\nprivate capital.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 42,
+        "metadata": {
+          "chunker": "para",
+          "section": "icsid",
+          "char_end": 907,
+          "language": "en",
+          "char_start": 0,
+          "fiscal_year": "FY26",
+          "content_hash": "7e972984ca",
+          "document_type": "annual_report",
+          "section_title": "ICSID"
+        },
+        "score": 0.028778,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p42:para:008",
+        "text": "ICSID also remains actively engaged in multilateral\nefforts to modernize investor-State dispute settlement\n(ISDS) mechanisms. In fiscal 2026, the Centre\nparticipated in five sessions of the United Nations\nCommission on International Trade Law (UNCITRAL)\nWorking Group III, contributing substantively to\nState-led reform discussions, including by submitting\ncomments on the feasibility of modifying the ICSID\nConvention to allow awards to be reviewed by a\npermanent appellate tribunal. ICSID also deepened\nits engagement with the International Institute for the\nUnification of Private Law (UNIDROIT) in support of\nefforts to modernize and harmonize investor-State\ninvestment contracts.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 42,
+        "metadata": {
+          "chunker": "para",
+          "section": "icsid",
+          "char_end": 5639,
+          "language": "en",
+          "char_start": 4955,
+          "fiscal_year": "FY26",
+          "content_hash": "a413768551",
+          "document_type": "annual_report",
+          "section_title": "ICSID"
+        },
+        "score": 0.027652,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p44:para:003",
+        "text": "Each case is assigned a dedicated management team led\nby an experienced legal counsel and supported by paralegals and legal assistants. A\nfinance and administration team oversees the financial aspects of cases and manages\nthe planning and logistics of ICSID sessions and hearings, while an institutional\nmatters team handles ICSID membership and the Centre’s publication program.\nEXPERT SUPPORT\nFor more information, visit icsid.worldbank.org.\n85\nTHE WORLD BANK GROUP ANNUAL REPORT 202684\nTHE WORLD BANK GROUP ANNUAL REPORT 2026",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 44,
+        "metadata": {
+          "chunker": "para",
+          "section": "icsid",
+          "char_end": 3316,
+          "language": "en",
+          "char_start": 2788,
+          "fiscal_year": "FY26",
+          "content_hash": "be42516189",
+          "document_type": "annual_report",
+          "section_title": "ICSID"
+        },
+        "score": 0.02739,
+        "hit": false
+      }
+    ],
+    "context": "[wbg-ar-2026:p43:para:002 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 43]\nThe Paris Office, announced in March 2026 and to\nbe located at the World Bank Group’s Paris office,\nwill support training activities and strengthen\nconnections with State officials, legal practitioners, and\norganizations in the region and beyond. Paris has long\nbeen one of the Centre’s most active hearing venues.\nIn fiscal 2026, 30 percent of all in-person hearings were\nheld at the World Bank Group Paris Conference Centre,\nICSID’s premier hearing venue in use since 1972, and\nat facilities of leading institutions with which ICSID has\nestablished cooperation agreements.\nTogether, these offices reflect ICSID’s commitment to\nbringing its services closer to Member States, parties,\nand practitioners.\nSHARING KNOWLEDGE, SUPPORTING\nPRACTITIONERS AND POLICYMAKERS\nAs part of the Knowledge Bank, ICSID produces and\nshares knowledge that actively contributes to the\ndevelopment and modernization of international\ninvestment law and dispute settlement.\n\n[wbg-ar-2026:p44:para:002 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 44]\nOf all\nthe in-person hearings in fiscal 2026, 44 percent were\nheld at ICSID’s hearing center in Washington, D.C., with\nthe remainder taking place at venues agreed upon by\nthe parties: Paris (30 percent), London (12 percent),\nSingapore (5 percent), and other locations (9 percent).\nICSID continued to see a diverse pool of arbitrators,\nconciliators, and committee members in fiscal 2026.\nThe Centre recorded 250 appointments to ICSID\ncases, the second highest number in a single fiscal\nyear. Appointees represented 52 different nationalities,\nand 29 percent of all appointments were nationals from\nlow- or middle-income economies. First-time appointees\naccounted for 8 percent of all appointments; among\nthem, 25 percent were nationals of low- or middleincome economies and 35 percent were women.\nThe ICSID Secretariat comprises 76 staff members representing 39 nationalities and\nspeaking 22 languages, providing professional legal, administrative, and financial\nservices across all cases.\n\n[wbg-ar-2026:p42:para:009 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 42]\nEXPANDING GLOBAL PRESENCE\nICSID has long maintained a broad international reach,\nand expanding its global presence is among its current\ninstitutional priorities. Fiscal 2026 marked a landmark\nmoment in this effort with the announcement of new\noffices in Singapore and Paris, the Centre’s first staffed\noffices outside Washington, D.C. This expansion will\nenhance ICSID’s capacity to deliver tailored support,\nstrengthen outreach, and maintain the highest\nstandards in case management.\nThe Singapore office, announced in August 2025, is\nlocated at the World Bank Group’s Singapore office and\nat Maxwell Chambers. It will serve as a regional hub\nfor capacity building in investment dispute settlement;\npromote the appointment of counsel, arbitrators,\nconciliators, and mediators from across Asia and the\nPacific; and support the growing interest in mediation\n81\nTHE WORLD BANK GROUP ANNUAL REPORT 202680\nTHE WORLD BANK GROUP ANNUAL REPORT 2026\n\n[wbg-ar-2026:p42:para:007 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 42]\nWorld Bank Group\nresearch is examining the impact of ICSID membership\non bilateral foreign direct investment flows; the\nBusiness Ready (B-READY) team integrated ICSIDrelated questions into its 2026 data collection cycle;\nand ICSID contributed to World Bank Group reports on\ndispute resolution, supported the development of legal\nframeworks for carbon markets, and co-organized a\nconference on investment arbitration.\n\n[wbg-ar-2026:p3:para:001 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 3]\n• International Centre for Settlement of Investment Disputes (ICSID),\nwhich provides international facilities for conciliation, mediation, and\narbitration of investment disputes.\nOur mission is to end extreme poverty and boost\nshared prosperity on a livable planet. This mission is\nthreatened by multiple, intertwined crises. Time is of the\nessence. Through the Knowledge Bank and our financial\ncommitments, we are driving impactful development\nthat is:\n• Inclusive of everyone, including women and young people.\n• Resilient to shocks and fragility.\n• Sustainable, through growth and job creation, human development,\nfiscal and debt management, food security, and access to clean air, water,\nand affordable energy.\nABOUT US\n3\nTHE WORLD BANK GROUP ANNUAL REPORT 20262\nTHE WORLD BANK GROUP ANNUAL REPORT 2026\n\n[wbg-ar-2026:p43:para:006 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 43]\nFIGURE 5: ICSID ADMINISTERED CASES BY FISCAL YEAR\nFiscal 2026 was a record year for ICSID. The Centre\nadministered 363 cases — the highest in its history —\nup from 347 in fiscal 2025 and 341 in fiscal 2024. In\naddition, ICSID provided services in 15 cases governed\nby non-ICSID rules in fiscal 2026, 12 of which were\nconducted under the UNCITRAL rules.\nDuring fiscal 2026, ICSID registered 60 new cases —\n57 arbitrations under the ICSID Convention and three\nunder the Additional Facility Rules — bringing the\ncumulative total to 1,118 registered cases as of\nJune 30, 2026. On the mediation front, ICSID had\nreceived a total of seven requests under Mediation\nRule 6 and Mediation Rule 5, with one proceeding\nadministered as of fiscal 2026. The year also saw 83\nproceedings concluded, marking the third consecutive\nfiscal year in which conclusions surpassed 80.\n\n[wbg-ar-2026:p42:para:005 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 42]\nThere is no cost to join or\nmaintain membership in ICSID.\nMEMBERSHIP UPDATES AND BENEFITS\nREACHING FURTHER, WORKING CLOSER\nICSID continued to deepen its worldwide engagement\nin fiscal 2026. Staff participated in over 180 activities,\nthe most in a single year to date, across 60 cities as part\nof a robust outreach and capacity-building program.\nDelivered in person and remotely in the Centre’s\nthree official languages (English, Spanish, and French),\nas well as in Italian and Japanese, these activities\nreached officials from over 90 States, along with legal\npractitioners, students, and representatives of regional\nand local institutions.\n\n[wbg-ar-2026:p42:para:000 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 42]\nThe International Centre for Settlement of Investment Disputes (ICSID) supports cross-border\ninvestment by offering an independent, specialized forum for the resolution of disputes. Effective,\nimpartial dispute resolution strengthens confidence among investors and States and enhances\npredictability — core pillars of a favorable investment landscape.\nICSID is a unique institution, created by the Convention\non the Settlement of Investment Disputes between\nStates and Nationals of Other States. This multilateral\nagreement, also known as the ICSID Convention, was\nformulated in 1965 by the Executive Directors of the\nWorld Bank.\nICSID is essential to the World Bank Group’s work to\naccelerate job creation at scale, a strategy focused on\ninvesting in the physical and human infrastructure\nthat people and businesses need to thrive, supporting\nbusiness-enabling environments, and mobilizing\nprivate capital.\n\n[wbg-ar-2026:p42:para:008 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 42]\nICSID also remains actively engaged in multilateral\nefforts to modernize investor-State dispute settlement\n(ISDS) mechanisms. In fiscal 2026, the Centre\nparticipated in five sessions of the United Nations\nCommission on International Trade Law (UNCITRAL)\nWorking Group III, contributing substantively to\nState-led reform discussions, including by submitting\ncomments on the feasibility of modifying the ICSID\nConvention to allow awards to be reviewed by a\npermanent appellate tribunal. ICSID also deepened\nits engagement with the International Institute for the\nUnification of Private Law (UNIDROIT) in support of\nefforts to modernize and harmonize investor-State\ninvestment contracts.\n\n[wbg-ar-2026:p44:para:003 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 44]\nEach case is assigned a dedicated management team led\nby an experienced legal counsel and supported by paralegals and legal assistants. A\nfinance and administration team oversees the financial aspects of cases and manages\nthe planning and logistics of ICSID sessions and hearings, while an institutional\nmatters team handles ICSID membership and the Centre’s publication program.\nEXPERT SUPPORT\nFor more information, visit icsid.worldbank.org.\n85\nTHE WORLD BANK GROUP ANNUAL REPORT 202684\nTHE WORLD BANK GROUP ANNUAL REPORT 2026",
+    "context_ids": [
+      "wbg-ar-2026:p43:para:002",
+      "wbg-ar-2026:p44:para:002",
+      "wbg-ar-2026:p42:para:009",
+      "wbg-ar-2026:p42:para:007",
+      "wbg-ar-2026:p3:para:001",
+      "wbg-ar-2026:p43:para:006",
+      "wbg-ar-2026:p42:para:005",
+      "wbg-ar-2026:p42:para:000",
+      "wbg-ar-2026:p42:para:008",
+      "wbg-ar-2026:p44:para:003"
+    ],
+    "context_chars": 9205,
+    "elapsed_ms": 65.47,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q18",
+    "split": "test",
+    "question": "What was IBRD's allocable net income in fiscal 2026?",
+    "top_k": 10,
+    "budget_chars": 10000,
+    "results": [
+      {
+        "id": "wbg-ar-2026:p28:para:004",
+        "text": "As a cooperative institution, IBRD does not seek to\nmaximize profit but rather to earn enough income to\nensure the long-term financial capacity necessary to\nsustain its development activities. Allocable net income\nin fiscal 2026 was $2.3 billion, and out of this, the\nExecutive Directors approved the allocation of\n$1.1 billion to the General Reserve, and recommended\nto the Board of Governors an allocation of $750 million\nto IDA and $500 million to Surplus. Further, the Board\nrecommended to IBRD’s Board of Governors the\nfollowing transfers out of Surplus: $300 million to the\nIBRD Trust Fund for Gaza and West Bank, $100 million\nto the Grant Facility for Project Preparation, and\n$100 million to the IBRD Surplus-Funded Livable Planet\nFund. As part of its lending, borrowing, and investment\nactivities, IBRD is exposed to market, counterparty,\ncountry credit, and operational risks.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 28,
+        "metadata": {
+          "chunker": "para",
+          "section": "ibrd_ida",
+          "char_end": 3332,
+          "language": "en",
+          "char_start": 2446,
+          "fiscal_year": "FY26",
+          "content_hash": "b4cd13345f",
+          "document_type": "annual_report",
+          "section_title": "World Bank (IBRD/IDA)"
+        },
+        "score": 0.032787,
+        "hit": true
+      },
+      {
+        "id": "wbg-ar-2026:p27:para:002",
+        "text": "In fiscal 2026, new\nIBRD lending commitments amounted to $50.2 billion\nfor 147 operations, of which 13 were IBRD and IDA\nblended operations.\nTABLE 4: IBRD GROSS DISBURSEMENTS BY REGION, FISCAL 2022-26",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 27,
+        "metadata": {
+          "chunker": "para",
+          "section": "ibrd_ida",
+          "char_end": 1505,
+          "language": "en",
+          "char_start": 1305,
+          "fiscal_year": "FY26",
+          "content_hash": "868449cf8d",
+          "document_type": "annual_report",
+          "section_title": "World Bank (IBRD/IDA)"
+        },
+        "score": 0.031054,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p29:para:002",
+        "text": "e. Usable Equity includes the transfer to the General Reserve from fiscal 2026 net income, which was approved by the Board on\nAugust 6, 2026. See the IBRD Management’s Discussion and Analysis: June 30, 2026, Usable Equity components in Table 33:\nEquity-to-Loans Ratio, and reconciliation of IBRD’s Total Equity to Usable Equity in Table 34: Usable Equity.\nf. See components in the IBRD Management’s Discussion and Analysis: June 30, 2026, Table 33: Equity-to-Loans Ratio.\nFor more information, visit www.worldbank.org/ibrd.\nIDA FINANCIAL COMMITMENTS\nAND SERVICES\nIDA is the world’s largest source of concessional\nfinancing for low-income countries. It provides\nfinancing through development credits, grants,\nguarantees, and loans to help these countries boost\neconomic growth, create jobs, reduce poverty, and\nimprove living conditions for those most in need.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 29,
+        "metadata": {
+          "chunker": "para",
+          "section": "ibrd_ida",
+          "char_end": 2701,
+          "language": "en",
+          "char_start": 1842,
+          "fiscal_year": "FY26",
+          "content_hash": "a236780725",
+          "document_type": "annual_report",
+          "section_title": "World Bank (IBRD/IDA)"
+        },
+        "score": 0.03055,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p29:para:000",
+        "text": "TABLE 8: IBRD KEY FINANCIAL INDICATORS, FISCAL 2022–26\nMILLIONS OF DOLLARS, EXCEPT RATIOS, WHICH ARE IN PERCENTAGES\nFY26 FY25 FY24 FY23 FY22\nLending Highlights\nNet commitmentsa 50,177 40,885 37,568 38,572 33,072\nGross disbursements 26,955 30,779 33,450 25,504 28,168\nNet disbursements 9,487 14,794 20,115 12,736 14,876\nReported Basis\nIncome statements\nBoard of Governors–approved and other transfers (1,101) (815) (371) (221) (354)\nNet (loss) income 2,060 2,100 2,142 1,144 3,990\nBalance sheet\nTotal assets 403,512 399,511 356,612 332,641 317,542\nInvestments-Tradingb 96,951 102,674 82,728 79,199 81,783\nNet loans outstanding 287,659 280,043 260,236 241,041 227,092\nBorrowingsb 309,245 306,161 261,790 237,265 235,173\nTotal equity 74,353 72,012 63,484 60,382 55,320\nAllocable Incomec\nAllocable income 2,314 2,384 1,849 1,312 806\nAllocated as follows:",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 29,
+        "metadata": {
+          "chunker": "para",
+          "section": "ibrd_ida",
+          "char_end": 850,
+          "language": "en",
+          "char_start": 0,
+          "fiscal_year": "FY26",
+          "content_hash": "3631fff5f5",
+          "document_type": "annual_report",
+          "section_title": "World Bank (IBRD/IDA)"
+        },
+        "score": 0.030018,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p29:para:001",
+        "text": "General Reserve 1,064 1,182 834 921 589\nInternational Development Association 750 782 515 291 117\nSurplus 500 420 500 100 100\nUsable Equityd,e 59,733 57,878 54,655 53,105 50,481\nCapital Adequacy\nEquity-to-loans ratiof (%) 21.6 21.6 21.5 22.0 22.0\nNote: For a complete presentation of fiscal year data, see the full financial statements: https://financesone.worldbank.org.\na. Commitments that have been approved by the Executive Directors (referred to as “the Board” in this document) and are net of full\nterminations and cancellations relating to commitments approved in the same fiscal year.\nb. See Notes to the Financial Statements: Note C - Investments, Note E - Borrowings.\nc. Refer to the IBRD Management’s Discussion and Analysis: June 30, 2026, Table 9: Allocable Income, for a reconciliation to net\nincome as per reported basis.\nd. Excludes amounts associated with unrealized mark-to-market gains/losses on non-trading portfolios, net and related cumulative\ntranslation adjustments.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 29,
+        "metadata": {
+          "chunker": "para",
+          "section": "ibrd_ida",
+          "char_end": 1841,
+          "language": "en",
+          "char_start": 851,
+          "fiscal_year": "FY26",
+          "content_hash": "2a6aba91f8",
+          "document_type": "annual_report",
+          "section_title": "World Bank (IBRD/IDA)"
+        },
+        "score": 0.028992,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p19:para:002",
+        "text": "IN CAPITAL MARKETS\nIBRD has mobilized finance for middle-income\ncountries for more than 75 years, raising over\n$1 trillion from capital markets since issuing its first\nbond in 1947. In fiscal 2026, IBRD, which is rated\ntriple-A by the major credit rating agencies, raised\nnearly $50 billion through Sustainable Development\nBonds issued in a variety of structures and maturities.\nPlease see the IBRD’s annual Impact Report for more\ninformation about how funds raised in the capital\nmarkets support IBRD-financed projects.\nIDA also issues Sustainable Development Bonds\nto scale up its development impact, and in fiscal\n2026, issued approximately $14 billion in bonds.\nRead IDA’s Impact Report to learn more. In March\n2026, following action by the United States (U.S.)\nCongress, securities issued or guaranteed by IDA\njoined IBRD and IFC as “exempted securities” by the\nU.S. Securities and Exchange Commission.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 19,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 2818,
+          "language": "en",
+          "char_start": 1911,
+          "fiscal_year": "FY26",
+          "content_hash": "0667f08273",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.028577,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p19:para:004",
+        "text": "MAXIMIZE DEVELOPMENT IMPACT\nShareholder support for IBRD’s innovative financing\ninstruments continued to grow in fiscal 2026,\nstrengthening our capacity to scale lending and tackle\nglobal challenges. Singapore pledged funds to our\nhybrid capital instrument and New Zealand became\nthe first shareholder to subscribe to our Enhanced\nCallable Capital instrument, bringing hybrid capital\ncontributions to $1.2 billion. Together, these new\ninstruments demonstrate IBRD’s strong leveraging\npower, turning $1 into $6-10 of additional lending over\ntime, and unlocking tens of billions for global impact.\nIBRD has continued to structure outcome bonds that mobilize private capital for\nspecific development projects. For example, in December 2025, IBRD issued a\n$200 million principal-protected bond, the Clean Cooking Outcome Bond, that\nmobilized private capital to support the distribution and use of cleaner cooking\nstoves in Ghana.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 19,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 4333,
+          "language": "en",
+          "char_start": 3407,
+          "fiscal_year": "FY26",
+          "content_hash": "756f3d2a65",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.028043,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p28:para:000",
+        "text": "TABLE 6: IBRD COMMITMENTS BY THEME, FISCAL 2025-26",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 28,
+        "metadata": {
+          "chunker": "para",
+          "section": "ibrd_ida",
+          "char_end": 50,
+          "language": "en",
+          "char_start": 0,
+          "fiscal_year": "FY26",
+          "content_hash": "954af91550",
+          "document_type": "annual_report",
+          "section_title": "World Bank (IBRD/IDA)"
+        },
+        "score": 0.028039,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p28:para:003",
+        "text": "AND FINANCIAL MODEL\nIBRD finances its loans through its own equity and by\nborrowing in the capital markets via the issuance of\nIBRD bonds to fund development projects in member\ncountries. IBRD is rated triple-A by both Moody’s and\nStandard & Poor’s, and investors view its bonds as highquality and liquid securities. IBRD’s funding approach\ncontinues to aim to achieve the best long-term value\nfor borrowing members on a sustainable basis. IBRD’s\nability to channel the funds it raises in international\ncapital markets to developing member countries is\nimportant in achieving its goals.\nIBRD’s approach has enabled it to borrow at favorable\nmarket terms and pass the savings on to its borrowing\nmembers. Funds not immediately deployed for lending\nare held in IBRD’s investment portfolio to provide\nliquidity for its operations. In fiscal 2026, IBRD raised\nnearly $50 billion by issuing medium- and long-term\nbonds in a variety of currencies.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 28,
+        "metadata": {
+          "chunker": "para",
+          "section": "ibrd_ida",
+          "char_end": 2445,
+          "language": "en",
+          "char_start": 1504,
+          "fiscal_year": "FY26",
+          "content_hash": "ba1801c21a",
+          "document_type": "annual_report",
+          "section_title": "World Bank (IBRD/IDA)"
+        },
+        "score": 0.027497,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p32:para:001",
+        "text": "Over the past several years, IFC has been shifting\nits model to not only deploy its own capital but to\nmobilize more private capital from partners. That\nshift is reflected in our fiscal 2026 results. The World\nBank Group mobilized $112 billion in private capital\nin fiscal 2026, more than tripling from $35 billion in\nfiscal 2022. IFC contributes to that outcome through\na range of instruments and products — guarantees,\noriginate-to-distribute structures, catalytic equity,\nsyndications, anchor investments, transaction\nadvisory, and local-currency financing — each designed\nto address specific barriers that have historically\nconstrained private investment in developing\neconomies. In fiscal 2026, IFC achieved a record\n$105.6 billion in investment commitments, including\nover $73.6 billion in private capital mobilized.\nThose investments translate into real-world outcomes\nfor millions of people. The expected impact of IFC’s\nportfolio in fiscal 2026 includes:",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 32,
+        "metadata": {
+          "chunker": "para",
+          "section": "ifc",
+          "char_end": 1685,
+          "language": "en",
+          "char_start": 722,
+          "fiscal_year": "FY26",
+          "content_hash": "27891d6d6a",
+          "document_type": "annual_report",
+          "section_title": "IFC"
+        },
+        "score": 0.027056,
+        "hit": false
+      }
+    ],
+    "context": "[wbg-ar-2026:p28:para:004 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 28]\nAs a cooperative institution, IBRD does not seek to\nmaximize profit but rather to earn enough income to\nensure the long-term financial capacity necessary to\nsustain its development activities. Allocable net income\nin fiscal 2026 was $2.3 billion, and out of this, the\nExecutive Directors approved the allocation of\n$1.1 billion to the General Reserve, and recommended\nto the Board of Governors an allocation of $750 million\nto IDA and $500 million to Surplus. Further, the Board\nrecommended to IBRD’s Board of Governors the\nfollowing transfers out of Surplus: $300 million to the\nIBRD Trust Fund for Gaza and West Bank, $100 million\nto the Grant Facility for Project Preparation, and\n$100 million to the IBRD Surplus-Funded Livable Planet\nFund. As part of its lending, borrowing, and investment\nactivities, IBRD is exposed to market, counterparty,\ncountry credit, and operational risks.\n\n[wbg-ar-2026:p27:para:002 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 27]\nIn fiscal 2026, new\nIBRD lending commitments amounted to $50.2 billion\nfor 147 operations, of which 13 were IBRD and IDA\nblended operations.\nTABLE 4: IBRD GROSS DISBURSEMENTS BY REGION, FISCAL 2022-26\n\n[wbg-ar-2026:p29:para:002 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 29]\ne. Usable Equity includes the transfer to the General Reserve from fiscal 2026 net income, which was approved by the Board on\nAugust 6, 2026. See the IBRD Management’s Discussion and Analysis: June 30, 2026, Usable Equity components in Table 33:\nEquity-to-Loans Ratio, and reconciliation of IBRD’s Total Equity to Usable Equity in Table 34: Usable Equity.\nf. See components in the IBRD Management’s Discussion and Analysis: June 30, 2026, Table 33: Equity-to-Loans Ratio.\nFor more information, visit www.worldbank.org/ibrd.\nIDA FINANCIAL COMMITMENTS\nAND SERVICES\nIDA is the world’s largest source of concessional\nfinancing for low-income countries. It provides\nfinancing through development credits, grants,\nguarantees, and loans to help these countries boost\neconomic growth, create jobs, reduce poverty, and\nimprove living conditions for those most in need.\n\n[wbg-ar-2026:p29:para:000 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 29]\nTABLE 8: IBRD KEY FINANCIAL INDICATORS, FISCAL 2022–26\nMILLIONS OF DOLLARS, EXCEPT RATIOS, WHICH ARE IN PERCENTAGES\nFY26 FY25 FY24 FY23 FY22\nLending Highlights\nNet commitmentsa 50,177 40,885 37,568 38,572 33,072\nGross disbursements 26,955 30,779 33,450 25,504 28,168\nNet disbursements 9,487 14,794 20,115 12,736 14,876\nReported Basis\nIncome statements\nBoard of Governors–approved and other transfers (1,101) (815) (371) (221) (354)\nNet (loss) income 2,060 2,100 2,142 1,144 3,990\nBalance sheet\nTotal assets 403,512 399,511 356,612 332,641 317,542\nInvestments-Tradingb 96,951 102,674 82,728 79,199 81,783\nNet loans outstanding 287,659 280,043 260,236 241,041 227,092\nBorrowingsb 309,245 306,161 261,790 237,265 235,173\nTotal equity 74,353 72,012 63,484 60,382 55,320\nAllocable Incomec\nAllocable income 2,314 2,384 1,849 1,312 806\nAllocated as follows:\n\n[wbg-ar-2026:p29:para:001 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 29]\nGeneral Reserve 1,064 1,182 834 921 589\nInternational Development Association 750 782 515 291 117\nSurplus 500 420 500 100 100\nUsable Equityd,e 59,733 57,878 54,655 53,105 50,481\nCapital Adequacy\nEquity-to-loans ratiof (%) 21.6 21.6 21.5 22.0 22.0\nNote: For a complete presentation of fiscal year data, see the full financial statements: https://financesone.worldbank.org.\na. Commitments that have been approved by the Executive Directors (referred to as “the Board” in this document) and are net of full\nterminations and cancellations relating to commitments approved in the same fiscal year.\nb. See Notes to the Financial Statements: Note C - Investments, Note E - Borrowings.\nc. Refer to the IBRD Management’s Discussion and Analysis: June 30, 2026, Table 9: Allocable Income, for a reconciliation to net\nincome as per reported basis.\nd. Excludes amounts associated with unrealized mark-to-market gains/losses on non-trading portfolios, net and related cumulative\ntranslation adjustments.\n\n[wbg-ar-2026:p19:para:002 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 19]\nIN CAPITAL MARKETS\nIBRD has mobilized finance for middle-income\ncountries for more than 75 years, raising over\n$1 trillion from capital markets since issuing its first\nbond in 1947. In fiscal 2026, IBRD, which is rated\ntriple-A by the major credit rating agencies, raised\nnearly $50 billion through Sustainable Development\nBonds issued in a variety of structures and maturities.\nPlease see the IBRD’s annual Impact Report for more\ninformation about how funds raised in the capital\nmarkets support IBRD-financed projects.\nIDA also issues Sustainable Development Bonds\nto scale up its development impact, and in fiscal\n2026, issued approximately $14 billion in bonds.\nRead IDA’s Impact Report to learn more. In March\n2026, following action by the United States (U.S.)\nCongress, securities issued or guaranteed by IDA\njoined IBRD and IFC as “exempted securities” by the\nU.S. Securities and Exchange Commission.\n\n[wbg-ar-2026:p19:para:004 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 19]\nMAXIMIZE DEVELOPMENT IMPACT\nShareholder support for IBRD’s innovative financing\ninstruments continued to grow in fiscal 2026,\nstrengthening our capacity to scale lending and tackle\nglobal challenges. Singapore pledged funds to our\nhybrid capital instrument and New Zealand became\nthe first shareholder to subscribe to our Enhanced\nCallable Capital instrument, bringing hybrid capital\ncontributions to $1.2 billion. Together, these new\ninstruments demonstrate IBRD’s strong leveraging\npower, turning $1 into $6-10 of additional lending over\ntime, and unlocking tens of billions for global impact.\nIBRD has continued to structure outcome bonds that mobilize private capital for\nspecific development projects. For example, in December 2025, IBRD issued a\n$200 million principal-protected bond, the Clean Cooking Outcome Bond, that\nmobilized private capital to support the distribution and use of cleaner cooking\nstoves in Ghana.\n\n[wbg-ar-2026:p28:para:000 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 28]\nTABLE 6: IBRD COMMITMENTS BY THEME, FISCAL 2025-26\n\n[wbg-ar-2026:p28:para:003 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 28]\nAND FINANCIAL MODEL\nIBRD finances its loans through its own equity and by\nborrowing in the capital markets via the issuance of\nIBRD bonds to fund development projects in member\ncountries. IBRD is rated triple-A by both Moody’s and\nStandard & Poor’s, and investors view its bonds as highquality and liquid securities. IBRD’s funding approach\ncontinues to aim to achieve the best long-term value\nfor borrowing members on a sustainable basis. IBRD’s\nability to channel the funds it raises in international\ncapital markets to developing member countries is\nimportant in achieving its goals.\nIBRD’s approach has enabled it to borrow at favorable\nmarket terms and pass the savings on to its borrowing\nmembers. Funds not immediately deployed for lending\nare held in IBRD’s investment portfolio to provide\nliquidity for its operations. In fiscal 2026, IBRD raised\nnearly $50 billion by issuing medium- and long-term\nbonds in a variety of currencies.\n\n[wbg-ar-2026:p32:para:001 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 32]\nOver the past several years, IFC has been shifting\nits model to not only deploy its own capital but to\nmobilize more private capital from partners. That\nshift is reflected in our fiscal 2026 results. The World\nBank Group mobilized $112 billion in private capital\nin fiscal 2026, more than tripling from $35 billion in\nfiscal 2022. IFC contributes to that outcome through\na range of instruments and products — guarantees,\noriginate-to-distribute structures, catalytic equity,\nsyndications, anchor investments, transaction\nadvisory, and local-currency financing — each designed\nto address specific barriers that have historically\nconstrained private investment in developing\neconomies. In fiscal 2026, IFC achieved a record\n$105.6 billion in investment commitments, including\nover $73.6 billion in private capital mobilized.\nThose investments translate into real-world outcomes\nfor millions of people. The expected impact of IFC’s\nportfolio in fiscal 2026 includes:",
+    "context_ids": [
+      "wbg-ar-2026:p28:para:004",
+      "wbg-ar-2026:p27:para:002",
+      "wbg-ar-2026:p29:para:002",
+      "wbg-ar-2026:p29:para:000",
+      "wbg-ar-2026:p29:para:001",
+      "wbg-ar-2026:p19:para:002",
+      "wbg-ar-2026:p19:para:004",
+      "wbg-ar-2026:p28:para:000",
+      "wbg-ar-2026:p28:para:003",
+      "wbg-ar-2026:p32:para:001"
+    ],
+    "context_chars": 9059,
+    "elapsed_ms": 34.71,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q19",
+    "split": "test",
+    "question": "What employment impact is expected from the World Bank's multi-country health operation in the Pacific?",
+    "top_k": 10,
+    "budget_chars": 10000,
+    "results": [
+      {
+        "id": "wbg-ar-2026:p12:para:002",
+        "text": "PHIT is the largest World Bank Group multi-country operation in the Pacific and\nsupports our strategic priority of delivering quality, affordable health services to\n1.5 billion people by 2030. It is also the first project developed with the Asian\nDevelopment Bank under the Full Mutual Reliance Framework, helping reduce\ntransaction costs. The OPEC Fund and the Pandemic Fund are also co-financing\nPHIT, which is set to help Pacific Island countries establish the fundamental\nconditions for good health, jobs, and growth.\nTRANSFORMING\nHEALTHCARE\nACROSS THE PACIFIC\n16,000\nHEALTH AND HEALTHSUPPORT JOBS ACROSS\nTHE PACIFIC WILL BE\nSAFEGUARDED BY\nOUR FINANCING\n21\nTHE WORLD BANK GROUP ANNUAL REPORT 202620\nTHE WORLD BANK GROUP ANNUAL REPORT 2026",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 12,
+        "metadata": {
+          "chunker": "para",
+          "section": "jobs_strategy",
+          "char_end": 2278,
+          "language": "en",
+          "char_start": 1536,
+          "fiscal_year": "FY26",
+          "content_hash": "b000e0e25d",
+          "document_type": "annual_report",
+          "section_title": "Jobs Strategy"
+        },
+        "score": 0.032522,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p12:para:000",
+        "text": "Pacific Island countries face some of the world’s highest rates of premature death and\ndisability from non-communicable disease, including diabetes, cardiovascular disease,\nand cancer, alongside persistent communicable diseases. Local healthcare systems\nstruggle to provide care to dispersed populations, and the resulting inefficiencies drive\nup service costs and hamper job creation and long-term growth.\nThe World Bank’s Pacific Healthy Islands Transformation (PHIT) project, approved in\nfiscal 2026, is taking a new approach to improving the health of people across the\nregion. The $239.5 million project covers Fiji, Kiribati, Tonga, and Tuvalu, and — through\nthe Pacific Community — Naoero, Samoa, Solomon Islands, and Vanuatu.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 12,
+        "metadata": {
+          "chunker": "para",
+          "section": "jobs_strategy",
+          "char_end": 733,
+          "language": "en",
+          "char_start": 0,
+          "fiscal_year": "FY26",
+          "content_hash": "2b13107850",
+          "document_type": "annual_report",
+          "section_title": "Jobs Strategy"
+        },
+        "score": 0.032018,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p12:para:001",
+        "text": "Leveraging the expertise of Knowledge Bank teams at the World Bank and IFC, PHIT will\ncreate, protect, and safeguard 16,000 vital health and health-support jobs across the\nPacific — spanning frontline service delivery, infrastructure development, digital health\nsystems, supply chains, and monitoring and evaluation — representing a major\ninvestment in the region’s most critical asset: its people. AI-enabled diagnostics and\nregional telehealth networks will enable more patients to receive accurate diagnostics;\nexpanded access to specialized services, including regional radiotherapy and advanced\nmedical imaging, will serve patients with specific needs. Together, these advancements\nwill accelerate regional health and development impact for greater resilience,\nproductivity, and inclusive growth.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 12,
+        "metadata": {
+          "chunker": "para",
+          "section": "jobs_strategy",
+          "char_end": 1535,
+          "language": "en",
+          "char_start": 734,
+          "fiscal_year": "FY26",
+          "content_hash": "a56b9ee8fc",
+          "document_type": "annual_report",
+          "section_title": "Jobs Strategy"
+        },
+        "score": 0.031746,
+        "hit": true
+      },
+      {
+        "id": "wbg-ar-2026:p21:para:006",
+        "text": "INTERNATIONAL ORGANIZATIONS\nIn fiscal 2026, we continued to work with UN\nagencies and other international organizations to\nstrengthen countries’ resilience while also promoting\nlong-term job creation.\nWe launched the Health Works Leaders Coalition in\npartnership with the Government of Japan and the\nWorld Health Organization to mobilize investments\nin healthcare, support country-led reforms, and\ncreate jobs. In parallel, our Universal Health Coverage\nKnowledge Hub in Tokyo empowers policymakers to\nbecome health champions through capacity building\nand knowledge sharing.\nWe also bring together a broad group of partners\nthrough the Global Water Security and Sanitation\nPartnership and the 2030 Water Resources Group.\nThese platforms pool funding and expertise to support\ncountry-led reforms, investment, and stronger water\ngovernance.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 21,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 5569,
+          "language": "en",
+          "char_start": 4731,
+          "fiscal_year": "FY26",
+          "content_hash": "089a54f1c7",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.03101,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p25:para:008",
+        "text": "In fiscal 2026, IFC’s trust-funded upstream and advisory\nwork advanced job-creating projects in high-impact\nsectors such as infrastructure, agribusiness, and\nvalue-added manufacturing, including in fragile and\nconflict-affected situations. In Bangladesh, Australia\nsupported the Laldia Container Terminal public-private\npartnership (PPP) through IFC’s South Asia Regional\nInfrastructure and Connectivity trust fund. IFC’s PPP\ntransaction advisory work helped structure the project\nand mobilized more than $760 million in private\ninvestment. The project is expected to generate more\nthan 3,000 jobs, including 500-700 direct positions at\nthe terminal, plus significant indirect employment in\nlogistics and manufacturing.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 25,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 6808,
+          "language": "en",
+          "char_start": 6088,
+          "fiscal_year": "FY26",
+          "content_hash": "899934b961",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.02901,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p22:para:004",
+        "text": "WORLD BANK GROUP INITIATIVES\nOur focus on job creation requires us to enhance our\nexternal partnerships to generate new ideas. In fiscal\n2026, the World Bank Group and partners launched a\nnew Mission 300 Private Sector Council to mobilize\nthe billions in private investment needed to connect\n300 million Africans to electricity by 2030, and unlock\njob creation across the continent. The Council,\ncomprising 14 leaders from diverse sectors, will help\ndrive strategies to accelerate commercial investment\nthat supports both energy access and employment.\nThree years ago, the World Bank Group launched the\nPrivate Sector Investment Lab to identify what was\nholding back private investment in emerging markets.\nBuilding on its work, we created the High-Level\nAdvisory Council on Jobs in 2024 to develop actionable\nstrategies for large-scale job creation. Both groups\nbrought together leaders from finance, business, and\ngovernment to provide new, outside-in thinking.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 22,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 3685,
+          "language": "en",
+          "char_start": 2721,
+          "fiscal_year": "FY26",
+          "content_hash": "c1e164c49d",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.028191,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p41:para:008",
+        "text": "In fiscal 2026, we achieved milestones in two countries\nalong the Corridor: In Kazakhstan, a budding transport\nhub, the World Bank approved an $846 million\nguarantee to mobilize $1.4 billion in public and private\nfinancing for the new Mointy–Kyzylzhar railway line. IFC\nmobilized $250 million in private finance for the Almaty\nRailway Bypass, with a $113 million MIGA guarantee to\nmitigate risks. In Türkiye, the World Bank is providing a\n$2 billion loan for the Istanbul North Rail Crossing and\nleading six multilateral development banks to mobilize\n$6.3 billion in public financing for the project.\nThe development of the Corridor is projected to\ncreate jobs in all host countries, boosting long-term\nemployment by more than 3 percent in Kazakhstan,\nthe Kyrgyz Republic, and Armenia, and by more than\n4 percent in Türkiye. With this portfolio of projects\nalong the Corridor, and those to follow, the World Bank\nGroup is fueling job creation, regional integration, and\neconomic development.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 41,
+        "metadata": {
+          "chunker": "para",
+          "section": "miga",
+          "char_end": 6430,
+          "language": "en",
+          "char_start": 5439,
+          "fiscal_year": "FY26",
+          "content_hash": "3a284d6cbd",
+          "document_type": "annual_report",
+          "section_title": "MIGA"
+        },
+        "score": 0.028043,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p4:para:008",
+        "text": "The Executive Directors are encouraged to see\nnew targets driving real change and maintaining\nthe World Bank Group’s focus on job creation.\nThe Target Map, launched in fiscal 2026, aligns\nour ambitions against 10 strategic priorities that\nenable job creation, including AgriConnect, Mission\n300, and Water Forward. The institution continues\nto make vital progress toward the ambitious goal\nof delivering quality, affordable health services\nto 1.5 billion people by 2030. Alongside these\nhealth initiatives, the Board emphasizes the\nimportance of ongoing efforts to empower women\nby expanding their access to social protection and\ncredit. The Board strongly supports the World\nBank Group’s efforts to help countries expand\nbroadband connectivity, strengthen digital systems\nand data infrastructure, and build the digital and\nAI skills necessary for workers to participate in\nan AI-enabled economy.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 4,
+        "metadata": {
+          "chunker": "para",
+          "section": "letter_executive_directors",
+          "char_end": 6298,
+          "language": "en",
+          "char_start": 5401,
+          "fiscal_year": "FY26",
+          "content_hash": "6f54423746",
+          "document_type": "annual_report",
+          "section_title": "Letter from the Executive Directors"
+        },
+        "score": 0.027347,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p19:para:009",
+        "text": "IFC’s local currency and structured finance instruments\nare central to its mission of channeling private\ncapital to businesses and communities that need\nit most. Guarantee and risk-sharing platforms\nhelp financial institutions expand credit to small\nbusinesses, the backbone of employment in\ndeveloping countries, with transactions in Georgia,\nGuatemala, India, and Mexico expected to generate\nup to 22,400 direct and indirect jobs from IFC’s\ninvestment in Banco G&T Continental alone.\n35\nTHE WORLD BANK GROUP ANNUAL REPORT 202634\nTHE WORLD BANK GROUP ANNUAL REPORT 2026",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 19,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 7973,
+          "language": "en",
+          "char_start": 7403,
+          "fiscal_year": "FY26",
+          "content_hash": "505d2cc93c",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.026646,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p19:para:001",
+        "text": "During the Spring Meetings in April 2026, the\nWorld Bank Group launched the Small States\nStrategy. Guided by select solutions underpinned\nby the World Bank Group Jobs Framework, the Strategy\nprioritizes interventions with the greatest potential\nto support job creation and economic growth.\nSupport will be differentiated to reflect individual\ncountry contexts, while using regional approaches,\naggregated procurement, capacity building, and\nstronger partnerships to address scale constraints,\nhigh transaction costs, and partner fragmentation.\nImplementation is anchored in Country Partnership\nFrameworks. The Strategy was informed by feedback\nfrom small states gathered through consultations\nand engagement, including at the annual Small States\nForum held alongside the World Bank Group Annual\nMeetings in October 2025.\nFor more information, visit https://www.\nworldbank.org/en/country/smallstates.\nSUSTAINABLE FINANCE",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 19,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 1910,
+          "language": "en",
+          "char_start": 991,
+          "fiscal_year": "FY26",
+          "content_hash": "3d2bcfc1d9",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.025278,
+        "hit": false
+      }
+    ],
+    "context": "[wbg-ar-2026:p12:para:002 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 12]\nPHIT is the largest World Bank Group multi-country operation in the Pacific and\nsupports our strategic priority of delivering quality, affordable health services to\n1.5 billion people by 2030. It is also the first project developed with the Asian\nDevelopment Bank under the Full Mutual Reliance Framework, helping reduce\ntransaction costs. The OPEC Fund and the Pandemic Fund are also co-financing\nPHIT, which is set to help Pacific Island countries establish the fundamental\nconditions for good health, jobs, and growth.\nTRANSFORMING\nHEALTHCARE\nACROSS THE PACIFIC\n16,000\nHEALTH AND HEALTHSUPPORT JOBS ACROSS\nTHE PACIFIC WILL BE\nSAFEGUARDED BY\nOUR FINANCING\n21\nTHE WORLD BANK GROUP ANNUAL REPORT 202620\nTHE WORLD BANK GROUP ANNUAL REPORT 2026\n\n[wbg-ar-2026:p12:para:000 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 12]\nPacific Island countries face some of the world’s highest rates of premature death and\ndisability from non-communicable disease, including diabetes, cardiovascular disease,\nand cancer, alongside persistent communicable diseases. Local healthcare systems\nstruggle to provide care to dispersed populations, and the resulting inefficiencies drive\nup service costs and hamper job creation and long-term growth.\nThe World Bank’s Pacific Healthy Islands Transformation (PHIT) project, approved in\nfiscal 2026, is taking a new approach to improving the health of people across the\nregion. The $239.5 million project covers Fiji, Kiribati, Tonga, and Tuvalu, and — through\nthe Pacific Community — Naoero, Samoa, Solomon Islands, and Vanuatu.\n\n[wbg-ar-2026:p12:para:001 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 12]\nLeveraging the expertise of Knowledge Bank teams at the World Bank and IFC, PHIT will\ncreate, protect, and safeguard 16,000 vital health and health-support jobs across the\nPacific — spanning frontline service delivery, infrastructure development, digital health\nsystems, supply chains, and monitoring and evaluation — representing a major\ninvestment in the region’s most critical asset: its people. AI-enabled diagnostics and\nregional telehealth networks will enable more patients to receive accurate diagnostics;\nexpanded access to specialized services, including regional radiotherapy and advanced\nmedical imaging, will serve patients with specific needs. Together, these advancements\nwill accelerate regional health and development impact for greater resilience,\nproductivity, and inclusive growth.\n\n[wbg-ar-2026:p21:para:006 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 21]\nINTERNATIONAL ORGANIZATIONS\nIn fiscal 2026, we continued to work with UN\nagencies and other international organizations to\nstrengthen countries’ resilience while also promoting\nlong-term job creation.\nWe launched the Health Works Leaders Coalition in\npartnership with the Government of Japan and the\nWorld Health Organization to mobilize investments\nin healthcare, support country-led reforms, and\ncreate jobs. In parallel, our Universal Health Coverage\nKnowledge Hub in Tokyo empowers policymakers to\nbecome health champions through capacity building\nand knowledge sharing.\nWe also bring together a broad group of partners\nthrough the Global Water Security and Sanitation\nPartnership and the 2030 Water Resources Group.\nThese platforms pool funding and expertise to support\ncountry-led reforms, investment, and stronger water\ngovernance.\n\n[wbg-ar-2026:p25:para:008 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 25]\nIn fiscal 2026, IFC’s trust-funded upstream and advisory\nwork advanced job-creating projects in high-impact\nsectors such as infrastructure, agribusiness, and\nvalue-added manufacturing, including in fragile and\nconflict-affected situations. In Bangladesh, Australia\nsupported the Laldia Container Terminal public-private\npartnership (PPP) through IFC’s South Asia Regional\nInfrastructure and Connectivity trust fund. IFC’s PPP\ntransaction advisory work helped structure the project\nand mobilized more than $760 million in private\ninvestment. The project is expected to generate more\nthan 3,000 jobs, including 500-700 direct positions at\nthe terminal, plus significant indirect employment in\nlogistics and manufacturing.\n\n[wbg-ar-2026:p22:para:004 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 22]\nWORLD BANK GROUP INITIATIVES\nOur focus on job creation requires us to enhance our\nexternal partnerships to generate new ideas. In fiscal\n2026, the World Bank Group and partners launched a\nnew Mission 300 Private Sector Council to mobilize\nthe billions in private investment needed to connect\n300 million Africans to electricity by 2030, and unlock\njob creation across the continent. The Council,\ncomprising 14 leaders from diverse sectors, will help\ndrive strategies to accelerate commercial investment\nthat supports both energy access and employment.\nThree years ago, the World Bank Group launched the\nPrivate Sector Investment Lab to identify what was\nholding back private investment in emerging markets.\nBuilding on its work, we created the High-Level\nAdvisory Council on Jobs in 2024 to develop actionable\nstrategies for large-scale job creation. Both groups\nbrought together leaders from finance, business, and\ngovernment to provide new, outside-in thinking.\n\n[wbg-ar-2026:p41:para:008 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 41]\nIn fiscal 2026, we achieved milestones in two countries\nalong the Corridor: In Kazakhstan, a budding transport\nhub, the World Bank approved an $846 million\nguarantee to mobilize $1.4 billion in public and private\nfinancing for the new Mointy–Kyzylzhar railway line. IFC\nmobilized $250 million in private finance for the Almaty\nRailway Bypass, with a $113 million MIGA guarantee to\nmitigate risks. In Türkiye, the World Bank is providing a\n$2 billion loan for the Istanbul North Rail Crossing and\nleading six multilateral development banks to mobilize\n$6.3 billion in public financing for the project.\nThe development of the Corridor is projected to\ncreate jobs in all host countries, boosting long-term\nemployment by more than 3 percent in Kazakhstan,\nthe Kyrgyz Republic, and Armenia, and by more than\n4 percent in Türkiye. With this portfolio of projects\nalong the Corridor, and those to follow, the World Bank\nGroup is fueling job creation, regional integration, and\neconomic development.\n\n[wbg-ar-2026:p4:para:008 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 4]\nThe Executive Directors are encouraged to see\nnew targets driving real change and maintaining\nthe World Bank Group’s focus on job creation.\nThe Target Map, launched in fiscal 2026, aligns\nour ambitions against 10 strategic priorities that\nenable job creation, including AgriConnect, Mission\n300, and Water Forward. The institution continues\nto make vital progress toward the ambitious goal\nof delivering quality, affordable health services\nto 1.5 billion people by 2030. Alongside these\nhealth initiatives, the Board emphasizes the\nimportance of ongoing efforts to empower women\nby expanding their access to social protection and\ncredit. The Board strongly supports the World\nBank Group’s efforts to help countries expand\nbroadband connectivity, strengthen digital systems\nand data infrastructure, and build the digital and\nAI skills necessary for workers to participate in\nan AI-enabled economy.\n\n[wbg-ar-2026:p19:para:009 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 19]\nIFC’s local currency and structured finance instruments\nare central to its mission of channeling private\ncapital to businesses and communities that need\nit most. Guarantee and risk-sharing platforms\nhelp financial institutions expand credit to small\nbusinesses, the backbone of employment in\ndeveloping countries, with transactions in Georgia,\nGuatemala, India, and Mexico expected to generate\nup to 22,400 direct and indirect jobs from IFC’s\ninvestment in Banco G&T Continental alone.\n35\nTHE WORLD BANK GROUP ANNUAL REPORT 202634\nTHE WORLD BANK GROUP ANNUAL REPORT 2026\n\n[wbg-ar-2026:p19:para:001 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 19]\nDuring the Spring Meetings in April 2026, the\nWorld Bank Group launched the Small States\nStrategy. Guided by select solutions underpinned\nby the World Bank Group Jobs Framework, the Strategy\nprioritizes interventions with the greatest potential\nto support job creation and economic growth.\nSupport will be differentiated to reflect individual\ncountry contexts, while using regional approaches,\naggregated procurement, capacity building, and\nstronger partnerships to address scale constraints,\nhigh transaction costs, and partner fragmentation.\nImplementation is anchored in Country Partnership\nFrameworks. The Strategy was informed by feedback\nfrom small states gathered through consultations\nand engagement, including at the annual Small States\nForum held alongside the World Bank Group Annual\nMeetings in October 2025.\nFor more information, visit https://www.\nworldbank.org/en/country/smallstates.\nSUSTAINABLE FINANCE",
+    "context_ids": [
+      "wbg-ar-2026:p12:para:002",
+      "wbg-ar-2026:p12:para:000",
+      "wbg-ar-2026:p12:para:001",
+      "wbg-ar-2026:p21:para:006",
+      "wbg-ar-2026:p25:para:008",
+      "wbg-ar-2026:p22:para:004",
+      "wbg-ar-2026:p41:para:008",
+      "wbg-ar-2026:p4:para:008",
+      "wbg-ar-2026:p19:para:009",
+      "wbg-ar-2026:p19:para:001"
+    ],
+    "context_chars": 9658,
+    "elapsed_ms": 39.68,
+    "hit1": false,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q20",
+    "split": "test",
+    "question": "How long do contract-based arbitrations at ICSID take on average compared with the overall caseload?",
+    "top_k": 10,
+    "budget_chars": 10000,
+    "results": [
+      {
+        "id": "wbg-ar-2026:p43:para:003",
+        "text": "In fiscal 2026, ICSID published its first in-depth study on\ncontract-based investment dispute resolution, drawing\non an analysis of 175 cases registered under the ICSID\nConvention and Additional Facility. The background\npaper examines how contract-based dispute resolution\nhas worked in practice at ICSID, serving as both an\nanalytical guide and practical reference for investors,\nStates, and State entities. Key findings show that\ncontract-based arbitrations at ICSID are more timeefficient than the overall caseload, averaging 40 months\nfrom registration to conclusion compared to 47, and\nsettle or discontinue at a higher rate, 43 percent versus\n34 percent. The paper is accompanied by a special\nissue of the ICSID Caseload – Statistics featuring data on\ncontract-based cases.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 43,
+        "metadata": {
+          "chunker": "para",
+          "section": "icsid",
+          "char_end": 3254,
+          "language": "en",
+          "char_start": 2475,
+          "fiscal_year": "FY26",
+          "content_hash": "23c3dd2c65",
+          "document_type": "annual_report",
+          "section_title": "ICSID"
+        },
+        "score": 0.032787,
+        "hit": true
+      },
+      {
+        "id": "wbg-ar-2026:p43:para:005",
+        "text": "Two issues of the ICSID Caseload – Statistics were also\nreleased. Published every six months in English, French,\nand Spanish, this publication offers a comprehensive,\ndata-driven overview of all cases registered and\nadministered by ICSID since 1972, serving as a key\nresource for practitioners and policymakers to track\ntrends and developments in international investment\ndispute settlement.\nVisit icsid.worldbank.org/resources/\npublications to download and read all ICSID\npublications.\nCASE MANAGEMENT AND\nDISPUTE RESOLUTION\nICSID administers investment disputes arising from\ncontracts, treaties, or laws when agreed upon by the\nparties involved. Disputes are decided by an arbitral\ntribunal or a conciliation commission, whose members\nare typically appointed by the parties from among\ninternational jurists worldwide. The Centre also offers\nmediation and fact-finding procedures, and provides\nadministrative services for arbitrations conducted\nunder UNCITRAL and other non-ICSID frameworks.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 43,
+        "metadata": {
+          "chunker": "para",
+          "section": "icsid",
+          "char_end": 5217,
+          "language": "en",
+          "char_start": 4225,
+          "fiscal_year": "FY26",
+          "content_hash": "0cc608a610",
+          "document_type": "annual_report",
+          "section_title": "ICSID"
+        },
+        "score": 0.032258,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p43:para:006",
+        "text": "FIGURE 5: ICSID ADMINISTERED CASES BY FISCAL YEAR\nFiscal 2026 was a record year for ICSID. The Centre\nadministered 363 cases — the highest in its history —\nup from 347 in fiscal 2025 and 341 in fiscal 2024. In\naddition, ICSID provided services in 15 cases governed\nby non-ICSID rules in fiscal 2026, 12 of which were\nconducted under the UNCITRAL rules.\nDuring fiscal 2026, ICSID registered 60 new cases —\n57 arbitrations under the ICSID Convention and three\nunder the Additional Facility Rules — bringing the\ncumulative total to 1,118 registered cases as of\nJune 30, 2026. On the mediation front, ICSID had\nreceived a total of seven requests under Mediation\nRule 6 and Mediation Rule 5, with one proceeding\nadministered as of fiscal 2026. The year also saw 83\nproceedings concluded, marking the third consecutive\nfiscal year in which conclusions surpassed 80.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 43,
+        "metadata": {
+          "chunker": "para",
+          "section": "icsid",
+          "char_end": 6077,
+          "language": "en",
+          "char_start": 5218,
+          "fiscal_year": "FY26",
+          "content_hash": "7aad96740f",
+          "document_type": "annual_report",
+          "section_title": "ICSID"
+        },
+        "score": 0.030798,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p43:para:007",
+        "text": "Of the arbitrations concluded in fiscal 2026, 63 percent\nwere decided by a tribunal and 37 percent were settled\nor otherwise discontinued, broadly reflecting ICSID’s\nlong-term trend of arbitration outcomes. Among\ndisputes decided by tribunals in the past year,\n37 percent of awards upheld claims in part or in full,\n40 percent rejected all claims on the merits, 18 percent\ndeclined jurisdiction, and 5 percent of cases were\ndismissed for manifest lack of legal merit.\nNon-ICSID Cases Administered by the Secretariat (Investor-State UNCITRAL arbitrations and other cases)\nICSID Cases Administered by the Secretariat\n258 279 306 303 332 346 329 341 347 363\n15\nFY2026\n15\nFY2025\n17\nFY2024\n17\nFY2019\n14\nFY2018\n14\nFY2017\n18\nFY2022\n19\nFY2021\n22\nFY2023\n21\nFY2020\n83\nTHE WORLD BANK GROUP ANNUAL REPORT 202682\nTHE WORLD BANK GROUP ANNUAL REPORT 2026",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 43,
+        "metadata": {
+          "chunker": "para",
+          "section": "icsid",
+          "char_end": 6917,
+          "language": "en",
+          "char_start": 6078,
+          "fiscal_year": "FY26",
+          "content_hash": "01964a4985",
+          "document_type": "annual_report",
+          "section_title": "ICSID"
+        },
+        "score": 0.03055,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p42:para:004",
+        "text": "ICSID\nOn March 6, 2026, President Nasry Juan Asfura of Honduras signed the ICSID\nConvention in Washington, D.C., making Honduras the 166th Signatory State to the\nConvention. ICSID Membership has steadily expanded since the ICSID Convention\nopened for signature in 1965. By the early 2000s, 149 States had signed the ICSID\nConvention, and 132 of those had ratified it. By June 30, 2026, the number of signatories\nhad increased to 166 States, with 158 of them becoming Contracting States.\nICSID membership is considered a positive factor in MIGA’s risk assessment for insurance\nguarantees and the World Bank Group’s overall assessment of countries’ investment\nlandscape. ICSID membership supports States’ policies to attract and retain foreign direct\ninvestment to create more job opportunities and economic growth. It signals States’\nopenness to resolving disputes through arbitration, conciliation, and mediation in a\ntrusted forum established under an international convention.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 42,
+        "metadata": {
+          "chunker": "para",
+          "section": "icsid",
+          "char_end": 3289,
+          "language": "en",
+          "char_start": 2310,
+          "fiscal_year": "FY26",
+          "content_hash": "c013572838",
+          "document_type": "annual_report",
+          "section_title": "ICSID"
+        },
+        "score": 0.02971,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p44:para:000",
+        "text": "FIGURE 6: ARBITRATIONS UNDER THE ICSID CONVENTION AND ADDITIONAL FACILITY\n— CASES DECIDED BY TRIBUNALS IN FISCAL 2026\nIn ICSID arbitrations, financial compensation is\ntypically the primary remedy claimants seek for alleged\nbreaches of investment obligations. Investors typically\nseek damages for harm they claim to have suffered as\na result of measures adopted by the host State. The\namounts claimed and awarded can vary significantly\ndepending on the nature of the investment and dispute\nat issue.\nIn fiscal 2026, 70 percent of arbitration cases decided\nby tribunals resulted in no damages awarded to\nclaimants, whether due to jurisdictional dismissals,\nfindings of no liability, or liability without damages.\nOf the remaining cases, 14 percent resulted in awards\nunder $10 million, 8 percent in awards between\n$10 million and $49 million, and 8 percent in awards\nexceeding $50 million.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 44,
+        "metadata": {
+          "chunker": "para",
+          "section": "icsid",
+          "char_end": 887,
+          "language": "en",
+          "char_start": 0,
+          "fiscal_year": "FY26",
+          "content_hash": "c306992010",
+          "document_type": "annual_report",
+          "section_title": "ICSID"
+        },
+        "score": 0.029236,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p42:para:000",
+        "text": "The International Centre for Settlement of Investment Disputes (ICSID) supports cross-border\ninvestment by offering an independent, specialized forum for the resolution of disputes. Effective,\nimpartial dispute resolution strengthens confidence among investors and States and enhances\npredictability — core pillars of a favorable investment landscape.\nICSID is a unique institution, created by the Convention\non the Settlement of Investment Disputes between\nStates and Nationals of Other States. This multilateral\nagreement, also known as the ICSID Convention, was\nformulated in 1965 by the Executive Directors of the\nWorld Bank.\nICSID is essential to the World Bank Group’s work to\naccelerate job creation at scale, a strategy focused on\ninvesting in the physical and human infrastructure\nthat people and businesses need to thrive, supporting\nbusiness-enabling environments, and mobilizing\nprivate capital.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 42,
+        "metadata": {
+          "chunker": "para",
+          "section": "icsid",
+          "char_end": 907,
+          "language": "en",
+          "char_start": 0,
+          "fiscal_year": "FY26",
+          "content_hash": "7e972984ca",
+          "document_type": "annual_report",
+          "section_title": "ICSID"
+        },
+        "score": 0.028778,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p42:para:002",
+        "text": "At the core of this work are ICSID’s dispute\nadministration services, which cover a range of\nprocedures including arbitration, conciliation,\nmediation, and fact-finding for disputes arising from\ninvestment contracts, international treaties, and\ndomestic investment laws. ICSID’s rules and procedures\nare widely regarded as the gold standard for\ninvestment dispute settlement, offering a stable and\npredictable legal framework that balances the interests\nof both States and investors and has been modernized\nover time to reflect best practices in the field.\nICSID also supports the development of international\ninvestment law and dispute settlement by producing\nand sharing knowledge, building capacity, and\nengaging with Member States and other stakeholders\non investment dispute prevention, management,\nand settlement.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 42,
+        "metadata": {
+          "chunker": "para",
+          "section": "icsid",
+          "char_end": 2085,
+          "language": "en",
+          "char_start": 1266,
+          "fiscal_year": "FY26",
+          "content_hash": "f9c44d31b7",
+          "document_type": "annual_report",
+          "section_title": "ICSID"
+        },
+        "score": 0.027921,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p23:para:007",
+        "text": "THE ICSID ADMINISTRATIVE COUNCIL\nThe Administrative Council is the governing body of\nICSID. Its composition, functions, and decision-making\nprocedures are outlined in the ICSID Convention\n(Articles 4 to 8). The ICSID Administrative Council\nconsists of one representative and one alternate\nrepresentative from each Contracting State. Unless\notherwise designated, the Governor for the World Bank\nappointed by that State serves as its representative on\nthe ICSID Administrative Council.\nEach Contracting State has one vote on the Administrative\nCouncil, and there is no weighted voting on any matter.\nAt the end of fiscal 2026, 158 Contracting States were\nrepresented on the ICSID Administrative Council. The\nICSID Administrative Council does not play a role in the\nadministration of individual cases at ICSID.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 23,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 6461,
+          "language": "en",
+          "char_start": 5654,
+          "fiscal_year": "FY26",
+          "content_hash": "3c7f70494d",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.02773,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p44:para:001",
+        "text": "Award dismissing all claims\nAward upholding claims\nin part or in full\nAward declining jurisdiction\nAward deciding that the\nclaims are manifestly without\nlegal merit\n40%\n37%\n18%\n5%\nFIGURE 7: DAMAGES OUTCOMES IN ALL ICSID ARBITRATIONS\nDECIDED BY TRIBUNALS IN FISCAL 2026 (IN USD)\n5%\na. This category includes cases that concluded with an award declining jurisdiction, dismissing all\nclaims on the merits, or upholding claims on liability but awarding no damages to the investor.\n3%\n8%\n14%\n70%\n0 5 10 15 20 25\n100 – 499 million\n50 – 99 million\n10 – 49 million\nUnder 10 million\nNo damages\nawardeda\n30\nDuring fiscal 2026, ICSID administered 256 sessions,\nhearings, and meetings. Parties and tribunals chose\nfrom in-person, virtual, or hybrid formats based on the\nneeds of each case, with 75 percent of hearings and\nsessions incorporating remote features supported by\nICSID’s audio and video conferencing facilities.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 44,
+        "metadata": {
+          "chunker": "para",
+          "section": "icsid",
+          "char_end": 1799,
+          "language": "en",
+          "char_start": 888,
+          "fiscal_year": "FY26",
+          "content_hash": "45797efb01",
+          "document_type": "annual_report",
+          "section_title": "ICSID"
+        },
+        "score": 0.027588,
+        "hit": false
+      }
+    ],
+    "context": "[wbg-ar-2026:p43:para:003 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 43]\nIn fiscal 2026, ICSID published its first in-depth study on\ncontract-based investment dispute resolution, drawing\non an analysis of 175 cases registered under the ICSID\nConvention and Additional Facility. The background\npaper examines how contract-based dispute resolution\nhas worked in practice at ICSID, serving as both an\nanalytical guide and practical reference for investors,\nStates, and State entities. Key findings show that\ncontract-based arbitrations at ICSID are more timeefficient than the overall caseload, averaging 40 months\nfrom registration to conclusion compared to 47, and\nsettle or discontinue at a higher rate, 43 percent versus\n34 percent. The paper is accompanied by a special\nissue of the ICSID Caseload – Statistics featuring data on\ncontract-based cases.\n\n[wbg-ar-2026:p43:para:005 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 43]\nTwo issues of the ICSID Caseload – Statistics were also\nreleased. Published every six months in English, French,\nand Spanish, this publication offers a comprehensive,\ndata-driven overview of all cases registered and\nadministered by ICSID since 1972, serving as a key\nresource for practitioners and policymakers to track\ntrends and developments in international investment\ndispute settlement.\nVisit icsid.worldbank.org/resources/\npublications to download and read all ICSID\npublications.\nCASE MANAGEMENT AND\nDISPUTE RESOLUTION\nICSID administers investment disputes arising from\ncontracts, treaties, or laws when agreed upon by the\nparties involved. Disputes are decided by an arbitral\ntribunal or a conciliation commission, whose members\nare typically appointed by the parties from among\ninternational jurists worldwide. The Centre also offers\nmediation and fact-finding procedures, and provides\nadministrative services for arbitrations conducted\nunder UNCITRAL and other non-ICSID frameworks.\n\n[wbg-ar-2026:p43:para:006 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 43]\nFIGURE 5: ICSID ADMINISTERED CASES BY FISCAL YEAR\nFiscal 2026 was a record year for ICSID. The Centre\nadministered 363 cases — the highest in its history —\nup from 347 in fiscal 2025 and 341 in fiscal 2024. In\naddition, ICSID provided services in 15 cases governed\nby non-ICSID rules in fiscal 2026, 12 of which were\nconducted under the UNCITRAL rules.\nDuring fiscal 2026, ICSID registered 60 new cases —\n57 arbitrations under the ICSID Convention and three\nunder the Additional Facility Rules — bringing the\ncumulative total to 1,118 registered cases as of\nJune 30, 2026. On the mediation front, ICSID had\nreceived a total of seven requests under Mediation\nRule 6 and Mediation Rule 5, with one proceeding\nadministered as of fiscal 2026. The year also saw 83\nproceedings concluded, marking the third consecutive\nfiscal year in which conclusions surpassed 80.\n\n[wbg-ar-2026:p43:para:007 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 43]\nOf the arbitrations concluded in fiscal 2026, 63 percent\nwere decided by a tribunal and 37 percent were settled\nor otherwise discontinued, broadly reflecting ICSID’s\nlong-term trend of arbitration outcomes. Among\ndisputes decided by tribunals in the past year,\n37 percent of awards upheld claims in part or in full,\n40 percent rejected all claims on the merits, 18 percent\ndeclined jurisdiction, and 5 percent of cases were\ndismissed for manifest lack of legal merit.\nNon-ICSID Cases Administered by the Secretariat (Investor-State UNCITRAL arbitrations and other cases)\nICSID Cases Administered by the Secretariat\n258 279 306 303 332 346 329 341 347 363\n15\nFY2026\n15\nFY2025\n17\nFY2024\n17\nFY2019\n14\nFY2018\n14\nFY2017\n18\nFY2022\n19\nFY2021\n22\nFY2023\n21\nFY2020\n83\nTHE WORLD BANK GROUP ANNUAL REPORT 202682\nTHE WORLD BANK GROUP ANNUAL REPORT 2026\n\n[wbg-ar-2026:p42:para:004 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 42]\nICSID\nOn March 6, 2026, President Nasry Juan Asfura of Honduras signed the ICSID\nConvention in Washington, D.C., making Honduras the 166th Signatory State to the\nConvention. ICSID Membership has steadily expanded since the ICSID Convention\nopened for signature in 1965. By the early 2000s, 149 States had signed the ICSID\nConvention, and 132 of those had ratified it. By June 30, 2026, the number of signatories\nhad increased to 166 States, with 158 of them becoming Contracting States.\nICSID membership is considered a positive factor in MIGA’s risk assessment for insurance\nguarantees and the World Bank Group’s overall assessment of countries’ investment\nlandscape. ICSID membership supports States’ policies to attract and retain foreign direct\ninvestment to create more job opportunities and economic growth. It signals States’\nopenness to resolving disputes through arbitration, conciliation, and mediation in a\ntrusted forum established under an international convention.\n\n[wbg-ar-2026:p44:para:000 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 44]\nFIGURE 6: ARBITRATIONS UNDER THE ICSID CONVENTION AND ADDITIONAL FACILITY\n— CASES DECIDED BY TRIBUNALS IN FISCAL 2026\nIn ICSID arbitrations, financial compensation is\ntypically the primary remedy claimants seek for alleged\nbreaches of investment obligations. Investors typically\nseek damages for harm they claim to have suffered as\na result of measures adopted by the host State. The\namounts claimed and awarded can vary significantly\ndepending on the nature of the investment and dispute\nat issue.\nIn fiscal 2026, 70 percent of arbitration cases decided\nby tribunals resulted in no damages awarded to\nclaimants, whether due to jurisdictional dismissals,\nfindings of no liability, or liability without damages.\nOf the remaining cases, 14 percent resulted in awards\nunder $10 million, 8 percent in awards between\n$10 million and $49 million, and 8 percent in awards\nexceeding $50 million.\n\n[wbg-ar-2026:p42:para:000 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 42]\nThe International Centre for Settlement of Investment Disputes (ICSID) supports cross-border\ninvestment by offering an independent, specialized forum for the resolution of disputes. Effective,\nimpartial dispute resolution strengthens confidence among investors and States and enhances\npredictability — core pillars of a favorable investment landscape.\nICSID is a unique institution, created by the Convention\non the Settlement of Investment Disputes between\nStates and Nationals of Other States. This multilateral\nagreement, also known as the ICSID Convention, was\nformulated in 1965 by the Executive Directors of the\nWorld Bank.\nICSID is essential to the World Bank Group’s work to\naccelerate job creation at scale, a strategy focused on\ninvesting in the physical and human infrastructure\nthat people and businesses need to thrive, supporting\nbusiness-enabling environments, and mobilizing\nprivate capital.\n\n[wbg-ar-2026:p42:para:002 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 42]\nAt the core of this work are ICSID’s dispute\nadministration services, which cover a range of\nprocedures including arbitration, conciliation,\nmediation, and fact-finding for disputes arising from\ninvestment contracts, international treaties, and\ndomestic investment laws. ICSID’s rules and procedures\nare widely regarded as the gold standard for\ninvestment dispute settlement, offering a stable and\npredictable legal framework that balances the interests\nof both States and investors and has been modernized\nover time to reflect best practices in the field.\nICSID also supports the development of international\ninvestment law and dispute settlement by producing\nand sharing knowledge, building capacity, and\nengaging with Member States and other stakeholders\non investment dispute prevention, management,\nand settlement.\n\n[wbg-ar-2026:p23:para:007 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 23]\nTHE ICSID ADMINISTRATIVE COUNCIL\nThe Administrative Council is the governing body of\nICSID. Its composition, functions, and decision-making\nprocedures are outlined in the ICSID Convention\n(Articles 4 to 8). The ICSID Administrative Council\nconsists of one representative and one alternate\nrepresentative from each Contracting State. Unless\notherwise designated, the Governor for the World Bank\nappointed by that State serves as its representative on\nthe ICSID Administrative Council.\nEach Contracting State has one vote on the Administrative\nCouncil, and there is no weighted voting on any matter.\nAt the end of fiscal 2026, 158 Contracting States were\nrepresented on the ICSID Administrative Council. The\nICSID Administrative Council does not play a role in the\nadministration of individual cases at ICSID.",
+    "context_ids": [
+      "wbg-ar-2026:p43:para:003",
+      "wbg-ar-2026:p43:para:005",
+      "wbg-ar-2026:p43:para:006",
+      "wbg-ar-2026:p43:para:007",
+      "wbg-ar-2026:p42:para:004",
+      "wbg-ar-2026:p44:para:000",
+      "wbg-ar-2026:p42:para:000",
+      "wbg-ar-2026:p42:para:002",
+      "wbg-ar-2026:p23:para:007"
+    ],
+    "context_chars": 9206,
+    "elapsed_ms": 38.28,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q21",
+    "split": "test",
+    "question": "Which country was the first to receive a 43-year IBRD loan under the Framework for Financial Incentives, and how does that tenor compare with the standard one?",
+    "top_k": 10,
+    "budget_chars": 10000,
+    "results": [
+      {
+        "id": "wbg-ar-2026:p19:para:008",
+        "text": "DELIVERING MORE FOR CLIENTS\nFurther promoting private capital mobilization, we\nhelped countries refinance their outstanding IBRD\nloans on now-proven projects where lending can be\nconsidered “de-risked” from a commercial lender’s\nperspective. For India, this approach unlocked nearly\n$1.5 billion in new borrowing capacity from IBRD.\nWe advanced the Framework for Financial Incentives,\nwhich offers volume, tenor, and price incentives, to\nencourage clients to undertake projects that address\nglobal challenges with cross-border benefits. Under\nthe framework, Tunisia became the first country\nbenefiting from a 43-year IBRD loan, eight years\nmore than the current 35 years, and received\n$150 million beyond the country allocation by\nsigning a $430 million financing package to\nsupport energy sector modernization.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 19,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 7402,
+          "language": "en",
+          "char_start": 6591,
+          "fiscal_year": "FY26",
+          "content_hash": "046375da09",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.032787,
+        "hit": true
+      },
+      {
+        "id": "wbg-ar-2026:p28:para:003",
+        "text": "AND FINANCIAL MODEL\nIBRD finances its loans through its own equity and by\nborrowing in the capital markets via the issuance of\nIBRD bonds to fund development projects in member\ncountries. IBRD is rated triple-A by both Moody’s and\nStandard & Poor’s, and investors view its bonds as highquality and liquid securities. IBRD’s funding approach\ncontinues to aim to achieve the best long-term value\nfor borrowing members on a sustainable basis. IBRD’s\nability to channel the funds it raises in international\ncapital markets to developing member countries is\nimportant in achieving its goals.\nIBRD’s approach has enabled it to borrow at favorable\nmarket terms and pass the savings on to its borrowing\nmembers. Funds not immediately deployed for lending\nare held in IBRD’s investment portfolio to provide\nliquidity for its operations. In fiscal 2026, IBRD raised\nnearly $50 billion by issuing medium- and long-term\nbonds in a variety of currencies.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 28,
+        "metadata": {
+          "chunker": "para",
+          "section": "ibrd_ida",
+          "char_end": 2445,
+          "language": "en",
+          "char_start": 1504,
+          "fiscal_year": "FY26",
+          "content_hash": "ba1801c21a",
+          "document_type": "annual_report",
+          "section_title": "World Bank (IBRD/IDA)"
+        },
+        "score": 0.031514,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p19:para:006",
+        "text": "SCALING UP OUTCOME BONDS: CLEAN COOKING\nAND SPEKBOOM RESTORATION\nTHE STEP-UP LOAN\nDesigned to increase IBRD’s impact,\nthe Step-up Loan (SuL) addresses\nthe infrastructure gap in developing\ncountries. Loan costs are lower during\nthe project phase, letting assets reach\nfull capacity. Clients can refinance\nwith private capital once projects are\nproven viable. During refinancing, we\nprovide technical assistance and credit\nenhancement through MIGA or IFC.\nThis approach accelerates IBRD’s capital\nrecycling and boosts lending capacity\nover the long term. Indonesia’s stateowned utility used the SuL for a second\ntime in fiscal 2026, bringing its total\ncommitment to $1.1 billion across two\nenergy projects. The Indian state of\nRajasthan also secured $215 million for a\ntransport project to enhance road safety\nand growth.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 19,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 6129,
+          "language": "en",
+          "char_start": 5310,
+          "fiscal_year": "FY26",
+          "content_hash": "e6ea940a24",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.030579,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p3:para:000",
+        "text": "To achieve this, we are working with all clients as One World Bank Group,\nin close partnership with other multilateral institutions, the private sector,\nand civil society. The World Bank Group includes:\n• International Bank for Reconstruction and Development (IBRD),\nwhich provides financial products and policy advice to help countries reduce\npoverty and extend the benefits of sustainable growth to all their people.\n• International Development Association (IDA),\nwhich provides grants and concessional loans to low-income countries.\n• International Finance Corporation (IFC),\nwhich mobilizes private capital at scale, supports businesses from\nmicroenterprises to large corporations, and creates jobs that drive economic\ngrowth and opportunity.\n• Multilateral Investment Guarantee Agency (MIGA),\nwhich houses the World Bank Group Guarantee Platform, providing\nguarantees to mobilize private capital for developing countries.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 3,
+        "metadata": {
+          "chunker": "para",
+          "section": "about_us",
+          "char_end": 926,
+          "language": "en",
+          "char_start": 0,
+          "fiscal_year": "FY26",
+          "content_hash": "52fe21080c",
+          "document_type": "annual_report",
+          "section_title": "About Us"
+        },
+        "score": 0.02967,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p41:para:006",
+        "text": "STABILITY IN PANAMA\nWhen Panama faced serious fiscal strain in 2025, the\nWorld Bank Group responded with an unprecedented\napproach by combining IBRD and MIGA guarantees in\na jointly structured policy-based financing operation.\nBuilding on lessons from a similar operation in Côte\nd’Ivoire, teams designed a layered structure pairing\na $500 million IBRD Development Policy Loan with\n$1.4 billion in commercial financing covered by\ntwo guarantees: a $600 million IBRD Policy-Based\nGuarantee for first-loss coverage, and a MIGA NonHonoring of Sovereign Financial Obligations guarantee\nfor second-loss coverage.\nThis approach, resulting in approximately $1.9 billion\nin financing, was approved simultaneously by\nboth institutions’ boards, moving from approval to\ndisbursement in about a month.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 41,
+        "metadata": {
+          "chunker": "para",
+          "section": "miga",
+          "char_end": 4699,
+          "language": "en",
+          "char_start": 3910,
+          "fiscal_year": "FY26",
+          "content_hash": "93784dcf51",
+          "document_type": "annual_report",
+          "section_title": "MIGA"
+        },
+        "score": 0.027444,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p19:para:002",
+        "text": "IN CAPITAL MARKETS\nIBRD has mobilized finance for middle-income\ncountries for more than 75 years, raising over\n$1 trillion from capital markets since issuing its first\nbond in 1947. In fiscal 2026, IBRD, which is rated\ntriple-A by the major credit rating agencies, raised\nnearly $50 billion through Sustainable Development\nBonds issued in a variety of structures and maturities.\nPlease see the IBRD’s annual Impact Report for more\ninformation about how funds raised in the capital\nmarkets support IBRD-financed projects.\nIDA also issues Sustainable Development Bonds\nto scale up its development impact, and in fiscal\n2026, issued approximately $14 billion in bonds.\nRead IDA’s Impact Report to learn more. In March\n2026, following action by the United States (U.S.)\nCongress, securities issued or guaranteed by IDA\njoined IBRD and IFC as “exempted securities” by the\nU.S. Securities and Exchange Commission.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 19,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 2818,
+          "language": "en",
+          "char_start": 1911,
+          "fiscal_year": "FY26",
+          "content_hash": "0667f08273",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.027418,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p26:para:001",
+        "text": "WORLD BANK\n(IBRD/IDA)\nThe World Bank comprises two institutions: the International Bank for Reconstruction and\nDevelopment (IBRD) and the International Development Association (IDA). IBRD provides financial\nproducts and policy advice to help countries reduce poverty and extend the benefits of sustainable\ngrowth to all their people. IDA provides grants and concessional loans to low-income countries.\n49\nTHE WORLD BANK GROUP ANNUAL REPORT 202648\nTHE WORLD BANK GROUP ANNUAL REPORT 2026",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 26,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 1485,
+          "language": "en",
+          "char_start": 999,
+          "fiscal_year": "FY26",
+          "content_hash": "193b736eaf",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.026838,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p27:para:000",
+        "text": "BUSINESS AND OPERATIONAL OVERVIEW\nIBRD FINANCIAL COMMITMENTS\nAND SERVICES\nIBRD is a global development cooperative owned by\nits 189 member countries. As the largest multilateral\ndevelopment bank in the world, it provides loans,\nguarantees, risk-management products, and advisory\nTABLE 3: IBRD NET COMMITMENTS BY REGION, FISCAL 2022–26",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 27,
+        "metadata": {
+          "chunker": "para",
+          "section": "ibrd_ida",
+          "char_end": 334,
+          "language": "en",
+          "char_start": 0,
+          "fiscal_year": "FY26",
+          "content_hash": "479bf17da8",
+          "document_type": "annual_report",
+          "section_title": "World Bank (IBRD/IDA)"
+        },
+        "score": 0.026036,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p32:para:003",
+        "text": "• 2.8 million students supported with better education.\nOver the past year, IFC continued to refine a new\nmulti-year strategy to further scale its development\nimpact. Our principal aim is to address the pressing\nneed for jobs in countries where young people are\nentering the workforce faster than employment is being\ncreated. Built around four pillars — mobilizing private\ncapital, expanding equity investments, revamping\nsupport for small- and medium-size businesses,\nand reinforcing coordination across the World Bank\nGroup — we are strengthening our ability to support\nthe businesses and entrepreneurs needed to create\nemployment opportunities in developing countries.\nThe business, operational, and thematic highlights\nthat follow demonstrate how IFC’s evolving model\nis translating into concrete outcomes for clients,\ninvestors, and communities in the countries it serves.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 32,
+        "metadata": {
+          "chunker": "para",
+          "section": "ifc",
+          "char_end": 2876,
+          "language": "en",
+          "char_start": 1998,
+          "fiscal_year": "FY26",
+          "content_hash": "982994b6a6",
+          "document_type": "annual_report",
+          "section_title": "IFC"
+        },
+        "score": 0.024961,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p19:para:005",
+        "text": "This outcome bond provides investors with a coupon that includes\na fixed guaranteed component, and a variable component linked to the sale of carbon\ncredits generated from the use of the cookstoves. This is the first outcome bond\nlinking investors’ financial return to the generation of Internationally Transferred\nMitigation Outcomes, with the governments of Ghana and Switzerland authorizing\nthe cleaner cooking projects supported by this bond.\nIn April 2026, IBRD priced a $120 million principal-protected Spekboom Restoration\nOutcome Bond to support large-scale ecosystem restoration and job creation in South\nAfrica’s Eastern Cape province. The 14-year bond offers investors a return linked to\nthe successful restoration of spekboom, a native plant with high carbon sequestration\ncapacity. Under the structure, $25 million is provided as up-front financing for\nthe project, which aims to restore about 50,000 hectares of land and to create an\nestimated 11,000 local jobs.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 19,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 5309,
+          "language": "en",
+          "char_start": 4333,
+          "fiscal_year": "FY26",
+          "content_hash": "d178a7f65c",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.024265,
+        "hit": false
+      }
+    ],
+    "context": "[wbg-ar-2026:p19:para:008 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 19]\nDELIVERING MORE FOR CLIENTS\nFurther promoting private capital mobilization, we\nhelped countries refinance their outstanding IBRD\nloans on now-proven projects where lending can be\nconsidered “de-risked” from a commercial lender’s\nperspective. For India, this approach unlocked nearly\n$1.5 billion in new borrowing capacity from IBRD.\nWe advanced the Framework for Financial Incentives,\nwhich offers volume, tenor, and price incentives, to\nencourage clients to undertake projects that address\nglobal challenges with cross-border benefits. Under\nthe framework, Tunisia became the first country\nbenefiting from a 43-year IBRD loan, eight years\nmore than the current 35 years, and received\n$150 million beyond the country allocation by\nsigning a $430 million financing package to\nsupport energy sector modernization.\n\n[wbg-ar-2026:p28:para:003 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 28]\nAND FINANCIAL MODEL\nIBRD finances its loans through its own equity and by\nborrowing in the capital markets via the issuance of\nIBRD bonds to fund development projects in member\ncountries. IBRD is rated triple-A by both Moody’s and\nStandard & Poor’s, and investors view its bonds as highquality and liquid securities. IBRD’s funding approach\ncontinues to aim to achieve the best long-term value\nfor borrowing members on a sustainable basis. IBRD’s\nability to channel the funds it raises in international\ncapital markets to developing member countries is\nimportant in achieving its goals.\nIBRD’s approach has enabled it to borrow at favorable\nmarket terms and pass the savings on to its borrowing\nmembers. Funds not immediately deployed for lending\nare held in IBRD’s investment portfolio to provide\nliquidity for its operations. In fiscal 2026, IBRD raised\nnearly $50 billion by issuing medium- and long-term\nbonds in a variety of currencies.\n\n[wbg-ar-2026:p19:para:006 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 19]\nSCALING UP OUTCOME BONDS: CLEAN COOKING\nAND SPEKBOOM RESTORATION\nTHE STEP-UP LOAN\nDesigned to increase IBRD’s impact,\nthe Step-up Loan (SuL) addresses\nthe infrastructure gap in developing\ncountries. Loan costs are lower during\nthe project phase, letting assets reach\nfull capacity. Clients can refinance\nwith private capital once projects are\nproven viable. During refinancing, we\nprovide technical assistance and credit\nenhancement through MIGA or IFC.\nThis approach accelerates IBRD’s capital\nrecycling and boosts lending capacity\nover the long term. Indonesia’s stateowned utility used the SuL for a second\ntime in fiscal 2026, bringing its total\ncommitment to $1.1 billion across two\nenergy projects. The Indian state of\nRajasthan also secured $215 million for a\ntransport project to enhance road safety\nand growth.\n\n[wbg-ar-2026:p3:para:000 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 3]\nTo achieve this, we are working with all clients as One World Bank Group,\nin close partnership with other multilateral institutions, the private sector,\nand civil society. The World Bank Group includes:\n• International Bank for Reconstruction and Development (IBRD),\nwhich provides financial products and policy advice to help countries reduce\npoverty and extend the benefits of sustainable growth to all their people.\n• International Development Association (IDA),\nwhich provides grants and concessional loans to low-income countries.\n• International Finance Corporation (IFC),\nwhich mobilizes private capital at scale, supports businesses from\nmicroenterprises to large corporations, and creates jobs that drive economic\ngrowth and opportunity.\n• Multilateral Investment Guarantee Agency (MIGA),\nwhich houses the World Bank Group Guarantee Platform, providing\nguarantees to mobilize private capital for developing countries.\n\n[wbg-ar-2026:p41:para:006 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 41]\nSTABILITY IN PANAMA\nWhen Panama faced serious fiscal strain in 2025, the\nWorld Bank Group responded with an unprecedented\napproach by combining IBRD and MIGA guarantees in\na jointly structured policy-based financing operation.\nBuilding on lessons from a similar operation in Côte\nd’Ivoire, teams designed a layered structure pairing\na $500 million IBRD Development Policy Loan with\n$1.4 billion in commercial financing covered by\ntwo guarantees: a $600 million IBRD Policy-Based\nGuarantee for first-loss coverage, and a MIGA NonHonoring of Sovereign Financial Obligations guarantee\nfor second-loss coverage.\nThis approach, resulting in approximately $1.9 billion\nin financing, was approved simultaneously by\nboth institutions’ boards, moving from approval to\ndisbursement in about a month.\n\n[wbg-ar-2026:p19:para:002 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 19]\nIN CAPITAL MARKETS\nIBRD has mobilized finance for middle-income\ncountries for more than 75 years, raising over\n$1 trillion from capital markets since issuing its first\nbond in 1947. In fiscal 2026, IBRD, which is rated\ntriple-A by the major credit rating agencies, raised\nnearly $50 billion through Sustainable Development\nBonds issued in a variety of structures and maturities.\nPlease see the IBRD’s annual Impact Report for more\ninformation about how funds raised in the capital\nmarkets support IBRD-financed projects.\nIDA also issues Sustainable Development Bonds\nto scale up its development impact, and in fiscal\n2026, issued approximately $14 billion in bonds.\nRead IDA’s Impact Report to learn more. In March\n2026, following action by the United States (U.S.)\nCongress, securities issued or guaranteed by IDA\njoined IBRD and IFC as “exempted securities” by the\nU.S. Securities and Exchange Commission.\n\n[wbg-ar-2026:p26:para:001 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 26]\nWORLD BANK\n(IBRD/IDA)\nThe World Bank comprises two institutions: the International Bank for Reconstruction and\nDevelopment (IBRD) and the International Development Association (IDA). IBRD provides financial\nproducts and policy advice to help countries reduce poverty and extend the benefits of sustainable\ngrowth to all their people. IDA provides grants and concessional loans to low-income countries.\n49\nTHE WORLD BANK GROUP ANNUAL REPORT 202648\nTHE WORLD BANK GROUP ANNUAL REPORT 2026\n\n[wbg-ar-2026:p27:para:000 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 27]\nBUSINESS AND OPERATIONAL OVERVIEW\nIBRD FINANCIAL COMMITMENTS\nAND SERVICES\nIBRD is a global development cooperative owned by\nits 189 member countries. As the largest multilateral\ndevelopment bank in the world, it provides loans,\nguarantees, risk-management products, and advisory\nTABLE 3: IBRD NET COMMITMENTS BY REGION, FISCAL 2022–26\n\n[wbg-ar-2026:p32:para:003 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 32]\n• 2.8 million students supported with better education.\nOver the past year, IFC continued to refine a new\nmulti-year strategy to further scale its development\nimpact. Our principal aim is to address the pressing\nneed for jobs in countries where young people are\nentering the workforce faster than employment is being\ncreated. Built around four pillars — mobilizing private\ncapital, expanding equity investments, revamping\nsupport for small- and medium-size businesses,\nand reinforcing coordination across the World Bank\nGroup — we are strengthening our ability to support\nthe businesses and entrepreneurs needed to create\nemployment opportunities in developing countries.\nThe business, operational, and thematic highlights\nthat follow demonstrate how IFC’s evolving model\nis translating into concrete outcomes for clients,\ninvestors, and communities in the countries it serves.\n\n[wbg-ar-2026:p19:para:005 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 19]\nThis outcome bond provides investors with a coupon that includes\na fixed guaranteed component, and a variable component linked to the sale of carbon\ncredits generated from the use of the cookstoves. This is the first outcome bond\nlinking investors’ financial return to the generation of Internationally Transferred\nMitigation Outcomes, with the governments of Ghana and Switzerland authorizing\nthe cleaner cooking projects supported by this bond.\nIn April 2026, IBRD priced a $120 million principal-protected Spekboom Restoration\nOutcome Bond to support large-scale ecosystem restoration and job creation in South\nAfrica’s Eastern Cape province. The 14-year bond offers investors a return linked to\nthe successful restoration of spekboom, a native plant with high carbon sequestration\ncapacity. Under the structure, $25 million is provided as up-front financing for\nthe project, which aims to restore about 50,000 hectares of land and to create an\nestimated 11,000 local jobs.",
+    "context_ids": [
+      "wbg-ar-2026:p19:para:008",
+      "wbg-ar-2026:p28:para:003",
+      "wbg-ar-2026:p19:para:006",
+      "wbg-ar-2026:p3:para:000",
+      "wbg-ar-2026:p41:para:006",
+      "wbg-ar-2026:p19:para:002",
+      "wbg-ar-2026:p26:para:001",
+      "wbg-ar-2026:p27:para:000",
+      "wbg-ar-2026:p32:para:003",
+      "wbg-ar-2026:p19:para:005"
+    ],
+    "context_chars": 9352,
+    "elapsed_ms": 40.18,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q22",
+    "split": "test",
+    "question": "What financial commitment did Norway make when it joined MIGA's West Bank and Gaza trust fund as a donor?",
+    "top_k": 10,
+    "budget_chars": 10000,
+    "results": [
+      {
+        "id": "wbg-ar-2026:p41:para:001",
+        "text": "GUARANTEE TRUST FUND\nA notable milestone during this reporting period was\nthe Kingdom of Norway’s decision to join MIGA’s West\nBank and Gaza Investment Guarantee Trust Fund as a\nnew donor, pledging approximately $5 million over five\nyears. This contribution, formalized on the sidelines\nof the 2025 World Bank Group–IMF Annual Meetings,\nmarks the first expansion of the donor base since\nthe trust fund’s establishment in 1997 and reflects\ngrowing international confidence in MIGA’s ability\nto operate in highly fragile environments. Norway’s\nsupport will strengthen the fund’s capacity to provide\npolitical risk insurance, and trade finance guarantees\nin collaboration with IFC and the European Bank for\nReconstruction and Development and mobilize private\ninvestment in the West Bank and Gaza, where elevated\nrisks have historically constrained capital flows. This will\nhelp sustain economic activity, support job creation,\nand advance recovery and reconstruction efforts.\nMIGA EXPANDS GLOBAL",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 41,
+        "metadata": {
+          "chunker": "para",
+          "section": "miga",
+          "char_end": 1527,
+          "language": "en",
+          "char_start": 535,
+          "fiscal_year": "FY26",
+          "content_hash": "0ba5990706",
+          "document_type": "annual_report",
+          "section_title": "MIGA"
+        },
+        "score": 0.032787,
+        "hit": true
+      },
+      {
+        "id": "wbg-ar-2026:p41:para:005",
+        "text": "THROUGH GUARANTEES\nThe government of Japan and MIGA deepened a\nlong-standing partnership to scale up the mobilization\nof private capital in developing countries. Japan\ncommitted nearly $20 million in additional funding to\nMIGA-administered trust funds, reinforcing its position\nas a leading contributor and strategic partner. This\nsupport will expand MIGA’s ability to deploy political\nrisk insurance and trade finance guarantees in fragile\nand conflict-affected situations — including Ukraine and\nthe West Bank and Gaza — as well as to advance energy\ntransition projects in emerging and frontier markets\nwith a focus on Sub-Saharan Africa. The partnership\nunderscores Japan’s continued leadership in leveraging\ninnovative financing solutions through the World\nBank Group Guarantee Platform to crowd in private\ninvestment where it is most needed and where risks\nremain highest.\nGUARANTEEING FINANCIAL",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 41,
+        "metadata": {
+          "chunker": "para",
+          "section": "miga",
+          "char_end": 3909,
+          "language": "en",
+          "char_start": 3009,
+          "fiscal_year": "FY26",
+          "content_hash": "dd07311118",
+          "document_type": "annual_report",
+          "section_title": "MIGA"
+        },
+        "score": 0.032002,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p25:para:010",
+        "text": "DE-RISKING THROUGH GUARANTEES\nMIGA completes the World Bank Group’s integrated\napproach by using trust funds to provide guarantee\ninstruments that de-risk investments for both public\nand private sector projects. Trust funds, including the\nRenewable Energy Catalyst Trust Fund, the West Bank\nand Gaza Trust Fund, and the Support for Ukraine’s\nReconstruction and Economy Trust Fund, share\nguarantee exposure on individual projects via first-loss\nlayers and reinsurance. These instruments enable MIGA\nto bridge the World Bank’s public sector work and IFC’s\nprivate sector investments by guaranteeing higher-risk\nprojects and increasing investor confidence, particularly\nin fragile and conflict-affected settings, while advancing\njob creation and women’s economic empowerment.\nThe Fund for Advancing Sustainability complements\nthese efforts by strengthening environmental, social,\nand gender practices and broadening access to\nguarantees for small businesses in low-income\nand fragile countries.\n47\nTHE WORLD BANK GROUP ANNUAL REPORT 202646\nTHE WORLD BANK GROUP ANNUAL REPORT 2026",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 25,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 8809,
+          "language": "en",
+          "char_start": 7733,
+          "fiscal_year": "FY26",
+          "content_hash": "43910e2fc7",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.031754,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p41:para:004",
+        "text": "Together, these\nagreements reflect MIGA’s commitment to deepening\nmultilateral cooperation and scaling private investment\nmobilization across regions where it is needed most.\nMIGA also contributed to broader World Bank Groupwide partnership agreements, further reinforcing\nthe institution’s role within the World Bank Group’s\ncollective engagement with key global partners.\nJAPAN DEEPENS PARTNERSHIP\nWITH MIGA TO MOBILIZE MORE PRIVATE\nCAPITAL FOR DEVELOPING COUNTRIES",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 41,
+        "metadata": {
+          "chunker": "para",
+          "section": "miga",
+          "char_end": 3008,
+          "language": "en",
+          "char_start": 2541,
+          "fiscal_year": "FY26",
+          "content_hash": "d5cb55b3dc",
+          "document_type": "annual_report",
+          "section_title": "MIGA"
+        },
+        "score": 0.029644,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p25:para:004",
+        "text": "Also in\nfiscal 2026, Italy joined eight other IFC development\npartners — Belgium, the European Commission, France,\nJapan, the Netherlands, Norway, Switzerland, and\nthe United Kingdom — to support IFC’s investment\nprogram in Ukraine, which helps sustain critical sectors\nand supports Ukraine’s reconstruction, including\nagribusiness, energy, and technology, and enables\nbusinesses to continue operating despite security risks,\nlabor shortages, and rising input costs. IFC trust funds\nhave now received more than $1 billion in concessional\nfinance commitments for Ukraine.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 25,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 4160,
+          "language": "en",
+          "char_start": 3590,
+          "fiscal_year": "FY26",
+          "content_hash": "f323c96ee6",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.02885,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p25:para:000",
+        "text": "TRUST FUNDS\nThe World Bank Group manages a diverse portfolio of\ntrust funds, which receive resources from more than\n100 donors. Trust funds are part of the World Bank\nGroup’s toolkit and complement its core financing.\nThey can mobilize funding quickly to fill financing gaps,\noffset risks, and provide flexibility. This often means the\nWorld Bank Group can work in the most challenging\nenvironments and deliver impact even where core\nfinancing is limited or unavailable. Trust funds broaden\nWorld Bank Group partnerships to more effectively\naddress country, regional, and global challenges.\nTrust funds also serve as force multipliers for the World\nBank Group’s development impact, enabling IBRD to\nbuild public sector foundations, IFC to catalyze private\ninvestment, and MIGA to de-risk both. This integrated\napproach unlocks private investment and delivers\nresults at scale by leveraging each institution’s unique\nstrengths while working cohesively toward shared\ndevelopment objectives.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 25,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 989,
+          "language": "en",
+          "char_start": 0,
+          "fiscal_year": "FY26",
+          "content_hash": "d18741fd27",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.028571,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p25:para:001",
+        "text": "While trust funds can vary in\nsize and scope, they all serve the World Bank Group’s\nmission to end extreme poverty and boost shared\nprosperity on a livable planet.\nThe World Bank uses trust funds to strengthen the\npublic sector foundations essential for development.\nAt the end of fiscal 2026, World Bank trust funds\nheld $27.9 billion in trust as cash, investments, and\npromissory notes. In the last five years (fiscal 2022–26),\n91 percent ($67.2 billion) of World Bank trust fund\ndisbursements went to recipient-executed activities in\nmember countries, helping to build the foundations\nfor job growth including infrastructure, institutions,\nand human capital. Of this amount, over $8.1 billion\nwas disbursed to IDA and IDA-blend countries (i.e.,\ncountries eligible for both IDA and IBRD lending). Trust\nfunds serve as engines of innovation, funding about\ntwo-thirds of the World Bank’s advisory services and\nanalytics that lay the groundwork for both public and\nprivate investment.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 25,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 1972,
+          "language": "en",
+          "char_start": 989,
+          "fiscal_year": "FY26",
+          "content_hash": "007056eb6d",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.02712,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p28:para:004",
+        "text": "As a cooperative institution, IBRD does not seek to\nmaximize profit but rather to earn enough income to\nensure the long-term financial capacity necessary to\nsustain its development activities. Allocable net income\nin fiscal 2026 was $2.3 billion, and out of this, the\nExecutive Directors approved the allocation of\n$1.1 billion to the General Reserve, and recommended\nto the Board of Governors an allocation of $750 million\nto IDA and $500 million to Surplus. Further, the Board\nrecommended to IBRD’s Board of Governors the\nfollowing transfers out of Surplus: $300 million to the\nIBRD Trust Fund for Gaza and West Bank, $100 million\nto the Grant Facility for Project Preparation, and\n$100 million to the IBRD Surplus-Funded Livable Planet\nFund. As part of its lending, borrowing, and investment\nactivities, IBRD is exposed to market, counterparty,\ncountry credit, and operational risks.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 28,
+        "metadata": {
+          "chunker": "para",
+          "section": "ibrd_ida",
+          "char_end": 3332,
+          "language": "en",
+          "char_start": 2446,
+          "fiscal_year": "FY26",
+          "content_hash": "b4cd13345f",
+          "document_type": "annual_report",
+          "section_title": "World Bank (IBRD/IDA)"
+        },
+        "score": 0.026235,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p25:para:009",
+        "text": "In the Democratic Republic\nof the Congo, the United Kingdom, through a new trust\nfund contribution, supported IFC’s Scaling Finance for\nAgribusinesses program, which aims to create jobs and\nimprove livelihoods by expanding access to finance,\nagricultural equipment, and business opportunities\nfor women entrepreneurs, smallholder farmers, and\nagricultural small businesses. In Ukraine, the JapanIFC Comprehensive Trust Fund is supporting the\ndevelopment of the NovaSklo Greenfield project, which\naims to establish the country’s first domestic floatglass manufacturing facility through feasibility, risk,\nenvironmental and social, and corporate governance\nreviews; financial modeling; and prospective investor\nengagement. Once operational, it is expected to\nsupport Ukraine’s reconstruction by reducing reliance\non imports, creating more than 300 direct jobs, and\ngenerating additional employment across related\nvalue chains.",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 25,
+        "metadata": {
+          "chunker": "para",
+          "section": "one_wbg",
+          "char_end": 7732,
+          "language": "en",
+          "char_start": 6808,
+          "fiscal_year": "FY26",
+          "content_hash": "01c2e678f6",
+          "document_type": "annual_report",
+          "section_title": "One World Bank Group"
+        },
+        "score": 0.026014,
+        "hit": false
+      },
+      {
+        "id": "wbg-ar-2026:p30:para:001",
+        "text": "MILLIONS OF DOLLARS\nREGION FY26 FY25 FY24 FY23 FY22\nEastern and Southern Africa 12,770 11,974 10,696 10,417 7,133\nWestern and Central Africa 8,571 8,143 9,007 7,948 6,544\nEast Asia and Pacific 1,128 1,232 1,015 1,448 1,502\nEurope and Central Asia 2,452 6,165 1,187 2,385 764\nLatin America and the Caribbean 494 616 602 322 510\nMiddle East, North Africa, Afghanistan, and Pakistana 1,785 1,969 587 552 559\nSouth Asiaa 2,516 3,024 5,153 4,646 4,202\nTotalb 29,716 33,123 28,247 27,718 21,214\na. Effective July 1, 2025, Afghanistan and Pakistan have moved from the South Asia Region to the Middle East, North Africa,\nAfghanistan, and Pakistan Region. Only fiscal 2025 numbers have been reclassified for comparability.\nb. Excludes IDA-IFC-MIGA PSW activities, the Grant Facility for Project Preparation activities, and the Trust Fund for Gaza and West\nBank activities.\nTABLE 11: IDA NET COMMITMENTS BY SECTOR, FISCAL 2025–26",
+        "source_id": "wbg-ar-2026",
+        "source": "https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content",
+        "page": 30,
+        "metadata": {
+          "chunker": "para",
+          "section": "ibrd_ida",
+          "char_end": 1529,
+          "language": "en",
+          "char_start": 610,
+          "fiscal_year": "FY26",
+          "content_hash": "ea51e51793",
+          "document_type": "annual_report",
+          "section_title": "World Bank (IBRD/IDA)"
+        },
+        "score": 0.024585,
+        "hit": false
+      }
+    ],
+    "context": "[wbg-ar-2026:p41:para:001 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 41]\nGUARANTEE TRUST FUND\nA notable milestone during this reporting period was\nthe Kingdom of Norway’s decision to join MIGA’s West\nBank and Gaza Investment Guarantee Trust Fund as a\nnew donor, pledging approximately $5 million over five\nyears. This contribution, formalized on the sidelines\nof the 2025 World Bank Group–IMF Annual Meetings,\nmarks the first expansion of the donor base since\nthe trust fund’s establishment in 1997 and reflects\ngrowing international confidence in MIGA’s ability\nto operate in highly fragile environments. Norway’s\nsupport will strengthen the fund’s capacity to provide\npolitical risk insurance, and trade finance guarantees\nin collaboration with IFC and the European Bank for\nReconstruction and Development and mobilize private\ninvestment in the West Bank and Gaza, where elevated\nrisks have historically constrained capital flows. This will\nhelp sustain economic activity, support job creation,\nand advance recovery and reconstruction efforts.\nMIGA EXPANDS GLOBAL\n\n[wbg-ar-2026:p41:para:005 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 41]\nTHROUGH GUARANTEES\nThe government of Japan and MIGA deepened a\nlong-standing partnership to scale up the mobilization\nof private capital in developing countries. Japan\ncommitted nearly $20 million in additional funding to\nMIGA-administered trust funds, reinforcing its position\nas a leading contributor and strategic partner. This\nsupport will expand MIGA’s ability to deploy political\nrisk insurance and trade finance guarantees in fragile\nand conflict-affected situations — including Ukraine and\nthe West Bank and Gaza — as well as to advance energy\ntransition projects in emerging and frontier markets\nwith a focus on Sub-Saharan Africa. The partnership\nunderscores Japan’s continued leadership in leveraging\ninnovative financing solutions through the World\nBank Group Guarantee Platform to crowd in private\ninvestment where it is most needed and where risks\nremain highest.\nGUARANTEEING FINANCIAL\n\n[wbg-ar-2026:p25:para:010 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 25]\nDE-RISKING THROUGH GUARANTEES\nMIGA completes the World Bank Group’s integrated\napproach by using trust funds to provide guarantee\ninstruments that de-risk investments for both public\nand private sector projects. Trust funds, including the\nRenewable Energy Catalyst Trust Fund, the West Bank\nand Gaza Trust Fund, and the Support for Ukraine’s\nReconstruction and Economy Trust Fund, share\nguarantee exposure on individual projects via first-loss\nlayers and reinsurance. These instruments enable MIGA\nto bridge the World Bank’s public sector work and IFC’s\nprivate sector investments by guaranteeing higher-risk\nprojects and increasing investor confidence, particularly\nin fragile and conflict-affected settings, while advancing\njob creation and women’s economic empowerment.\nThe Fund for Advancing Sustainability complements\nthese efforts by strengthening environmental, social,\nand gender practices and broadening access to\nguarantees for small businesses in low-income\nand fragile countries.\n47\nTHE WORLD BANK GROUP ANNUAL REPORT 202646\nTHE WORLD BANK GROUP ANNUAL REPORT 2026\n\n[wbg-ar-2026:p41:para:004 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 41]\nTogether, these\nagreements reflect MIGA’s commitment to deepening\nmultilateral cooperation and scaling private investment\nmobilization across regions where it is needed most.\nMIGA also contributed to broader World Bank Groupwide partnership agreements, further reinforcing\nthe institution’s role within the World Bank Group’s\ncollective engagement with key global partners.\nJAPAN DEEPENS PARTNERSHIP\nWITH MIGA TO MOBILIZE MORE PRIVATE\nCAPITAL FOR DEVELOPING COUNTRIES\n\n[wbg-ar-2026:p25:para:004 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 25]\nAlso in\nfiscal 2026, Italy joined eight other IFC development\npartners — Belgium, the European Commission, France,\nJapan, the Netherlands, Norway, Switzerland, and\nthe United Kingdom — to support IFC’s investment\nprogram in Ukraine, which helps sustain critical sectors\nand supports Ukraine’s reconstruction, including\nagribusiness, energy, and technology, and enables\nbusinesses to continue operating despite security risks,\nlabor shortages, and rising input costs. IFC trust funds\nhave now received more than $1 billion in concessional\nfinance commitments for Ukraine.\n\n[wbg-ar-2026:p25:para:000 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 25]\nTRUST FUNDS\nThe World Bank Group manages a diverse portfolio of\ntrust funds, which receive resources from more than\n100 donors. Trust funds are part of the World Bank\nGroup’s toolkit and complement its core financing.\nThey can mobilize funding quickly to fill financing gaps,\noffset risks, and provide flexibility. This often means the\nWorld Bank Group can work in the most challenging\nenvironments and deliver impact even where core\nfinancing is limited or unavailable. Trust funds broaden\nWorld Bank Group partnerships to more effectively\naddress country, regional, and global challenges.\nTrust funds also serve as force multipliers for the World\nBank Group’s development impact, enabling IBRD to\nbuild public sector foundations, IFC to catalyze private\ninvestment, and MIGA to de-risk both. This integrated\napproach unlocks private investment and delivers\nresults at scale by leveraging each institution’s unique\nstrengths while working cohesively toward shared\ndevelopment objectives.\n\n[wbg-ar-2026:p25:para:001 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 25]\nWhile trust funds can vary in\nsize and scope, they all serve the World Bank Group’s\nmission to end extreme poverty and boost shared\nprosperity on a livable planet.\nThe World Bank uses trust funds to strengthen the\npublic sector foundations essential for development.\nAt the end of fiscal 2026, World Bank trust funds\nheld $27.9 billion in trust as cash, investments, and\npromissory notes. In the last five years (fiscal 2022–26),\n91 percent ($67.2 billion) of World Bank trust fund\ndisbursements went to recipient-executed activities in\nmember countries, helping to build the foundations\nfor job growth including infrastructure, institutions,\nand human capital. Of this amount, over $8.1 billion\nwas disbursed to IDA and IDA-blend countries (i.e.,\ncountries eligible for both IDA and IBRD lending). Trust\nfunds serve as engines of innovation, funding about\ntwo-thirds of the World Bank’s advisory services and\nanalytics that lay the groundwork for both public and\nprivate investment.\n\n[wbg-ar-2026:p28:para:004 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 28]\nAs a cooperative institution, IBRD does not seek to\nmaximize profit but rather to earn enough income to\nensure the long-term financial capacity necessary to\nsustain its development activities. Allocable net income\nin fiscal 2026 was $2.3 billion, and out of this, the\nExecutive Directors approved the allocation of\n$1.1 billion to the General Reserve, and recommended\nto the Board of Governors an allocation of $750 million\nto IDA and $500 million to Surplus. Further, the Board\nrecommended to IBRD’s Board of Governors the\nfollowing transfers out of Surplus: $300 million to the\nIBRD Trust Fund for Gaza and West Bank, $100 million\nto the Grant Facility for Project Preparation, and\n$100 million to the IBRD Surplus-Funded Livable Planet\nFund. As part of its lending, borrowing, and investment\nactivities, IBRD is exposed to market, counterparty,\ncountry credit, and operational risks.\n\n[wbg-ar-2026:p25:para:009 | https://openknowledge.worldbank.org/server/api/core/bitstreams/05a5e2d6-3aae-48cd-af02-e4c6d974ead4/content | page 25]\nIn the Democratic Republic\nof the Congo, the United Kingdom, through a new trust\nfund contribution, supported IFC’s Scaling Finance for\nAgribusinesses program, which aims to create jobs and\nimprove livelihoods by expanding access to finance,\nagricultural equipment, and business opportunities\nfor women entrepreneurs, smallholder farmers, and\nagricultural small businesses. In Ukraine, the JapanIFC Comprehensive Trust Fund is supporting the\ndevelopment of the NovaSklo Greenfield project, which\naims to establish the country’s first domestic floatglass manufacturing facility through feasibility, risk,\nenvironmental and social, and corporate governance\nreviews; financial modeling; and prospective investor\nengagement. Once operational, it is expected to\nsupport Ukraine’s reconstruction by reducing reliance\non imports, creating more than 300 direct jobs, and\ngenerating additional employment across related\nvalue chains.",
+    "context_ids": [
+      "wbg-ar-2026:p41:para:001",
+      "wbg-ar-2026:p41:para:005",
+      "wbg-ar-2026:p25:para:010",
+      "wbg-ar-2026:p41:para:004",
+      "wbg-ar-2026:p25:para:004",
+      "wbg-ar-2026:p25:para:000",
+      "wbg-ar-2026:p25:para:001",
+      "wbg-ar-2026:p28:para:004",
+      "wbg-ar-2026:p25:para:009"
+    ],
+    "context_chars": 9125,
+    "elapsed_ms": 49.68,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {"query_id": "q01", "answer_grade": 2, "citation_support": [true, true], "notes": "p6:para:002 và p5:para:001 đều ghi thời gian chuẩn bị/phê duyệt dự án giảm từ 19 xuống 9 tháng. (Chấm bởi Claude sau khi đọc các chunk trích dẫn; cần người học rà soát.)"},
+  {"query_id": "q02", "answer_grade": 2, "citation_support": [true, true], "notes": "p32:para:001 và p5:para:005 đều ghi $112 billion, hơn gấp ba $35 billion của FY22."},
+  {"query_id": "q03", "answer_grade": 2, "citation_support": [true], "notes": "p9:para:001: khoảng 40% nguồn nước sinh hoạt của Jordan vào 2030."},
+  {"query_id": "q04", "answer_grade": 2, "citation_support": [true], "notes": "p10:para:002: khoảng 800,000 người."},
+  {"query_id": "q05", "answer_grade": 2, "citation_support": [true, true], "notes": "p11:para:000 nêu 1 triệu trang trại cùng công nghệ/logistics/bảo hiểm; p11:para:001 xác nhận 1M trang trại được hỗ trợ đến 2030."},
+  {"query_id": "q06", "answer_grade": 2, "citation_support": [true], "notes": "p13:para:002: tăng 60% lượng hành khách từ 2022."},
+  {"query_id": "q07", "answer_grade": 2, "citation_support": [true], "notes": "p14:para:000: $25 million vào Hygenco. Bỏ chi tiết phụ 'đầu tư hydro xanh trực tiếp đầu tiên ở Ấn Độ', câu hỏi chỉ hỏi số tiền."},
+  {"query_id": "q08", "answer_grade": 2, "citation_support": [true], "notes": "Đã sửa so với bản gốc (từ chối nhầm). p16:para:000 khớp đầy đủ: 250 triệu người ở châu Phi có điện đến 2030, thêm 50 triệu từ AfDB."},
+  {"query_id": "q09", "answer_grade": 2, "citation_support": [true], "notes": "p18:para:003: CPF thường 4-6 năm, tối đa 10 năm."},
+  {"query_id": "q10", "answer_grade": 2, "citation_support": [true], "notes": "p23:para:002: 63 vụ ở 30 nước."},
+  {"query_id": "q11", "answer_grade": 2, "citation_support": [true], "notes": "p20:para:001: $150 million từ trái phiếu thiên tai phát hành 2024. Lưu ý: câu trả lời bằng tiếng Việt trong khi câu hỏi tiếng Anh; nội dung đúng."},
+  {"query_id": "q12", "answer_grade": 2, "citation_support": [true], "notes": "p21:para:008: ESF áp dụng cho IPF có concept decision từ 01/10/2018. Bỏ con số 75% danh mục, câu hỏi chỉ hỏi phạm vi."},
+  {"query_id": "q13", "answer_grade": 2, "citation_support": [true], "notes": "p39:para:000: $41.4 billion, mức cao kỷ lục. Bỏ mức tăng 13%, câu hỏi chỉ hỏi giá trị."},
+  {"query_id": "q14", "answer_grade": 2, "citation_support": [true], "notes": "p38:para:001: $17.9 billion, 110 dự án, 32 nước. Đủ hai ý được hỏi."},
+  {"query_id": "q15", "answer_grade": 2, "citation_support": [true], "notes": "p31:para:005: 80 nước."},
+  {"query_id": "q16", "answer_grade": 2, "citation_support": [true], "notes": "Đã sửa so với bản gốc (từ chối nhầm). p33:para:000 chứa dòng bảng Net Income 2,038 (triệu USD); hybrid tìm được nhờ thành phần lexical, dense không tìm được trong top-20."},
+  {"query_id": "u01", "abstention_correct": true, "citation_support": [], "notes": "Đúng: tài liệu không có lương/thù lao của Chủ tịch."},
+  {"query_id": "u02", "abstention_correct": true, "citation_support": [], "notes": "Đúng: tài liệu không nhắc hãng hàng không hay đối tác du lịch độc quyền."}
+]
